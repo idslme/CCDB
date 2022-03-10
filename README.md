@@ -1,6 +1,6 @@
 # ChemCorDB
 
-Integrated Data Science Laboratory for Metabolomics and Exposomics (IDSL-ME) - Chemical Correlation Database (ChemCorDB) provides online access to indexed untargeted metabolomics datasets for retrieving correlating compounds for a single input prioritized query compound in a compound-centric approach. It enable learning of a chemical's relationships with other chemicals present in a metabolomics datasets. Key applications are to explore - exposure-metabolism, exposure-exposure and metabolite-metabolite relationships. 
+Integrated Data Science Laboratory for Metabolomics and Exposomics (IDSL-ME) - Chemical Correlation Database (ChemCorDB) provides online access to inter-chemical correlation data indexed from untargeted metabolomics datasets. It can be used to retrieve correlating compounds for a single query compound in a compound-centric approach. It enable learning of a chemical's relationships with other chemicals reported in a metabolomics dataset. Key applications are to explore - exposure-metabolism, exposure-exposure and metabolite-metabolite relationships. 
 
 # Recommend a database
 
