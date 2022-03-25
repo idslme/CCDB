@@ -1,0 +1,657 @@
+compound_id	chemical_name	analysismode	mz	rt	BIOCHEMICAL
+C000001	1-(1-enyl-oleoyl)-GPE (P-18:1)	RP_POS	464.3136	1566	1-(1-enyl-oleoyl)-GPE (P-18:1)
+C000002	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)	RP_POS	766.5745	2154	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)
+C000003	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)	RP_POS	724.5276	2270	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)
+C000004	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)	RP_POS	742.5745	2226	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)
+C000005	1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)	RP_POS	700.5276	2351	1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)
+C000006	1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)	RP_POS	744.5902	2443	1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)
+C000007	1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)	RP_POS	702.5432	2600	1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)
+C000008	1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)	RP_POS	716.5589	2218	1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)
+C000009	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)	RP_POS	718.5745	2454	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)
+C000010	1-(1-enyl-palmitoyl)-GPC (P-16:0)	RP_POS	480.3449	1547	1-(1-enyl-palmitoyl)-GPC (P-16:0)
+C000011	1-(1-enyl-palmitoyl)-GPE (P-16:0)	RP_POS	438.2979	1558	1-(1-enyl-palmitoyl)-GPE (P-16:0)
+C000012	1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)	RP_POS	752.5589	2511	1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)
+C000013	1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)	RP_POS	728.5589	2633	1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)
+C000014	1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)	RP_POS	730.5745	2950	1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)
+C000015	1-(1-enyl-stearoyl)-GPE (P-18:0)	RP_POS	466.3292	1649	1-(1-enyl-stearoyl)-GPE (P-18:0)
+C000016	1-arachidonoyl-GPC (20:4n6)	RP_POS	544.3398	1460	1-arachidonoyl-GPC (20:4n6)
+C000017	1-arachidonoyl-GPE (20:4n6)	RP_POS	502.2928	1470	1-arachidonoyl-GPE (20:4n6)
+C000018	1-arachidonylglycerol (20:4)	RP_POS	396.3108	1568	1-arachidonylglycerol (20:4)
+C000019	1-docosahexaenoylglycerol (22:6)	RP_POS	420.3108	1542	1-docosahexaenoylglycerol (22:6)
+C000020	1-lignoceroyl-GPC (24:0)	RP_POS	608.465	1907	1-lignoceroyl-GPC (24:0)
+C000021	1-linolenoyl-GPC (18:3)	RP_POS	518.3241	1410	1-linolenoyl-GPC (18:3)
+C000022	1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)	RP_POS	806.5694	1969	1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)
+C000023	1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)	RP_POS	780.5538	1939	1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)
+C000024	1-linoleoyl-GPC (18:2)	RP_POS	520.3398	1465	1-linoleoyl-GPC (18:2)
+C000025	1-linoleoyl-GPE (18:2)	RP_POS	478.2928	1482	1-linoleoyl-GPE (18:2)
+C000026	1-linoleoylglycerol (18:2)	RP_POS	372.3108	1595	1-linoleoylglycerol (18:2)
+C000027	1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)	RP_POS	754.5381	1914	1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)
+C000028	1-myristoyl-2-palmitoyl-GPC (14:0/16:0)	RP_POS	706.5381	2147	1-myristoyl-2-palmitoyl-GPC (14:0/16:0)
+C000029	1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)	RP_POS	832.5851	2011	1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)
+C000030	1-oleoyl-2-linoleoyl-GPE (18:1/18:2)	RP_POS	742.5381	2270	1-oleoyl-2-linoleoyl-GPE (18:1/18:2)
+C000031	1-oleoyl-GPC (18:1)	RP_POS	522.3554	1540	1-oleoyl-GPC (18:1)
+C000032	1-oleoyl-GPE (18:1)	RP_POS	480.3085	1554	1-oleoyl-GPE (18:1)
+C000033	1-oleoylglycerol (18:1)	RP_POS	374.3265	1695	1-oleoylglycerol (18:1)
+C000034	1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)	RP_POS	754.5381	1850	1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)
+C000035	1-palmitoleoyl-GPC (16:1)	RP_POS	494.3241	1450	1-palmitoleoyl-GPC (16:1)
+C000036	1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6)	RP_POS	782.5694	2091	1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6)
+C000037	1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)	RP_POS	740.5225	2198	1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)
+C000038	1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)	RP_POS	876.5597	2567	1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)
+C000039	1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)	RP_POS	806.5694	2023	1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)
+C000040	1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)	RP_POS	764.5225	2119	1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)
+C000041	1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)	RP_POS	758.5694	2160	1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)
+C000042	1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)	RP_POS	716.5225	2275	1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)
+C000043	1-palmitoyl-2-linoleoyl-GPI (16:0/18:2)	RP_POS	852.5597	2730	1-palmitoyl-2-linoleoyl-GPI (16:0/18:2)
+C000044	1-palmitoyl-2-oleoyl-GPC (16:0/18:1)	RP_POS	760.5851	2358	1-palmitoyl-2-oleoyl-GPC (16:0/18:1)
+C000045	1-palmitoyl-2-oleoyl-GPE (16:0/18:1)	RP_POS	718.5381	2509	1-palmitoyl-2-oleoyl-GPE (16:0/18:1)
+C000046	1-palmitoyl-2-oleoyl-GPI (16:0/18:1)	RP_POS	854.5753	3140	1-palmitoyl-2-oleoyl-GPI (16:0/18:1)
+C000047	1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)	RP_POS	732.5538	2160	1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)
+C000048	1-palmitoyl-2-stearoyl-GPC (16:0/18:0)	RP_POS	762.6007	2653	1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+C000049	1-palmitoyl-GPC (16:0)	RP_POS	496.3398	1525	1-palmitoyl-GPC (16:0)
+C000050	1-palmitoyl-GPE (16:0)	RP_POS	454.2928	1544	1-palmitoyl-GPE (16:0)
+C000051	1-palmitoylglycerol (16:0)	RP_POS	348.3108	1689	1-palmitoylglycerol (16:0)
+C000052	1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)	RP_POS	810.6007	2300	1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)
+C000053	1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)	RP_POS	768.5538	2424	1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)
+C000054	1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)	RP_POS	904.591	3000	1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)
+C000055	1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)	RP_POS	834.6013	2197	1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)
+C000056	1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)	RP_POS	792.5538	2317	1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)
+C000057	1-stearoyl-2-linoleoyl-GPC (18:0/18:2)	RP_POS	786.6007	2380	1-stearoyl-2-linoleoyl-GPC (18:0/18:2)
+C000058	1-stearoyl-2-linoleoyl-GPE (18:0/18:2)	RP_POS	744.5538	2522	1-stearoyl-2-linoleoyl-GPE (18:0/18:2)
+C000059	1-stearoyl-2-linoleoyl-GPI (18:0/18:2)	RP_POS	880.591	3185	1-stearoyl-2-linoleoyl-GPI (18:0/18:2)
+C000060	1-stearoyl-2-oleoyl-GPC (18:0/18:1)	RP_POS	788.6164	2644	1-stearoyl-2-oleoyl-GPC (18:0/18:1)
+C000061	1-stearoyl-2-oleoyl-GPE (18:0/18:1)	RP_POS	746.5694	2858	1-stearoyl-2-oleoyl-GPE (18:0/18:1)
+C000062	1-stearoyl-2-oleoyl-GPI (18:0/18:1)	RP_POS	882.6066	3711	1-stearoyl-2-oleoyl-GPI (18:0/18:1)
+C000063	1-stearoyl-2-oleoyl-GPS (18:0/18:1)	RP_POS	790.5593	3000	1-stearoyl-2-oleoyl-GPS (18:0/18:1)
+C000064	1-stearoyl-GPC (18:0)	RP_POS	524.3711	1606	1-stearoyl-GPC (18:0)
+C000065	1-stearoyl-GPE (18:0)	RP_POS	482.3241	1626	1-stearoyl-GPE (18:0)
+C000066	1,2-dilinoleoyl-GPC (18:2/18:2)	RP_POS	782.5694	2006	1,2-dilinoleoyl-GPC (18:2/18:2)
+C000067	1,2-dilinoleoyl-GPE (18:2/18:2)	RP_POS	740.5225	2083	1,2-dilinoleoyl-GPE (18:2/18:2)
+C000068	1,2-dipalmitoyl-GPC (16:0/16:0)	RP_POS	734.5694	2365	1,2-dipalmitoyl-GPC (16:0/16:0)
+C000069	4-cholesten-3-one	RP_POS	385.3465	2520	4-cholesten-3-one
+C000070	alpha-tocopherol	RP_POS	430.3782	2522	alpha-tocopherol
+C000071	arachidonoylcarnitine (C20:4)	RP_POS	448.3422	1353	arachidonoylcarnitine (C20:4)
+C000072	arachidonoylcholine	RP_POS	390.3367	1390	arachidonoylcholine
+C000073	arachidoylcarnitine (C20)	RP_POS	456.4047	1512	arachidoylcarnitine (C20)
+C000074	behenoyl dihydrosphingomyelin (d18:0/22:0)	RP_POS	789.6844	3150	behenoyl dihydrosphingomyelin (d18:0/22:0)
+C000075	behenoyl sphingomyelin (d18:1/22:0)	RP_POS	787.6688	3083	behenoyl sphingomyelin (d18:1/22:0)
+C000076	beta-cryptoxanthin	RP_POS	552.4326	2560	beta-cryptoxanthin
+C000077	bilirubin (E,E)	RP_POS	585.2708	1045	bilirubin (E,E)
+C000078	bilirubin (Z,Z)	RP_POS	585.2708	1840	bilirubin (Z,Z)
+C000079	biliverdin	RP_POS	583.2551	1016	biliverdin
+C000080	carotene diol (1)	RP_POS	568.4276	1720	carotene diol (1)
+C000081	carotene diol (2)	RP_POS	568.4279	1904	carotene diol (2)
+C000082	carotene diol (3)	RP_POS	568.4279	1948	carotene diol (3)
+C000083	ceramide (d16:1/24:1, d18:1/22:1)	RP_POS	620.5976	3850	ceramide (d16:1/24:1, d18:1/22:1)
+C000084	ceramide (d18:1/14:0, d16:1/16:0)	RP_POS	510.4881	2477	ceramide (d18:1/14:0, d16:1/16:0)
+C000085	ceramide (d18:1/17:0, d17:1/18:0)	RP_POS	552.5351	3055	ceramide (d18:1/17:0, d17:1/18:0)
+C000086	ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)	RP_POS	594.582	3920	ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)
+C000087	ceramide (d18:2/24:1, d18:1/24:2)	RP_POS	646.6133	3858	ceramide (d18:2/24:1, d18:1/24:2)
+C000088	cerotoylcarnitine (C26)	RP_POS	540.4986	1649	cerotoylcarnitine (C26)
+C000089	cholesterol	RP_POS	369.3516	2707	cholesterol
+C000090	cis-4-decenoylcarnitine (C10:1)	RP_POS	314.2326	1057	cis-4-decenoylcarnitine (C10:1)
+C000091	decanoylcarnitine (C10)	RP_POS	316.2482	1130	decanoylcarnitine (C10)
+C000092	diacylglycerol (12:0/18:1, 14:0/16:1, 16:0/14:1) [2]	RP_POS	556.4936	2716	diacylglycerol (12:0/18:1, 14:0/16:1, 16:0/14:1) [2]
+C000093	diacylglycerol (14:0/18:1, 16:0/16:1) [1]	RP_POS	584.5249	3057	diacylglycerol (14:0/18:1, 16:0/16:1) [1]
+C000094	diacylglycerol (14:0/18:1, 16:0/16:1) [2]	RP_POS	584.5249	3183	diacylglycerol (14:0/18:1, 16:0/16:1) [2]
+C000095	diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])	RP_POS	608.5249	2733	diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])
+C000096	dihomo-linolenoylcarnitine (C20:3n3 or 6)	RP_POS	450.3578	1392	dihomo-linolenoylcarnitine (C20:3n3 or 6)
+C000097	dihomo-linoleoylcarnitine (C20:2)	RP_POS	452.3734	1436	dihomo-linoleoylcarnitine (C20:2)
+C000098	docosahexaenoylcarnitine (C22:6)	RP_POS	472.3422	1349	docosahexaenoylcarnitine (C22:6)
+C000099	docosahexaenoylcholine	RP_POS	414.3367	1378	docosahexaenoylcholine
+C000100	gamma-tocopherol/beta-tocopherol	RP_POS	416.3643	2384	gamma-tocopherol/beta-tocopherol
+C000101	glycosyl ceramide (d16:1/24:1, d18:1/22:1)	RP_POS	782.6505	3373	glycosyl ceramide (d16:1/24:1, d18:1/22:1)
+C000102	glycosyl ceramide (d18:1/20:0, d16:1/22:0)	RP_POS	756.6348	3414	glycosyl ceramide (d18:1/20:0, d16:1/22:0)
+C000103	glycosyl ceramide (d18:1/23:1, d17:1/24:1)	RP_POS	796.6661	3667	glycosyl ceramide (d18:1/23:1, d17:1/24:1)
+C000104	glycosyl ceramide (d18:2/24:1, d18:1/24:2)	RP_POS	808.6661	3380	glycosyl ceramide (d18:2/24:1, d18:1/24:2)
+C000105	glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH))	RP_POS	826.6767	3839	glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH))
+C000106	glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)	RP_POS	782.6505	3420	glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)
+C000107	glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)	RP_POS	700.5722	2623	glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+C000108	glycosyl-N-stearoyl-sphingosine (d18:1/18:0)	RP_POS	728.6035	3053	glycosyl-N-stearoyl-sphingosine (d18:1/18:0)
+C000109	heme	RP_POS	616.1762	1124	heme
+C000110	hexanoylcarnitine (C6)	RP_POS	260.1856	800	hexanoylcarnitine (C6)
+C000111	lactosyl-N-behenoyl-sphingosine (d18:1/22:0)	RP_POS	946.7189	3842	lactosyl-N-behenoyl-sphingosine (d18:1/22:0)
+C000112	lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)	RP_POS	972.7346	3778	lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)
+C000113	lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)	RP_POS	862.625	2527	lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)
+C000114	laurylcarnitine (C12)	RP_POS	344.2795	1235	laurylcarnitine (C12)
+C000115	lignoceroyl sphingomyelin (d18:1/24:0)	RP_POS	815.7001	3437	lignoceroyl sphingomyelin (d18:1/24:0)
+C000116	lignoceroylcarnitine (C24)	RP_POS	512.4673	1603	lignoceroylcarnitine (C24)
+C000117	linolenoylcarnitine (C18:3)	RP_POS	422.3265	1310	linolenoylcarnitine (C18:3)
+C000118	linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]	RP_POS	658.5405	2590	linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]
+C000119	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]	RP_POS	682.5405	2450	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]
+C000120	linoleoyl-linolenoyl-glycerol (18:2/18:3) [1]	RP_POS	632.5249	2426	linoleoyl-linolenoyl-glycerol (18:2/18:3) [1]
+C000121	linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]	RP_POS	634.5405	2720	linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]
+C000122	linoleoylcarnitine (C18:2)	RP_POS	424.3421	1430	linoleoylcarnitine (C18:2)
+C000123	linoleoylcholine	RP_POS	366.3367	1388	linoleoylcholine
+C000124	margaroylcarnitine (C17)	RP_POS	414.3578	1424	margaroylcarnitine (C17)
+C000125	myristoleoylcarnitine (C14:1)	RP_POS	370.2947	1316	myristoleoylcarnitine (C14:1)
+C000126	myristoyl dihydrosphingomyelin (d18:0/14:0)	RP_POS	677.5592	2060	myristoyl dihydrosphingomyelin (d18:0/14:0)
+C000127	myristoyl-linoleoyl-glycerol (14:0/18:2) [1]	RP_POS	582.5092	2679	myristoyl-linoleoyl-glycerol (14:0/18:2) [1]
+C000128	myristoyl-linoleoyl-glycerol (14:0/18:2) [2]	RP_POS	582.5092	2720	myristoyl-linoleoyl-glycerol (14:0/18:2) [2]
+C000129	myristoylcarnitine (C14)	RP_POS	372.3108	1350	myristoylcarnitine (C14)
+C000130	N-behenoyl-sphingadienine (d18:2/22:0)	RP_POS	620.5976	3911	N-behenoyl-sphingadienine (d18:2/22:0)
+C000131	N-palmitoyl-sphingadienine (d18:2/16:0)	RP_POS	536.5037	2490	N-palmitoyl-sphingadienine (d18:2/16:0)
+C000132	N-palmitoyl-sphinganine (d18:0/16:0)	RP_POS	540.535	3090	N-palmitoyl-sphinganine (d18:0/16:0)
+C000133	N-palmitoyl-sphingosine (d18:1/16:0)	RP_POS	538.5194	2893	N-palmitoyl-sphingosine (d18:1/16:0)
+C000134	N-stearoyl-sphingadienine (d18:2/18:0)	RP_POS	564.535	2846	N-stearoyl-sphingadienine (d18:2/18:0)
+C000135	N-stearoyl-sphinganine (d18:0/18:0)	RP_POS	568.5663	3526	N-stearoyl-sphinganine (d18:0/18:0)
+C000136	N-stearoyl-sphingosine (d18:1/18:0)	RP_POS	566.5507	3392	N-stearoyl-sphingosine (d18:1/18:0)
+C000137	octadecanedioylcarnitine (C18-DC)	RP_POS	458.3476	1227	octadecanedioylcarnitine (C18-DC)
+C000138	octadecenedioylcarnitine (C18:1-DC)	RP_POS	456.332	1180	octadecenedioylcarnitine (C18:1-DC)
+C000139	octanoylcarnitine (C8)	RP_POS	288.2169	950	octanoylcarnitine (C8)
+C000140	oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]	RP_POS	660.5562	2907	oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]
+C000141	oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]	RP_POS	660.5562	2990	oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]
+C000142	oleoyl-linoleoyl-glycerol (18:1/18:2) [1]	RP_POS	636.5562	3115	oleoyl-linoleoyl-glycerol (18:1/18:2) [1]
+C000143	oleoyl-linoleoyl-glycerol (18:1/18:2) [2]	RP_POS	636.5562	3223	oleoyl-linoleoyl-glycerol (18:1/18:2) [2]
+C000144	oleoyl-oleoyl-glycerol (18:1/18:1) [1]	RP_POS	638.5718	3571	oleoyl-oleoyl-glycerol (18:1/18:1) [1]
+C000145	oleoyl-oleoyl-glycerol (18:1/18:1) [2]	RP_POS	638.5718	3695	oleoyl-oleoyl-glycerol (18:1/18:1) [2]
+C000146	oleoylcarnitine (C18:1)	RP_POS	426.3578	1423	oleoylcarnitine (C18:1)
+C000147	oleoylcholine	RP_POS	368.3523	1449	oleoylcholine
+C000148	palmitoleoyl-linoleoyl-glycerol (16:1/18:2) [1]	RP_POS	608.5249	2664	palmitoleoyl-linoleoyl-glycerol (16:1/18:2) [1]
+C000149	palmitoleoylcarnitine (C16:1)	RP_POS	398.3265	1357	palmitoleoylcarnitine (C16:1)
+C000150	palmitoyl dihydrosphingomyelin (d18:0/16:0)	RP_POS	705.5905	2290	palmitoyl dihydrosphingomyelin (d18:0/16:0)
+C000151	palmitoyl sphingomyelin (d18:1/16:0)	RP_POS	703.5749	2168	palmitoyl sphingomyelin (d18:1/16:0)
+C000152	palmitoyl-arachidonoyl-glycerol (16:0/20:4) [1]	RP_POS	634.5405	2916	palmitoyl-arachidonoyl-glycerol (16:0/20:4) [1]
+C000153	palmitoyl-arachidonoyl-glycerol (16:0/20:4) [2]	RP_POS	634.5405	3015	palmitoyl-arachidonoyl-glycerol (16:0/20:4) [2]
+C000154	palmitoyl-docosahexaenoyl-glycerol (16:0/22:6) [1]	RP_POS	658.5405	2749	palmitoyl-docosahexaenoyl-glycerol (16:0/22:6) [1]
+C000155	palmitoyl-linoleoyl-glycerol (16:0/18:2) [1]	RP_POS	610.5405	3080	palmitoyl-linoleoyl-glycerol (16:0/18:2) [1]
+C000156	palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]	RP_POS	610.5405	3197	palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]
+C000157	palmitoyl-myristoyl-glycerol (16:0/14:0) [1]	RP_POS	558.5092	3054	palmitoyl-myristoyl-glycerol (16:0/14:0) [1]
+C000158	palmitoyl-myristoyl-glycerol (16:0/14:0) [2]	RP_POS	558.5092	3180	palmitoyl-myristoyl-glycerol (16:0/14:0) [2]
+C000159	palmitoyl-oleoyl-glycerol (16:0/18:1) [1]	RP_POS	612.5562	3562	palmitoyl-oleoyl-glycerol (16:0/18:1) [1]
+C000160	palmitoyl-oleoyl-glycerol (16:0/18:1) [2]	RP_POS	612.5562	3695	palmitoyl-oleoyl-glycerol (16:0/18:1) [2]
+C000161	palmitoyl-palmitoyl-glycerol (16:0/16:0) [1]	RP_POS	586.5405	3568	palmitoyl-palmitoyl-glycerol (16:0/16:0) [1]
+C000162	palmitoyl-palmitoyl-glycerol (16:0/16:0) [2]	RP_POS	586.5405	3734	palmitoyl-palmitoyl-glycerol (16:0/16:0) [2]
+C000163	palmitoylcarnitine (C16)	RP_POS	400.3421	1425	palmitoylcarnitine (C16)
+C000164	palmitoylcholine	RP_POS	342.3367	1482	palmitoylcholine
+C000165	retinol (Vitamin A)	RP_POS	269.2264	1636	retinol (Vitamin A)
+C000166	sphinganine	RP_POS	302.3054	1413	sphinganine
+C000167	sphinganine-1-phosphate	RP_POS	382.2717	1431	sphinganine-1-phosphate
+C000168	sphingomyelin (d17:1/14:0, d16:1/15:0)	RP_POS	661.5279	1950	sphingomyelin (d17:1/14:0, d16:1/15:0)
+C000169	sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)	RP_POS	689.5592	2082	sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)
+C000170	sphingomyelin (d17:2/16:0, d18:2/15:0)	RP_POS	687.5436	1837	sphingomyelin (d17:2/16:0, d18:2/15:0)
+C000171	sphingomyelin (d18:0/18:0, d19:0/17:0)	RP_POS	733.6218	2362	sphingomyelin (d18:0/18:0, d19:0/17:0)
+C000172	sphingomyelin (d18:0/20:0, d16:0/22:0)	RP_POS	761.6531	2600	sphingomyelin (d18:0/20:0, d16:0/22:0)
+C000173	sphingomyelin (d18:1/14:0, d16:1/16:0)	RP_POS	675.5436	1998	sphingomyelin (d18:1/14:0, d16:1/16:0)
+C000174	sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)	RP_POS	717.5905	2312	sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)
+C000175	sphingomyelin (d18:1/18:1, d18:2/18:0)	RP_POS	729.5905	2167	sphingomyelin (d18:1/18:1, d18:2/18:0)
+C000176	sphingomyelin (d18:1/19:0, d19:1/18:0)	RP_POS	745.6218	2330	sphingomyelin (d18:1/19:0, d19:1/18:0)
+C000177	sphingomyelin (d18:1/20:0, d16:1/22:0)	RP_POS	759.6375	2685	sphingomyelin (d18:1/20:0, d16:1/22:0)
+C000178	sphingomyelin (d18:1/20:1, d18:2/20:0)	RP_POS	757.6218	2383	sphingomyelin (d18:1/20:1, d18:2/20:0)
+C000179	sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)	RP_POS	755.6062	2039	sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)
+C000180	sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)	RP_POS	773.6531	2793	sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)
+C000181	sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)	RP_POS	785.6531	2666	sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)
+C000182	sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)	RP_POS	783.6375	2209	sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)
+C000183	sphingomyelin (d18:1/24:1, d18:2/24:0)	RP_POS	813.6844	3033	sphingomyelin (d18:1/24:1, d18:2/24:0)
+C000184	sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)	RP_POS	829.7157	3500	sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)
+C000185	sphingomyelin (d18:2/14:0, d18:1/14:1)	RP_POS	673.5279	1860	sphingomyelin (d18:2/14:0, d18:1/14:1)
+C000186	sphingomyelin (d18:2/16:0, d18:1/16:1)	RP_POS	701.5592	2002	sphingomyelin (d18:2/16:0, d18:1/16:1)
+C000187	sphingomyelin (d18:2/18:1)	RP_POS	727.5749	1904	sphingomyelin (d18:2/18:1)
+C000188	sphingomyelin (d18:2/21:0, d16:2/23:0)	RP_POS	771.6375	2330	sphingomyelin (d18:2/21:0, d16:2/23:0)
+C000189	sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)	RP_POS	799.6687	2845	sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)
+C000190	sphingomyelin (d18:2/23:1)	RP_POS	797.6531	2315	sphingomyelin (d18:2/23:1)
+C000191	sphingomyelin (d18:2/24:1, d18:1/24:2)	RP_POS	811.6687	2635	sphingomyelin (d18:2/24:1, d18:1/24:2)
+C000192	sphingomyelin (d18:2/24:2)	RP_POS	809.6531	2215	sphingomyelin (d18:2/24:2)
+C000193	sphingosine	RP_POS	300.2897	1393	sphingosine
+C000194	sphingosine 1-phosphate	RP_POS	380.256	1375	sphingosine 1-phosphate
+C000195	stearoyl sphingomyelin (d18:1/18:0)	RP_POS	731.6062	2400	stearoyl sphingomyelin (d18:1/18:0)
+C000196	stearoyl-arachidonoyl-glycerol (18:0/20:4) [1]	RP_POS	662.5718	3404	stearoyl-arachidonoyl-glycerol (18:0/20:4) [1]
+C000197	stearoyl-arachidonoyl-glycerol (18:0/20:4) [2]	RP_POS	662.5718	3522	stearoyl-arachidonoyl-glycerol (18:0/20:4) [2]
+C000198	stearoylcarnitine (C18)	RP_POS	428.3734	1485	stearoylcarnitine (C18)
+C000199	tricosanoyl sphingomyelin (d18:1/23:0)	RP_POS	801.6844	3200	tricosanoyl sphingomyelin (d18:1/23:0)
+C000200	ximenoylcarnitine (C26:1)	RP_POS	538.483	1607	ximenoylcarnitine (C26:1)
+C000201	(N(1) + N(8))-acetylspermidine	RP_POS	188.1757	3080	(N(1) + N(8))-acetylspermidine
+C000202	1-methyl-4-imidazoleacetate	RP_POS	141.0659	2064	1-methyl-4-imidazoleacetate
+C000203	1-methylhistidine	RP_POS	170.0924	2755	1-methylhistidine
+C000204	1-methylnicotinamide	RP_POS	137.0709	1940	1-methylnicotinamide
+C000205	1-ribosyl-imidazoleacetate	RP_POS	259.0925	2006	1-ribosyl-imidazoleacetate
+C000206	2-aminobutyrate	RP_POS	104.0706	2059	2-aminobutyrate
+C000207	2-hydroxyglutarate	RP_POS	166.071	958	2-hydroxyglutarate
+C000208	2-methylbutyrylcarnitine (C5)	RP_POS	246.17	3050	2-methylbutyrylcarnitine (C5)
+C000209	2-methylserine	RP_POS	120.0655	1652	2-methylserine
+C000210	2-oxoarginine	RP_POS	174.0873	1760	2-oxoarginine
+C000211	2-piperidinone	RP_POS	100.0757	1675	2-piperidinone
+C000212	2'-O-methylcytidine	RP_POS	258.1085	2411	2'-O-methylcytidine
+C000213	3-aminoisobutyrate	RP_POS	104.0706	2190	3-aminoisobutyrate
+C000214	3-hydroxybutyrylcarnitine (1)	RP_POS	248.1493	2400	3-hydroxybutyrylcarnitine (1)
+C000215	3-hydroxybutyrylcarnitine (2)	RP_POS	248.1493	2340	3-hydroxybutyrylcarnitine (2)
+C000216	3-methoxytyrosine	RP_POS	212.0917	2555	3-methoxytyrosine
+C000217	3-phosphoglycerate	RP_POS	187.0002	590	3-phosphoglycerate
+C000218	3-ureidopropionate	RP_POS	133.0608	875	3-ureidopropionate
+C000219	4-acetamidobutanoate	RP_POS	146.0812	1350	4-acetamidobutanoate
+C000220	4-guanidinobutanoate	RP_POS	146.0924	2320	4-guanidinobutanoate
+C000221	4-hydroxyglutamate	RP_POS	164.0554	1141	4-hydroxyglutamate
+C000222	4-imidazoleacetate	RP_POS	127.0502	2055	4-imidazoleacetate
+C000223	5-(galactosylhydroxy)-L-lysine	RP_POS	325.1606	2755	5-(galactosylhydroxy)-L-lysine
+C000224	5-hydroxyindoleacetate	RP_POS	192.0655	1893	5-hydroxyindoleacetate
+C000225	5-hydroxylysine	RP_POS	163.1077	2790	5-hydroxylysine
+C000226	5-methylthioadenosine (MTA)	RP_POS	298.0968	2752	5-methylthioadenosine (MTA)
+C000227	5-methylthioribose	RP_POS	181.0529	790	5-methylthioribose
+C000228	acetylcarnitine (C2)	RP_POS	204.123	2282	acetylcarnitine (C2)
+C000229	adenine	RP_POS	136.0618	2221	adenine
+C000230	adenosine 5'-monophosphate (AMP)	RP_POS	348.0704	1013	adenosine 5'-monophosphate (AMP)
+C000231	adipoylcarnitine (C6-DC)	RP_POS	290.1598	2570	adipoylcarnitine (C6-DC)
+C000232	alanine	RP_POS	90.055	1700	alanine
+C000233	argininate	RP_POS	176.103	2150	argininate
+C000234	arginine	RP_POS	175.119	2825	arginine
+C000235	asparagine	RP_POS	133.0608	1225	asparagine
+C000236	aspartate	RP_POS	134.0448	1165	aspartate
+C000237	beta-alanine	RP_POS	90.055	1905	beta-alanine
+C000238	betaine	RP_POS	118.0863	1064	betaine
+C000239	butyrylcarnitine (C4)	RP_POS	232.1543	2860	butyrylcarnitine (C4)
+C000240	carnitine	RP_POS	162.1125	1978	carnitine
+C000241	carnosine	RP_POS	227.1139	2942	carnosine
+C000242	choline	RP_POS	104.107	1961	choline
+C000243	choline phosphate	RP_POS	184.0733	700	choline phosphate
+C000244	citrulline	RP_POS	176.103	1520	citrulline
+C000245	creatine	RP_POS	132.0768	1947	creatine
+C000246	creatinine	RP_POS	114.0662	2055	creatinine
+C000247	cys-gly, oxidized	RP_POS	355.0741	2947	cys-gly, oxidized
+C000248	cystathionine	RP_POS	223.0747	2270	cystathionine
+C000249	cysteine	RP_POS	122.027	1488	cysteine
+C000250	cysteinylglycine disulfide	RP_POS	298.0526	2547	cysteinylglycine disulfide
+C000251	cystine	RP_POS	241.0311	2000	cystine
+C000252	deoxycarnitine	RP_POS	146.1176	2052	deoxycarnitine
+C000253	dimethylarginine (SDMA + ADMA)	RP_POS	203.1503	2850	dimethylarginine (SDMA + ADMA)
+C000254	dimethylglycine	RP_POS	104.0706	1104	dimethylglycine
+C000255	ergothioneine	RP_POS	230.0958	850	ergothioneine
+C000256	formiminoglutamate	RP_POS	175.0713	1880	formiminoglutamate
+C000257	gamma-glutamyl-alpha-lysine	RP_POS	276.1554	2784	gamma-glutamyl-alpha-lysine
+C000258	gamma-glutamylalanine	RP_POS	219.0976	1986	gamma-glutamylalanine
+C000259	gamma-glutamylcitrulline	RP_POS	305.1456	1644	gamma-glutamylcitrulline
+C000260	gamma-glutamylglutamate	RP_POS	277.103	1775	gamma-glutamylglutamate
+C000261	gamma-glutamylglutamine	RP_POS	276.119	1430	gamma-glutamylglutamine
+C000262	gamma-glutamylglycine	RP_POS	205.0819	1535	gamma-glutamylglycine
+C000263	gamma-glutamylhistidine	RP_POS	285.1194	2740	gamma-glutamylhistidine
+C000264	gamma-glutamylphenylalanine	RP_POS	295.1289	2992	gamma-glutamylphenylalanine
+C000265	gamma-glutamylthreonine	RP_POS	249.1081	1750	gamma-glutamylthreonine
+C000266	glutamate	RP_POS	148.0604	1500	glutamate
+C000267	glutamine	RP_POS	147.0764	1291	glutamine
+C000268	glutarylcarnitine (C5-DC)	RP_POS	276.1442	2393	glutarylcarnitine (C5-DC)
+C000269	glycerol 3-phosphate	RP_POS	173.021	580	glycerol 3-phosphate
+C000270	glycerophosphoethanolamine	RP_POS	216.0632	659	glycerophosphoethanolamine
+C000271	glycine	RP_POS	76.0393	1375	glycine
+C000272	homoarginine	RP_POS	189.1346	2882	homoarginine
+C000273	hydroxyasparagine	RP_POS	149.0557	1149	hydroxyasparagine
+C000274	hypotaurine	RP_POS	110.027	724	hypotaurine
+C000275	imidazole lactate	RP_POS	157.0608	2040	imidazole lactate
+C000276	imidazole propionate	RP_POS	141.0659	2263	imidazole propionate
+C000277	iminodiacetate (IDA)	RP_POS	134.0448	808	iminodiacetate (IDA)
+C000278	indoleacetylcarnitine	RP_POS	319.1652	3114	indoleacetylcarnitine
+C000279	isobutyrylcarnitine (C4)	RP_POS	232.1543	2810	isobutyrylcarnitine (C4)
+C000280	isoleucine	RP_POS	132.1019	2800	isoleucine
+C000281	isovalerylcarnitine (C5)	RP_POS	246.17	3085	isovalerylcarnitine (C5)
+C000282	kynurenine	RP_POS	209.0921	2739	kynurenine
+C000283	lanthionine	RP_POS	209.0591	1730	lanthionine
+C000284	leucine	RP_POS	132.1019	2864	leucine
+C000285	lidocaine	RP_POS	235.1805	3250	lidocaine
+C000286	lysine	RP_POS	147.1128	2850	lysine
+C000287	methionine	RP_POS	150.0583	2526	methionine
+C000288	methionine sulfone	RP_POS	182.0482	1250	methionine sulfone
+C000289	methionine sulfoxide	RP_POS	166.0533	1272	methionine sulfoxide
+C000290	methyl glucopyranoside (alpha + beta)	RP_POS	212.1127	832	methyl glucopyranoside (alpha + beta)
+C000291	N-acetyl-aspartyl-glutamate (NAAG)	RP_POS	305.098	1035	N-acetyl-aspartyl-glutamate (NAAG)
+C000292	N-acetyl-isoputreanine	RP_POS	203.139	2305	N-acetyl-isoputreanine
+C000293	N-acetylarginine	RP_POS	217.1295	2245	N-acetylarginine
+C000294	N-acetylglucosamine/N-acetylgalactosamine	RP_POS	222.0972	715	N-acetylglucosamine/N-acetylgalactosamine
+C000295	N-acetylglutamate	RP_POS	190.071	1050	N-acetylglutamate
+C000296	N-acetylglycine	RP_POS	118.0499	826	N-acetylglycine
+C000297	N-acetylhistidine	RP_POS	198.0873	2065	N-acetylhistidine
+C000298	N-acetylputrescine	RP_POS	131.1179	2230	N-acetylputrescine
+C000299	N-methylpipecolate	RP_POS	144.1019	1932	N-methylpipecolate
+C000300	N-methylproline	RP_POS	130.0863	1335	N-methylproline
+C000301	N-trimethyl 5-aminovalerate	RP_POS	160.1332	2186	N-trimethyl 5-aminovalerate
+C000302	N1-methyladenosine	RP_POS	282.1197	2120	N1-methyladenosine
+C000303	N1,N12-diacetylspermine	RP_POS	287.2442	3105	N1,N12-diacetylspermine
+C000304	N2,N2-dimethylguanosine	RP_POS	312.1303	2210	N2,N2-dimethylguanosine
+C000305	N6,N6,N6-trimethyllysine	RP_POS	189.1598	2825	N6,N6,N6-trimethyllysine
+C000306	nicotinamide	RP_POS	123.0553	1942	nicotinamide
+C000307	ornithine	RP_POS	133.0972	2800	ornithine
+C000308	phenylalanine	RP_POS	166.0863	2878	phenylalanine
+C000309	phosphate	RP_POS	98.9842	576	phosphate
+C000310	phosphoethanolamine	RP_POS	142.0264	700	phosphoethanolamine
+C000311	picolinate	RP_POS	124.0393	910	picolinate
+C000312	pipecolate	RP_POS	130.0863	2200	pipecolate
+C000313	pro-hydroxy-pro	RP_POS	229.1183	2128	pro-hydroxy-pro
+C000314	proline	RP_POS	116.0706	1603	proline
+C000315	propionylcarnitine (C3)	RP_POS	218.1387	2590	propionylcarnitine (C3)
+C000316	pyroglutamine	RP_POS	129.0659	1900	pyroglutamine
+C000317	quinolinate	RP_POS	168.0291	845	quinolinate
+C000318	S-1-pyrroline-5-carboxylate	RP_POS	114.055	1528	S-1-pyrroline-5-carboxylate
+C000319	S-methylcysteine sulfoxide	RP_POS	152.0376	900	S-methylcysteine sulfoxide
+C000320	sarcosine	RP_POS	90.055	1280	sarcosine
+C000321	serine	RP_POS	106.0499	1239	serine
+C000322	stachydrine	RP_POS	144.1019	1440	stachydrine
+C000323	suberoylcarnitine (C8-DC)	RP_POS	318.1911	2964	suberoylcarnitine (C8-DC)
+C000324	succinylcarnitine (C4-DC)	RP_POS	262.1285	2291	succinylcarnitine (C4-DC)
+C000325	taurine	RP_POS	126.022	660	taurine
+C000326	theobromine	RP_POS	181.072	1600	theobromine
+C000327	thioproline	RP_POS	134.027	1250	thioproline
+C000328	threonine	RP_POS	120.0655	1514	threonine
+C000329	trans-4-hydroxyproline	RP_POS	132.0655	1064	trans-4-hydroxyproline
+C000330	trigonelline (N'-methylnicotinate)	RP_POS	138.055	1388	trigonelline (N'-methylnicotinate)
+C000331	trimethylamine N-oxide	RP_POS	76.0757	2100	trimethylamine N-oxide
+C000332	tryptophan	RP_POS	205.0972	2986	tryptophan
+C000333	tryptophan betaine	RP_POS	247.1441	2673	tryptophan betaine
+C000334	tyrosine	RP_POS	182.0812	2430	tyrosine
+C000335	urea	RP_POS	121.072	700	urea
+C000336	valine	RP_POS	118.0863	2479	valine
+C000337	1-arachidonoyl-GPI (20:4)	RP_NEG	619.2889	5482	1-arachidonoyl-GPI (20:4)
+C000338	1-dihomo-linolenylglycerol (20:3)	RP_NEG	305.2486	6400	1-dihomo-linolenylglycerol (20:3)
+C000339	1-linolenoylglycerol (18:3)	RP_NEG	277.2173	6214	1-linolenoylglycerol (18:3)
+C000340	1-linoleoyl-GPG (18:2)	RP_NEG	507.2728	5516	1-linoleoyl-GPG (18:2)
+C000341	1-linoleoyl-GPI (18:2)	RP_NEG	595.2889	5494	1-linoleoyl-GPI (18:2)
+C000342	1-myristoylglycerol (14:0)	RP_NEG	227.2016	6353.3	1-myristoylglycerol (14:0)
+C000343	1-oleoyl-GPG (18:1)	RP_NEG	509.2885	5610	1-oleoyl-GPG (18:1)
+C000344	1-oleoyl-GPI (18:1)	RP_NEG	597.3045	5599	1-oleoyl-GPI (18:1)
+C000345	1-palmitoleoylglycerol (16:1)	RP_NEG	253.2173	6094	1-palmitoleoylglycerol (16:1)
+C000346	1-palmitoyl-GPG (16:0)	RP_NEG	483.2728	5570	1-palmitoyl-GPG (16:0)
+C000347	1-palmitoyl-GPI (16:0)	RP_NEG	571.2889	5564	1-palmitoyl-GPI (16:0)
+C000348	1-stearoyl-GPG (18:0)	RP_NEG	511.3041	5816	1-stearoyl-GPG (18:0)
+C000349	1-stearoyl-GPI (18:0)	RP_NEG	599.3202	5794	1-stearoyl-GPI (18:0)
+C000350	1,5-anhydroglucitol (1,5-AG)	RP_NEG	163.0612	802	1,5-anhydroglucitol (1,5-AG)
+C000351	10-heptadecenoate (17:1n7)	RP_NEG	267.233	5555	10-heptadecenoate (17:1n7)
+C000352	10-nonadecenoate (19:1n9)	RP_NEG	295.2643	5780	10-nonadecenoate (19:1n9)
+C000353	10-undecenoate (11:1n1)	RP_NEG	183.1391	5085.8	10-undecenoate (11:1n1)
+C000354	12,13-DiHOME	RP_NEG	313.2384	5137	12,13-DiHOME
+C000355	13-HODE + 9-HODE	RP_NEG	295.2283	5275	13-HODE + 9-HODE
+C000356	15-methylpalmitate (i17:0)	RP_NEG	269.2487	5695	15-methylpalmitate (i17:0)
+C000357	16-hydroxypalmitate	RP_NEG	271.2279	5236.2	16-hydroxypalmitate
+C000358	16a-hydroxy DHEA 3-sulfate	RP_NEG	383.1534	4240	16a-hydroxy DHEA 3-sulfate
+C000359	17-methylstearate (i19:0)	RP_NEG	297.2799	5993	17-methylstearate (i19:0)
+C000360	17alpha-hydroxypregnenolone 3-sulfate	RP_NEG	411.1847	4800	17alpha-hydroxypregnenolone 3-sulfate
+C000361	2-aminoheptanoate	RP_NEG	144.103	2384	2-aminoheptanoate
+C000362	2-aminooctanoate	RP_NEG	158.1187	3385	2-aminooctanoate
+C000363	2-aminophenol sulfate	RP_NEG	188.0023	1677	2-aminophenol sulfate
+C000364	2-hydroxy-3-methylvalerate	RP_NEG	131.0714	1800	2-hydroxy-3-methylvalerate
+C000365	2-hydroxyarachidate	RP_NEG	327.2905	5990	2-hydroxyarachidate
+C000366	2-hydroxybehenate	RP_NEG	355.3218	6384	2-hydroxybehenate
+C000367	2-hydroxydecanoate	RP_NEG	187.134	4840	2-hydroxydecanoate
+C000368	2-hydroxyhippurate (salicylurate)	RP_NEG	194.0459	2184	2-hydroxyhippurate (salicylurate)
+C000369	2-hydroxylaurate	RP_NEG	215.1653	5211	2-hydroxylaurate
+C000370	2-hydroxymyristate	RP_NEG	243.1966	5364	2-hydroxymyristate
+C000371	2-hydroxynervonate	RP_NEG	381.3374	6345	2-hydroxynervonate
+C000372	2-hydroxyoctanoate	RP_NEG	159.1027	3736.8	2-hydroxyoctanoate
+C000373	2-hydroxyoleate	RP_NEG	297.2435	5560	2-hydroxyoleate
+C000374	2-hydroxypalmitate	RP_NEG	271.2279	5511.2	2-hydroxypalmitate
+C000375	2-hydroxystearate	RP_NEG	299.2592	5695	2-hydroxystearate
+C000376	2-linoleoylglycerol (18:2)	RP_NEG	279.2329	6250	2-linoleoylglycerol (18:2)
+C000377	2-myristoylglycerol (14:0)	RP_NEG	227.2016	6230	2-myristoylglycerol (14:0)
+C000378	2-oleoylglycerol (18:1)	RP_NEG	281.2486	6500	2-oleoylglycerol (18:1)
+C000379	2-palmitoleoylglycerol (16:1)	RP_NEG	253.2173	6016	2-palmitoleoylglycerol (16:1)
+C000380	2-palmitoyl-GPC (16:0)	RP_NEG	570.3413	6215	2-palmitoyl-GPC (16:0)
+C000381	2-palmitoylglycerol (16:0)	RP_NEG	255.2329	6400	2-palmitoylglycerol (16:0)
+C000382	2-stearoyl-GPE (18:0)	RP_NEG	480.3096	6350	2-stearoyl-GPE (18:0)
+C000383	2'-O-methyluridine	RP_NEG	257.0779	1831	2'-O-methyluridine
+C000384	21-hydroxypregnenolone disulfate	RP_NEG	245.0671	3935	21-hydroxypregnenolone disulfate
+C000385	21-hydroxypregnenolone monosulfate (2)	RP_NEG	411.1847	4711	21-hydroxypregnenolone monosulfate (2)
+C000386	3-(4-hydroxyphenyl)lactate	RP_NEG	181.0506	1379	3-(4-hydroxyphenyl)lactate
+C000387	3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-Cmpfp)	RP_NEG	267.1238	4000	3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-Cmpfp)
+C000388	3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	RP_NEG	239.0925	2800	3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)
+C000389	3-hydroxydecanoate	RP_NEG	187.134	4634.7	3-hydroxydecanoate
+C000390	3-hydroxyhexanoate	RP_NEG	131.0714	1725	3-hydroxyhexanoate
+C000391	3-hydroxylaurate	RP_NEG	215.1653	5175	3-hydroxylaurate
+C000392	3-hydroxyoctanoate	RP_NEG	159.1027	3446	3-hydroxyoctanoate
+C000393	3-hydroxyoleate	RP_NEG	297.2435	5508	3-hydroxyoleate
+C000394	3-hydroxypyridine sulfate	RP_NEG	173.9867	1595.5	3-hydroxypyridine sulfate
+C000395	3-indoxyl sulfate	RP_NEG	212.0023	2222.2	3-indoxyl sulfate
+C000396	3-methoxytyramine sulfate	RP_NEG	246.0442	1722	3-methoxytyramine sulfate
+C000397	3-methyl-2-oxobutyrate	RP_NEG	115.0401	1465	3-methyl-2-oxobutyrate
+C000398	3-methyl-2-oxovalerate	RP_NEG	129.0557	2064.2	3-methyl-2-oxovalerate
+C000399	3,4-methyleneheptanoate	RP_NEG	141.0921	3807	3,4-methyleneheptanoate
+C000400	3,4-methyleneheptanoylcarnitine	RP_NEG	346.1871	4096	3,4-methyleneheptanoylcarnitine
+C000401	3beta-hydroxy-5-cholestenoate	RP_NEG	415.3218	5398	3beta-hydroxy-5-cholestenoate
+C000402	3beta,7alpha-dihydroxy-5-cholestenoate	RP_NEG	431.3167	5275	3beta,7alpha-dihydroxy-5-cholestenoate
+C000403	4-allylphenol sulfate	RP_NEG	213.0227	3805	4-allylphenol sulfate
+C000404	4-ethylphenylsulfate	RP_NEG	201.0227	3580	4-ethylphenylsulfate
+C000405	4-hydroxychlorothalonil	RP_NEG	244.9082	4427	4-hydroxychlorothalonil
+C000406	4-hydroxyhippurate	RP_NEG	194.0459	1475	4-hydroxyhippurate
+C000407	4-hydroxyphenylpyruvate	RP_NEG	179.035	1690	4-hydroxyphenylpyruvate
+C000408	4-methoxyphenol sulfate	RP_NEG	203.002	2412	4-methoxyphenol sulfate
+C000409	4-methyl-2-oxopentanoate	RP_NEG	129.0557	2170	4-methyl-2-oxopentanoate
+C000410	4-methylcatechol sulfate	RP_NEG	203.002	2665	4-methylcatechol sulfate
+C000411	4-vinylphenol sulfate	RP_NEG	199.0071	3320	4-vinylphenol sulfate
+C000412	5-bromotryptophan	RP_NEG	280.9931	3525	5-bromotryptophan
+C000413	5-dodecenoate (12:1n7)	RP_NEG	197.1547	5224	5-dodecenoate (12:1n7)
+C000414	5-hydroxyhexanoate	RP_NEG	131.0714	1267	5-hydroxyhexanoate
+C000415	5-methyluridine (ribothymidine)	RP_NEG	257.0779	1778.1	5-methyluridine (ribothymidine)
+C000416	5-oxoproline	RP_NEG	128.0353	738.5	5-oxoproline
+C000417	5,6-dihydrothymine	RP_NEG	127.0513	1637.8	5,6-dihydrothymine
+C000418	5,6-dihydrouridine	RP_NEG	245.0779	1119	5,6-dihydrouridine
+C000419	5alpha-pregnan-3beta,20alpha-diol disulfate	RP_NEG	239.0853	3962	5alpha-pregnan-3beta,20alpha-diol disulfate
+C000420	5alpha-pregnan-3beta,20alpha-diol monosulfate (2)	RP_NEG	399.2211	5060	5alpha-pregnan-3beta,20alpha-diol monosulfate (2)
+C000421	6-hydroxyindole sulfate	RP_NEG	212.0023	2498	6-hydroxyindole sulfate
+C000422	6-oxopiperidine-2-carboxylate	RP_NEG	142.051	965	6-oxopiperidine-2-carboxylate
+C000423	7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)	RP_NEG	429.301	5288.1	7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)
+C000424	7-methylguanine	RP_NEG	164.0578	1729.7	7-methylguanine
+C000425	9-hydroxystearate	RP_NEG	299.2592	5384	9-hydroxystearate
+C000426	9,10-DiHOME	RP_NEG	313.2384	5180	9,10-DiHOME
+C000427	acisoga	RP_NEG	183.1139	2297	acisoga
+C000428	aconitate [cis or trans]	RP_NEG	173.0092	580	aconitate [cis or trans]
+C000429	adrenate (22:4n6)	RP_NEG	331.2643	5678	adrenate (22:4n6)
+C000430	alpha-CEHC sulfate	RP_NEG	357.1013	3090	alpha-CEHC sulfate
+C000431	alpha-hydroxyisocaproate	RP_NEG	131.0714	1840	alpha-hydroxyisocaproate
+C000432	andro steroid monosulfate C19H28O6S (1)	RP_NEG	383.1534	3871	andro steroid monosulfate C19H28O6S (1)
+C000433	androstenediol (3beta,17beta) disulfate (1)	RP_NEG	224.0618	3740	androstenediol (3beta,17beta) disulfate (1)
+C000434	androstenediol (3beta,17beta) disulfate (2)	RP_NEG	224.0624	4065	androstenediol (3beta,17beta) disulfate (2)
+C000435	arachidate (20:0)	RP_NEG	311.2956	6240	arachidate (20:0)
+C000436	arachidonate (20:4n6)	RP_NEG	303.233	5535	arachidonate (20:4n6)
+C000437	azelate (C9-DC)	RP_NEG	187.0976	1276	azelate (C9-DC)
+C000438	beta-citrylglutamate	RP_NEG	320.0623	530	beta-citrylglutamate
+C000439	beta-hydroxyisovalerate	RP_NEG	117.0557	1027	beta-hydroxyisovalerate
+C000440	C-glycosyltryptophan	RP_NEG	365.1354	1777	C-glycosyltryptophan
+C000441	caprate (10:0)	RP_NEG	171.1391	5090.7	caprate (10:0)
+C000442	caproate (6:0)	RP_NEG	115.0765	2713.7	caproate (6:0)
+C000443	caprylate (8:0)	RP_NEG	143.1078	4362	caprylate (8:0)
+C000444	catechol sulfate	RP_NEG	188.9863	1906	catechol sulfate
+C000445	chenodeoxycholate	RP_NEG	391.2854	5264	chenodeoxycholate
+C000446	cholate	RP_NEG	407.2803	5165	cholate
+C000447	citrate	RP_NEG	191.0197	582	citrate
+C000448	cortisol	RP_NEG	361.202	4710	cortisol
+C000449	cortisone	RP_NEG	359.1864	4575	cortisone
+C000450	dehydroisoandrosterone sulfate (DHEA-S)	RP_NEG	367.1585	4745	dehydroisoandrosterone sulfate (DHEA-S)
+C000451	dihomo-linoleate (20:2n6)	RP_NEG	307.2643	5730	dihomo-linoleate (20:2n6)
+C000452	dihomo-linolenate (20:3n3 or n6)	RP_NEG	305.2486	5596	dihomo-linolenate (20:3n3 or n6)
+C000453	docosadienoate (22:2n6)	RP_NEG	335.2956	6034	docosadienoate (22:2n6)
+C000454	docosadioate (C22-DC)	RP_NEG	369.301	5291.8	docosadioate (C22-DC)
+C000455	docosahexaenoate (DHA; 22:6n3)	RP_NEG	327.233	5525	docosahexaenoate (DHA; 22:6n3)
+C000456	docosapentaenoate (n3 DPA; 22:5n3)	RP_NEG	329.2486	5571	docosapentaenoate (n3 DPA; 22:5n3)
+C000457	docosapentaenoate (n6 DPA; 22:5n6)	RP_NEG	329.2486	5624.5	docosapentaenoate (n6 DPA; 22:5n6)
+C000458	dodecadienoate (12:2)	RP_NEG	195.1391	5146	dodecadienoate (12:2)
+C000459	dodecanedioate (C12-DC)	RP_NEG	229.1445	2990	dodecanedioate (C12-DC)
+C000460	dopamine 3-O-sulfate	RP_NEG	232.0285	1556.2	dopamine 3-O-sulfate
+C000461	EDTA	RP_NEG	291.0834	643	EDTA
+C000462	eicosanodioate (C20-DC)	RP_NEG	341.2697	5200.9	eicosanodioate (C20-DC)
+C000463	eicosapentaenoate (EPA; 20:5n3)	RP_NEG	301.2173	5450	eicosapentaenoate (EPA; 20:5n3)
+C000464	eicosenoate (20:1)	RP_NEG	309.2799	5950	eicosenoate (20:1)
+C000465	erucate (22:1n9)	RP_NEG	337.3112	6355.6	erucate (22:1n9)
+C000466	gamma-CEHC	RP_NEG	263.1289	3843	gamma-CEHC
+C000467	gamma-glutamylisoleucine	RP_NEG	259.1299	1600	gamma-glutamylisoleucine
+C000468	gamma-glutamylleucine	RP_NEG	259.1299	1685	gamma-glutamylleucine
+C000469	gamma-glutamylmethionine	RP_NEG	277.0864	1268	gamma-glutamylmethionine
+C000470	gamma-glutamyltryptophan	RP_NEG	332.1252	1960	gamma-glutamyltryptophan
+C000471	gamma-glutamyltyrosine	RP_NEG	309.1092	1240	gamma-glutamyltyrosine
+C000472	gamma-glutamylvaline	RP_NEG	245.1143	1072	gamma-glutamylvaline
+C000473	glycerol	RP_NEG	91.0401	758	glycerol
+C000474	glycine conjugate of C10H14O2 (1)	RP_NEG	222.1136	4335	glycine conjugate of C10H14O2 (1)
+C000475	glycochenodeoxycholate	RP_NEG	448.3068	5236.1	glycochenodeoxycholate
+C000476	glycochenodeoxycholate glucuronide (1)	RP_NEG	311.6658	4806	glycochenodeoxycholate glucuronide (1)
+C000477	glycochenodeoxycholate sulfate	RP_NEG	263.6282	4820	glycochenodeoxycholate sulfate
+C000478	glycocholate	RP_NEG	464.3018	5163	glycocholate
+C000479	glycocholenate sulfate	RP_NEG	254.6229	4750	glycocholenate sulfate
+C000480	glycohyocholate	RP_NEG	464.3018	5020	glycohyocholate
+C000481	glycolithocholate sulfate	RP_NEG	255.6307	5011	glycolithocholate sulfate
+C000482	glycoursodeoxycholate	RP_NEG	448.3068	5033	glycoursodeoxycholate
+C000483	guaiacol sulfate	RP_NEG	203.002	2344	guaiacol sulfate
+C000484	heptanoate (7:0)	RP_NEG	129.0921	3670	heptanoate (7:0)
+C000485	hexadecadienoate (16:2n6)	RP_NEG	251.2017	5398	hexadecadienoate (16:2n6)
+C000486	hexadecanedioate (C16-DC)	RP_NEG	285.2071	4615	hexadecanedioate (C16-DC)
+C000487	hexadecatrienoate (16:3n3)	RP_NEG	249.186	5330	hexadecatrienoate (16:3n3)
+C000488	hexadecenedioate (C16:1-DC)	RP_NEG	283.1915	4380	hexadecenedioate (C16:1-DC)
+C000489	hexanoylglutamine	RP_NEG	243.135	2780	hexanoylglutamine
+C000490	hippurate	RP_NEG	178.051	2106.9	hippurate
+C000491	histidine	RP_NEG	154.0622	755.9	histidine
+C000492	HWESASXX	RP_NEG	940.4534	3722	HWESASXX
+C000493	hydroxy-CMPF	RP_NEG	255.0874	1516	hydroxy-CMPF
+C000494	hyocholate	RP_NEG	407.2803	5046	hyocholate
+C000495	hypoxanthine	RP_NEG	135.0312	1291.2	hypoxanthine
+C000496	indole-3-carboxylic acid	RP_NEG	160.0404	1710	indole-3-carboxylic acid
+C000497	indoleacetate	RP_NEG	174.0561	2200	indoleacetate
+C000498	indolelactate	RP_NEG	204.0666	2286	indolelactate
+C000499	inosine	RP_NEG	267.0735	1602.1	inosine
+C000500	isoleucylglycine	RP_NEG	187.1088	1992	isoleucylglycine
+C000501	isovalerylglycine	RP_NEG	158.0823	1950	isovalerylglycine
+C000502	kynurenate	RP_NEG	188.0353	2224	kynurenate
+C000503	laurate (12:0)	RP_NEG	199.1704	5300	laurate (12:0)
+C000504	leucylglycine	RP_NEG	187.1088	2050	leucylglycine
+C000505	linoleate (18:2n6)	RP_NEG	279.233	5535	linoleate (18:2n6)
+C000506	linolenate [alpha or gamma; (18:3n3 or 6)]	RP_NEG	277.2173	5450	linolenate [alpha or gamma; (18:3n3 or 6)]
+C000507	malate	RP_NEG	133.0143	615.6	malate
+C000508	margarate (17:0)	RP_NEG	269.2486	5731	margarate (17:0)
+C000509	methyl-4-hydroxybenzoate sulfate	RP_NEG	230.9969	2873	methyl-4-hydroxybenzoate sulfate
+C000510	myristate (14:0)	RP_NEG	227.2017	5440	myristate (14:0)
+C000511	myristoleate (14:1n5)	RP_NEG	225.186	5346.9	myristoleate (14:1n5)
+C000512	N-acetyl-2-aminooctanoate	RP_NEG	200.1292	3943	N-acetyl-2-aminooctanoate
+C000513	N-acetyl-beta-alanine	RP_NEG	130.051	773	N-acetyl-beta-alanine
+C000514	N-acetylcarnosine	RP_NEG	267.1099	1235	N-acetylcarnosine
+C000515	N-acetylisoleucine	RP_NEG	172.0979	2325	N-acetylisoleucine
+C000516	N-acetylleucine	RP_NEG	172.0979	2400	N-acetylleucine
+C000517	N-acetylmethionine	RP_NEG	190.0543	1787	N-acetylmethionine
+C000518	N-acetylphenylalanine	RP_NEG	206.0823	2597	N-acetylphenylalanine
+C000519	N-acetyltaurine	RP_NEG	166.018	800	N-acetyltaurine
+C000520	N-acetylthreonine	RP_NEG	160.0615	821.6	N-acetylthreonine
+C000521	N-acetyltryptophan	RP_NEG	245.0932	2630	N-acetyltryptophan
+C000522	N-acetyltyrosine	RP_NEG	222.0772	1680	N-acetyltyrosine
+C000523	N-acetylvaline	RP_NEG	158.0823	1704	N-acetylvaline
+C000524	N-delta-acetylornithine	RP_NEG	173.0932	858	N-delta-acetylornithine
+C000525	N-formylanthranilic acid	RP_NEG	164.0353	2150	N-formylanthranilic acid
+C000526	N-formylmethionine	RP_NEG	176.0387	1543.8	N-formylmethionine
+C000527	N-formylphenylalanine	RP_NEG	192.0666	2360	N-formylphenylalanine
+C000528	N-oleoylserine	RP_NEG	368.2806	5600	N-oleoylserine
+C000529	N-oleoyltaurine	RP_NEG	388.2527	5610	N-oleoyltaurine
+C000530	N-palmitoylglycine	RP_NEG	312.2544	5580	N-palmitoylglycine
+C000531	N-palmitoylserine	RP_NEG	342.265	5557	N-palmitoylserine
+C000532	N-stearoylserine	RP_NEG	370.2963	5777	N-stearoylserine
+C000533	N-stearoyltaurine	RP_NEG	390.2684	5782	N-stearoyltaurine
+C000534	N1-Methyl-2-pyridone-5-carboxamide	RP_NEG	151.0513	1668	N1-Methyl-2-pyridone-5-carboxamide
+C000535	N1-methylinosine	RP_NEG	149.0469	1874	N1-methylinosine
+C000536	N2-methylguanosine	RP_NEG	296.1	1988	N2-methylguanosine
+C000537	N4-acetylcytidine	RP_NEG	284.0888	2040	N4-acetylcytidine
+C000538	N6-acetyllysine	RP_NEG	187.1088	1059	N6-acetyllysine
+C000539	N6-carbamoylthreonyladenosine	RP_NEG	411.127	2164	N6-carbamoylthreonyladenosine
+C000540	N6-methyladenosine	RP_NEG	148.0629	2593	N6-methyladenosine
+C000541	nisinate (24:6n3)	RP_NEG	355.2643	5657	nisinate (24:6n3)
+C000542	nonadecanoate (19:0)	RP_NEG	297.2799	6068	nonadecanoate (19:0)
+C000543	O-sulfo-L-tyrosine	RP_NEG	260.0234	990	O-sulfo-L-tyrosine
+C000544	octadecadienedioate (C18:2-DC)	RP_NEG	309.2071	4676	octadecadienedioate (C18:2-DC)
+C000545	octadecanedioate (C18-DC)	RP_NEG	313.2384	5043	octadecanedioate (C18-DC)
+C000546	octadecenedioate (C18:1-DC)	RP_NEG	311.2228	4875	octadecenedioate (C18:1-DC)
+C000547	oleate/vaccenate (18:1)	RP_NEG	281.2486	5655	oleate/vaccenate (18:1)
+C000548	oxalate (ethanedioate)	RP_NEG	88.988	603	oxalate (ethanedioate)
+C000549	p-cresol sulfate	RP_NEG	187.0071	2890	p-cresol sulfate
+C000550	palmitate (16:0)	RP_NEG	255.233	5618	palmitate (16:0)
+C000551	palmitoleate (16:1n7)	RP_NEG	253.2173	5475	palmitoleate (16:1n7)
+C000552	pantothenate	RP_NEG	218.1034	1498.7	pantothenate
+C000553	pentadecanoate (15:0)	RP_NEG	241.2173	5521	pentadecanoate (15:0)
+C000554	perfluorooctanesulfonic acid (PFOS)	RP_NEG	498.9302	5233	perfluorooctanesulfonic acid (PFOS)
+C000555	perfluorooctanoate (PFOA)	RP_NEG	412.9664	5130	perfluorooctanoate (PFOA)
+C000556	phenol sulfate	RP_NEG	172.9914	2156	phenol sulfate
+C000557	phenylacetylglutamine	RP_NEG	263.1037	2330	phenylacetylglutamine
+C000558	phenyllactate (PLA)	RP_NEG	165.0557	2208	phenyllactate (PLA)
+C000559	phenylpyruvate	RP_NEG	163.0401	2515	phenylpyruvate
+C000560	phytanate	RP_NEG	311.2956	5908	phytanate
+C000561	pregnenediol disulfate (C21H34O8S2)	RP_NEG	238.0775	3868	pregnenediol disulfate (C21H34O8S2)
+C000562	pregnenediol sulfate (C21H34O5S)	RP_NEG	397.2054	5000	pregnenediol sulfate (C21H34O5S)
+C000563	pregnenolone sulfate	RP_NEG	395.1898	5100	pregnenolone sulfate
+C000564	pseudouridine	RP_NEG	243.0623	1100	pseudouridine
+C000565	pyridoxate	RP_NEG	182.0459	2185	pyridoxate
+C000566	pyruvate	RP_NEG	87.0088	732.4	pyruvate
+C000567	S-adenosylhomocysteine (SAH)	RP_NEG	383.1143	1832.4	S-adenosylhomocysteine (SAH)
+C000568	S-methylcysteine	RP_NEG	134.0281	880	S-methylcysteine
+C000569	sebacate (C10-DC)	RP_NEG	201.1132	1788	sebacate (C10-DC)
+C000570	stearate (18:0)	RP_NEG	283.2643	5872	stearate (18:0)
+C000571	stearidonate (18:4n3)	RP_NEG	275.2017	5395	stearidonate (18:4n3)
+C000572	suberate (C8-DC)	RP_NEG	173.0819	804.3	suberate (C8-DC)
+C000573	succinate	RP_NEG	117.0193	603	succinate
+C000574	sulfate	RP_NEG	96.9601	616	sulfate
+C000575	tartarate	RP_NEG	149.0092	615.3	tartarate
+C000576	tartronate (hydroxymalonate)	RP_NEG	118.9986	610	tartronate (hydroxymalonate)
+C000577	taurochenodeoxycholate	RP_NEG	498.2895	5250	taurochenodeoxycholate
+C000578	taurocholate	RP_NEG	514.2844	5150	taurocholate
+C000579	taurocholenate sulfate	RP_NEG	279.6142	4750	taurocholenate sulfate
+C000580	taurohyocholate	RP_NEG	514.2844	5000	taurohyocholate
+C000581	taurolithocholate 3-sulfate	RP_NEG	280.6221	5027	taurolithocholate 3-sulfate
+C000582	tauroursodeoxycholate	RP_NEG	498.2895	5025	tauroursodeoxycholate
+C000583	tetradecanedioate (C14-DC)	RP_NEG	257.1758	4000	tetradecanedioate (C14-DC)
+C000584	thymol sulfate	RP_NEG	229.054	4410	thymol sulfate
+C000585	thyroxine	RP_NEG	775.6794	4808	thyroxine
+C000586	tyramine O-sulfate	RP_NEG	216.0336	1565	tyramine O-sulfate
+C000587	urate	RP_NEG	167.0211	757.1	urate
+C000588	uridine	RP_NEG	243.0623	1457.6	uridine
+C000589	valylglutamine	RP_NEG	244.1303	1484	valylglutamine
+C000590	valylglycine	RP_NEG	173.0932	1506	valylglycine
+C000591	vanillactate	RP_NEG	211.0612	1625	vanillactate
+C000592	vanillylmandelate (VMA)	RP_NEG	197.0456	941	vanillylmandelate (VMA)
+C000593	xanthurenate	RP_NEG	204.0302	1476	xanthurenate
+C000594	1-linoleoyl-GPA (18:2)	HILIC_NEG	433.2361	1441	1-linoleoyl-GPA (18:2)
+C000595	1-oleoyl-GPA (18:1)	HILIC_NEG	435.2517	1433	1-oleoyl-GPA (18:1)
+C000596	2-hydroxybutyrate/2-hydroxyisobutyrate	HILIC_NEG	103.0401	1258	2-hydroxybutyrate/2-hydroxyisobutyrate
+C000597	2-isopropylmalate	HILIC_NEG	175.0612	2605	2-isopropylmalate
+C000598	2,3-dihydroxyisovalerate	HILIC_NEG	133.0506	1050	2,3-dihydroxyisovalerate
+C000599	3-hydroxy-2-ethylpropionate	HILIC_NEG	117.0557	1443.3	3-hydroxy-2-ethylpropionate
+C000600	3-hydroxy-3-methylglutarate	HILIC_NEG	161.0456	2850	3-hydroxy-3-methylglutarate
+C000601	3-hydroxybutyrate (BHBA)	HILIC_NEG	103.0401	1444	3-hydroxybutyrate (BHBA)
+C000602	3-hydroxyisobutyrate	HILIC_NEG	103.0401	1619	3-hydroxyisobutyrate
+C000603	3-hydroxysebacate	HILIC_NEG	217.1081	2411	3-hydroxysebacate
+C000604	3-methylglutaconate	HILIC_NEG	99.0452	2700	3-methylglutaconate
+C000605	4-hydroxy-2-oxoglutaric acid	HILIC_NEG	161.0092	3073	4-hydroxy-2-oxoglutaric acid
+C000606	allantoin	HILIC_NEG	157.0367	1672	allantoin
+C000607	alpha-hydroxyisovalerate	HILIC_NEG	117.0557	1052	alpha-hydroxyisovalerate
+C000608	alpha-ketobutyrate	HILIC_NEG	101.0244	940	alpha-ketobutyrate
+C000609	alpha-ketoglutaramate	HILIC_NEG	144.0302	1916	alpha-ketoglutaramate
+C000610	alpha-ketoglutarate	HILIC_NEG	145.0143	2700	alpha-ketoglutarate
+C000611	arabinose	HILIC_NEG	195.051	1804.5	arabinose
+C000612	arabitol/xylitol	HILIC_NEG	151.0612	1932.4	arabitol/xylitol
+C000613	arabonate/xylonate	HILIC_NEG	165.0405	2700	arabonate/xylonate
+C000614	dihydroorotate	HILIC_NEG	157.0255	1910	dihydroorotate
+C000615	erythritol	HILIC_NEG	167.0561	1491	erythritol
+C000616	erythronate	HILIC_NEG	135.0299	2186	erythronate
+C000617	ethylmalonate	HILIC_NEG	131.035	2785	ethylmalonate
+C000618	fructose	HILIC_NEG	225.0616	2065	fructose
+C000619	fumarate	HILIC_NEG	115.0037	3084	fumarate
+C000620	galactonate	HILIC_NEG	195.051	3085	galactonate
+C000621	gentisate	HILIC_NEG	153.0193	905	gentisate
+C000622	gluconate	HILIC_NEG	195.051	2922	gluconate
+C000623	glucose	HILIC_NEG	179.0561	2342	glucose
+C000624	glucuronate	HILIC_NEG	193.0354	3233.3	glucuronate
+C000625	glutarate (C5-DC)	HILIC_NEG	131.035	2900	glutarate (C5-DC)
+C000626	glycerate	HILIC_NEG	105.0193	2070.4	glycerate
+C000627	glycerophosphoglycerol	HILIC_NEG	245.0432	2430	glycerophosphoglycerol
+C000628	glycerophosphorylcholine (GPC)	HILIC_NEG	302.101	3003.1	glycerophosphorylcholine (GPC)
+C000629	glycolate (hydroxyacetate)	HILIC_NEG	159.0107	1790.4	glycolate (hydroxyacetate)
+C000630	guanidinoacetate	HILIC_NEG	116.0466	2884	guanidinoacetate
+C000631	gulonate	HILIC_NEG	195.051	2750	gulonate
+C000632	heptenedioate (C7:1-DC)	HILIC_NEG	157.0506	2816	heptenedioate (C7:1-DC)
+C000633	isocitric lactone	HILIC_NEG	173.0092	2970	isocitric lactone
+C000634	lactate	HILIC_NEG	89.0244	1468.8	lactate
+C000635	maleate	HILIC_NEG	115.0037	2640	maleate
+C000636	mannitol/sorbitol	HILIC_NEG	181.0718	2320	mannitol/sorbitol
+C000637	mannose	HILIC_NEG	225.0616	2200	mannose
+C000638	methylsuccinate	HILIC_NEG	131.035	2800	methylsuccinate
+C000639	myo-inositol	HILIC_NEG	225.0616	3506.3	myo-inositol
+C000640	N-acetylalanine	HILIC_NEG	130.051	1564.8	N-acetylalanine
+C000641	N-acetylglutamine	HILIC_NEG	187.0724	2140	N-acetylglutamine
+C000642	N-acetylneuraminate	HILIC_NEG	308.0987	3072.6	N-acetylneuraminate
+C000643	N-acetylserine	HILIC_NEG	146.0459	2000	N-acetylserine
+C000644	orotate	HILIC_NEG	155.0098	1638.1	orotate
+C000645	orotidine	HILIC_NEG	287.0521	2250	orotidine
+C000646	quinate	HILIC_NEG	191.0561	2432.9	quinate
+C000647	ribitol	HILIC_NEG	151.0612	1789.6	ribitol
+C000648	ribonate	HILIC_NEG	165.0405	2425	ribonate
+C000649	ribulonate/xylulonate	HILIC_NEG	165.0405	2350	ribulonate/xylulonate
+C000650	salicylate	HILIC_NEG	137.0242	802	salicylate
+C000651	succinimide	HILIC_NEG	116.0353	2155	succinimide
+C000652	threonate	HILIC_NEG	135.0299	2384	threonate
+C000653	trans-urocanate	HILIC_NEG	137.0357	1882.5	trans-urocanate
+C000654	uracil	HILIC_NEG	111.02	1089.7	uracil
+C000655	xanthine	HILIC_NEG	151.0262	2023	xanthine
+C000656	xylose	HILIC_NEG	195.051	1727	xylose

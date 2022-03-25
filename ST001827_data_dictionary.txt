@@ -1,0 +1,1111 @@
+compound_id	BIOCHEMICAL	KEGG	PUBCHEM
+C00001	(12 or 13)-methylmyristate (a15:0 or i15:0)	NA	0
+C00002	(14 or 15)-methylpalmitate (a17:0 or i17:0)	NA	0
+C00003	(16 or 17)-methylstearate (a19:0 or i19:0)	NA	0
+C00004	(2,4 or 2,5)-dimethylphenol sulfate	NA	0
+C00005	(S)-3-hydroxybutyrylcarnitine	NA	0
+C00021	1,2-dilinoleoyl-GPC (18:2/18:2)	NA	0
+C00022	1,2-dilinoleoyl-GPE (18:2/18:2)*	NA	0
+C00023	1,2-dipalmitoyl-GPC (16:0/16:0)	NA	0
+C00024	1,2-dipalmitoyl-GPE (16:0/16:0)*	NA	0
+C00025	1,2-dipalmitoyl-GPI (16:0/16:0)*	NA	0
+C00026	1,3,7-trimethylurate	C16361	0
+C00027	1,3-dimethylurate	NA	0
+C00028	1,5-anhydroglucitol (1,5-AG)	C07326	0
+C00029	1,7-dimethylurate	C16356	0
+C00006	1-(1-enyl-oleoyl)-GPE (P-18:1)*	NA	0
+C00007	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*	NA	0
+C00008	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*	NA	0
+C00009	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*	NA	0
+C00010	1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*	NA	0
+C00011	1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*	NA	0
+C00012	1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*	NA	0
+C00013	1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*	NA	0
+C00014	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*	NA	0
+C00015	1-(1-enyl-palmitoyl)-GPC (P-16:0)*	NA	0
+C00016	1-(1-enyl-palmitoyl)-GPE (P-16:0)*	NA	0
+C00017	1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*	NA	0
+C00018	1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*	NA	0
+C00019	1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)	NA	0
+C00020	1-(1-enyl-stearoyl)-GPE (P-18:0)*	NA	0
+C00043	1-arachidonoyl-GPA (20:4)	NA	0
+C00044	1-arachidonoyl-GPC* (20:4)*	C05208	0
+C00045	1-arachidonoyl-GPE (20:4n6)*	NA	0
+C00046	1-arachidonoyl-GPI* (20:4)*	NA	0
+C00047	1-arachidonylglycerol (20:4)	C13857	0
+C00048	1-carboxyethylisoleucine	NA	0
+C00049	1-carboxyethylleucine	NA	0
+C00050	1-carboxyethylphenylalanine	NA	0
+C00051	1-carboxyethylvaline	NA	0
+C00052	1-dihomo-linolenylglycerol (20:3)	NA	0
+C00053	1-dihomo-linoleoylglycerol (20:2)	NA	0
+C00054	1-docosahexaenoylglycerol (22:6)	NA	0
+C00055	1-lignoceroyl-GPC (24:0)	NA	0
+C00057	1-linolenoyl-GPC (18:3)*	NA	0
+C00056	1-linolenoylglycerol (18:3)	NA	0
+C00058	1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*	NA	0
+C00059	1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*	NA	0
+C00061	1-linoleoyl-GPA (18:2)*	NA	0
+C00062	1-linoleoyl-GPC (18:2)	C04100	0
+C00063	1-linoleoyl-GPE (18:2)*	NA	0
+C00064	1-linoleoyl-GPG (18:2)*	NA	0
+C00065	1-linoleoyl-GPI* (18:2)*	NA	0
+C00060	1-linoleoylglycerol (18:2)	NA	0
+C00066	1-methyl-4-imidazoleacetate	C05828	0
+C00067	1-methyl-5-imidazoleacetate	NA	0
+C00606	1-methyladenosine	C02494	0
+C00068	1-methylhistidine	C01152	0
+C00069	1-methylnicotinamide	C02918	0
+C00070	1-methylurate	C16359	0
+C00071	1-methylxanthine	C16358	0
+C00072	1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*	NA	0
+C00073	1-myristoyl-2-palmitoyl-GPC (14:0/16:0)	NA	0
+C00074	1-myristoylglycerol (14:0)	C01885	0
+C00075	1-oleoyl-2-arachidonoyl-GPE (18:1/20:4)*	NA	0
+C00076	1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)*	NA	0
+C00077	1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*	NA	0
+C00078	1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*	NA	0
+C00079	1-oleoyl-2-linoleoyl-GPI (18:1/18:2)*	NA	0
+C00082	1-oleoyl-GPC (18:1)	NA	0
+C00083	1-oleoyl-GPE (18:1)	NA	0
+C00084	1-oleoyl-GPG (18:1)*	NA	0
+C00085	1-oleoyl-GPI (18:1)	NA	0
+C00080	1-oleoylglycerol (18:1)	NA	0
+C00081	1-oleoylglycerophosphate (18:1)	NA	0
+C00086	1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*	NA	0
+C00088	1-palmitoleoyl-GPC* (16:1)*	NA	0
+C00087	1-palmitoleoylglycerol (16:1)*	NA	0
+C00089	1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6)	NA	0
+C00090	1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*	NA	0
+C00091	1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*	NA	0
+C00092	1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*	NA	0
+C00093	1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)	NA	0
+C00094	1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*	NA	0
+C00095	1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)	NA	0
+C00096	1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)	NA	0
+C00097	1-palmitoyl-2-linoleoyl-GPI (16:0/18:2)	NA	0
+C00098	1-palmitoyl-2-oleoyl-GPC (16:0/18:1)	NA	0
+C00099	1-palmitoyl-2-oleoyl-GPE (16:0/18:1)	NA	0
+C00100	1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*	NA	0
+C00101	1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*	NA	0
+C00102	1-palmitoyl-2-stearoyl-GPC (16:0/18:0)	NA	0
+C00103	1-palmitoyl-2-stearoyl-GPE (16:0/18:0)*	NA	0
+C00105	1-palmitoyl-GPA (16:0)	C04036	0
+C00106	1-palmitoyl-GPC (16:0)	NA	0
+C00107	1-palmitoyl-GPE (16:0)	NA	0
+C00108	1-palmitoyl-GPG (16:0)*	NA	0
+C00109	1-palmitoyl-GPI* (16:0)	NA	0
+C00104	1-palmitoylglycerol (16:0)	NA	0
+C00110	1-pentadecanoylglycerol (15:0)	NA	0
+C00111	1-ribosyl-imidazoleacetate*	C05131	0
+C00112	1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)	NA	0
+C00113	1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)	NA	0
+C00114	1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)	NA	0
+C00115	1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)	NA	0
+C00116	1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*	NA	0
+C00117	1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*	NA	0
+C00118	1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*	NA	0
+C00119	1-stearoyl-2-linoleoyl-GPI (18:0/18:2)	NA	0
+C00120	1-stearoyl-2-oleoyl-GPC (18:0/18:1)	NA	0
+C00121	1-stearoyl-2-oleoyl-GPE (18:0/18:1)	NA	0
+C00122	1-stearoyl-2-oleoyl-GPG (18:0/18:1)	NA	0
+C00123	1-stearoyl-2-oleoyl-GPI (18:0/18:1)*	NA	0
+C00124	1-stearoyl-2-oleoyl-GPS (18:0/18:1)	NA	0
+C00125	1-stearoyl-GPC (18:0)	NA	0
+C00126	1-stearoyl-GPE (18:0)	NA	0
+C00127	1-stearoyl-GPG (18:0)	NA	0
+C00128	1-stearoyl-GPI (18:0)	NA	0
+C00030	10-heptadecenoate (17:1n7)	NA	0
+C00031	10-nonadecenoate (19:1n9)	NA	0
+C00032	10-undecenoate (11:1n1)	C13910	0
+C00033	11beta-hydroxyandrosterone glucuronide	NA	0
+C00034	12,13-DiHOME	C14829	0
+C00035	12-HEPE	NA	0
+C00036	12-HETE	NA	0
+C00037	12-HHTrE	C20388	0
+C00038	14-HDoHE/17-HDoHE	NA	0
+C00039	15-HETE	C04742	0
+C00041	16-hydroxypalmitate	C18218	0
+C00040	16a-hydroxy DHEA 3-sulfate	NA	0
+C00042	17alpha-hydroxypregnanolone glucuronide	NA	0
+C00172	2'-O-methylcytidine	NA	0
+C00173	2'-O-methyluridine	NA	0
+C00142	2'-deoxyinosine	C05512	0
+C00143	2'-deoxyuridine	C00526	0
+C00129	2,2'-Methylenebis(6-tert-butyl-p-cresol)	NA	0
+C00130	2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*	NA	0
+C00131	2,3-dihydroxyisovalerate	C04039	0
+C00132	2,3-dihydroxypyridine	NA	0
+C00133	2,6-dihydroxybenzoic acid	NA	0
+C00136	2-aminoadipate	C00956	0
+C00137	2-aminobutyrate	C02261	0
+C00138	2-aminoheptanoate	NA	0
+C00139	2-aminooctanoate	NA	0
+C00140	2-aminophenol sulfate	NA	0
+C00141	2-arachidonoylglycerol (20:4)	C13856	0
+C00144	2-hydroxy-3-methylvalerate	NA	0
+C00145	2-hydroxyadipate	C02360	0
+C00146	2-hydroxyarachidate*	NA	0
+C00147	2-hydroxybehenate	NA	0
+C00148	2-hydroxybutyrate/2-hydroxyisobutyrate	NA	0
+C00149	2-hydroxydecanoate	NA	0
+C00150	2-hydroxyglutarate	C02630	0
+C00151	2-hydroxyheptanoate*	NA	0
+C00152	2-hydroxyhippurate (salicylurate)	C07588	0
+C00153	2-hydroxylaurate	NA	0
+C00154	2-hydroxymyristate	C13790	0
+C00155	2-hydroxynervonate*	NA	0
+C00156	2-hydroxyoctanoate	NA	0
+C00157	2-hydroxypalmitate	NA	0
+C00158	2-hydroxyphenylacetate	C05852	0
+C00159	2-hydroxyphytanate*	NA	0
+C00160	2-hydroxystearate	C03045	0
+C00161	2-isopropylmalate	C02504	0
+C00162	2-keto-3-deoxy-gluconate	C00204	0
+C00163	2-ketocaprylate	NA	0
+C00164	2-linoleoylglycerol (18:2)	NA	0
+C00165	2-methylbutyrylcarnitine (C5)	NA	0
+C00166	2-methylbutyrylglycine (C5)	NA	0
+C00167	2-methylcitrate/homocitrate	NA	0
+C00168	2-methylserine	C02115	0
+C00169	2-myristoylglycerol (14:0)	NA	0
+C00170	2-naphthol sulfate	NA	0
+C00171	2-oleoylglycerol (18:1)	NA	0
+C00174	2-oxoarginine*	C03771	0
+C00175	2-palmitoleoylglycerol (16:1)*	NA	0
+C00176	2-palmitoyl-GPC* (16:0)*	NA	0
+C00177	2-piperidinone	NA	0
+C00178	2-pyrrolidinone	NA	0
+C00181	2-stearoyl-GPE (18:0)*	NA	0
+C00134	21-hydroxypregnanolone monosulfate (1)	NA	0
+C00135	21-hydroxypregnenolone disulfate	NA	0
+C00179	2R,3R-dihydroxybutyrate	NA	0
+C00180	2S,3R-dihydroxybutyrate	NA	0
+C00185	3,4-dihydroxybutyrate	NA	0
+C00186	3,4-methyleneheptanoate	NA	0
+C00187	3,7-dimethylurate	C16360	0
+C00182	3-(2-hydroxyphenyl)propionate	C01198	0
+C00183	3-(3-hydroxyphenyl)propionate	C11457	0
+C00184	3-(4-hydroxyphenyl)lactate (HPLA)	C03672	0
+C00188	3-amino-2-piperidone	NA	0
+C00189	3-aminoisobutyrate	C05145	0
+C00193	3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)	NA	0
+C00194	3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	NA	0
+C00195	3-decenoylcarnitine	NA	0
+C00196	3-formylindole	C08493	0
+C00197	3-hydroxy-2-ethylpropionate	NA	0
+C00198	3-hydroxy-3-methylglutarate	C03761	0
+C00199	3-hydroxyadipate*	NA	0
+C00200	3-hydroxybutyrate (BHBA)	C01089	0
+C00201	3-hydroxydecanoate	NA	0
+C00202	3-hydroxydecanoylcarnitine	NA	0
+C00203	3-hydroxyhexanoate	NA	0
+C00204	3-hydroxyhippurate	NA	0
+C00205	3-hydroxyisobutyrate	C06001	0
+C00206	3-hydroxylaurate	NA	0
+C00207	3-hydroxyoctanoate	NA	0
+C00208	3-hydroxypyridine sulfate	NA	0
+C00209	3-hydroxystachydrine*	NA	0
+C00210	3-hydroxystearate	NA	0
+C00211	3-indoxyl sulfate	NA	0
+C00212	3-ketosphinganine	C02934	0
+C00213	3-methoxycatechol sulfate (1)	NA	0
+C00214	3-methoxytyrosine	NA	0
+C00215	3-methyl catechol sulfate (1)	NA	0
+C00216	3-methyl-2-oxobutyrate	C00141	0
+C00217	3-methyl-2-oxovalerate	C00671	0
+C00218	3-methylcrotonylglycine	NA	0
+C00219	3-methylcytidine	NA	0
+C00220	3-methylglutaconate	NA	0
+C00221	3-methylglutarate/2-methylglutarate	NA	0
+C00222	3-methylglutarylcarnitine (2)	NA	0
+C00223	3-methylhistidine	C01152	0
+C00224	3-methylxanthine	C16357	0
+C00225	3-phenylpropionate (hydrocinnamate)	C05629	0
+C00226	3-sulfo-L-alanine	C00506	0
+C00227	3-ureidopropionate	C02642	0
+C00190	3beta,7alpha-dihydroxy-5-cholestenoate	C17335	0
+C00191	3beta,7beta-dihydroxy-5-cholestenoate	NA	0
+C00192	3beta-hydroxy-5-cholestenoate	C17333	0
+C00228	4-acetamidobutanoate	C02946	0
+C00229	4-allylphenol sulfate	NA	0
+C00230	4-cholesten-3-one	C00599	0
+C00231	4-ethylcatechol sulfate	NA	0
+C00232	4-ethylphenyl sulfate	C13637	0
+C00233	4-guanidinobutanoate	C01035	0
+C00234	4-hydroxy-2-oxoglutaric acid	C01127	0
+C00235	4-hydroxychlorothalonil	NA	0
+C00236	4-hydroxyglutamate	C03079	0
+C00237	4-hydroxyhippurate	NA	0
+C00238	4-hydroxyphenylpyruvate	C01179	0
+C00239	4-imidazoleacetate	C02835	0
+C00240	4-methoxyphenol sulfate	NA	0
+C00241	4-methyl-2-oxopentanoate	C00233	0
+C00242	4-methylcatechol sulfate	NA	0
+C00243	4-vinylguaiacol sulfate	NA	0
+C00244	4-vinylphenol sulfate	C05627	0
+C00246	5,6-dihydrothymine	C00906	0
+C00247	5,6-dihydrouridine	NA	0
+C00245	5-(galactosylhydroxy)-L-lysine	NA	0
+C00248	5-acetylamino-6-amino-3-methyluracil	C16366	0
+C00259	5-dodecenoate (12:1n7)	NA	0
+C00260	5-dodecenoylcarnitine (C12:1)	NA	0
+C00261	5-hydroxylysine	C16741	0
+C00262	5-methylthioadenosine (MTA)	C00170	0
+C00263	5-methylthioribose	NA	0
+C00264	5-methyluridine (ribothymidine)	NA	0
+C00265	5-oxoproline	C01879	0
+C00249	5alpha-androstan-3alpha,17alpha-diol disulfate	NA	0
+C00250	5alpha-androstan-3alpha,17alpha-diol monosulfate	NA	0
+C00251	5alpha-androstan-3alpha,17beta-diol disulfate	NA	0
+C00252	5alpha-androstan-3beta,17alpha-diol disulfate	NA	0
+C00253	5alpha-androstan-3beta,17beta-diol disulfate	C12525	0
+C00254	5alpha-pregnan-3beta,20alpha-diol disulfate	NA	0
+C00255	5alpha-pregnan-3beta,20alpha-diol monosulfate (2)	NA	0
+C00256	5alpha-pregnan-3beta,20beta-diol monosulfate (1)	NA	0
+C00257	5alpha-pregnan-3beta-ol,20-one sulfate	NA	0
+C00258	5alpha-pregnan-diol disulfate	NA	0
+C00266	6-bromotryptophan	NA	0
+C00267	6-hydroxyindole sulfate	NA	0
+C00268	6-oxopiperidine-2-carboxylate	NA	0
+C00269	7-HOCA	C17337	0
+C00270	7-methylguanine	C02242	0
+C00271	7-methylurate	C16355	0
+C00272	7-methylxanthine	C16353	0
+C00273	8-hydroxyoctanoate	NA	0
+C00274	8-methoxykynurenate	C05830	0
+C00275	9,10-DiHOME	C14828	0
+C00276	9-hydroxystearate	NA	0
+C00281	AMP	C00020	0
+C00349	C-glycosyltryptophan	NA	0
+C00425	DSGEGDFXAEGGGVR*	NA	0
+C00423	Fibrinopeptide A (2-15)	NA	0
+C00424	Fibrinopeptide A (3-15)	NA	0
+C00426	Fibrinopeptide B (1-11)	NA	0
+C00427	Fibrinopeptide B (1-12)	NA	0
+C00428	Fibrinopeptide B (1-13)	NA	0
+C00429	Fibrinopeptide B (1-9)	NA	0
+C00514	HWESASXX*	NA	0
+C00599	N(8)-acetylspermidine	C01029	0
+C00600	N,N,N-trimethyl-5-aminovalerate	NA	0
+C00601	N,N,N-trimethyl-alanylproline betaine (TMAP)	NA	0
+C00602	N,N-dimethyl-5-aminovalerate	NA	0
+C00603	N,N-dimethylalanine	NA	0
+C00598	N-(2-furoyl)glycine	NA	0
+C00619	N-acetyl-1-methylhistidine*	NA	0
+C00620	N-acetyl-2-aminooctanoate*	NA	0
+C00621	N-acetyl-3-methylhistidine*	NA	0
+C00627	N-acetyl-aspartyl-glutamate (NAAG)	C12270	0
+C00628	N-acetyl-beta-alanine	C01073	0
+C00637	N-acetyl-isoputreanine*	NA	0
+C00622	N-acetylalanine	C02847	0
+C00623	N-acetylalliin	NA	0
+C00624	N-acetylarginine	C02562	0
+C00625	N-acetylasparagine	NA	0
+C00626	N-acetylaspartate (NAA)	C01042	0
+C00629	N-acetylcarnosine	NA	0
+C00630	N-acetylcitrulline	C15532	0
+C00631	N-acetylglucosamine/N-acetylgalactosamine	NA	0
+C00632	N-acetylglutamate	C00624	0
+C00633	N-acetylglutamine	C02716	0
+C00634	N-acetylglycine	NA	0
+C00635	N-acetylhistidine	C02997	0
+C00636	N-acetylisoleucine	NA	0
+C00638	N-acetylleucine	C02710	0
+C00639	N-acetylmethionine	C02712	0
+C00640	N-acetylmethionine sulfoxide	NA	0
+C00641	N-acetylneuraminate	C00270	0
+C00642	N-acetylphenylalanine	C03519	0
+C00643	N-acetylproline	NA	0
+C00644	N-acetylputrescine	C02714	0
+C00645	N-acetylserine	NA	0
+C00646	N-acetyltaurine	NA	0
+C00647	N-acetyltheanine	NA	0
+C00648	N-acetylthreonine	NA	0
+C00649	N-acetyltryptophan	C03137	0
+C00650	N-acetylvaline	NA	0
+C00651	N-alpha-acetylornithine	C00437	0
+C00652	N-behenoyl-sphingadienine (d18:2/22:0)*	NA	0
+C00653	N-carbamoylaspartate	C00438	0
+C00654	N-delta-acetylornithine	NA	0
+C00656	N-formylanthranilic acid	C05653	0
+C00657	N-formylmethionine	C03145	0
+C00658	N-formylphenylalanine	NA	0
+C00663	N-linoleoylserine*	NA	0
+C00664	N-methylhydroxyproline	NA	0
+C00665	N-methylpipecolate	NA	0
+C00666	N-methylproline	NA	0
+C00667	N-oleoylserine	NA	0
+C00668	N-oleoyltaurine	NA	0
+C00671	N-oxalyl glycine (NOG)	NA	0
+C00673	N-palmitoyl-heptadecasphingosine (d17:1/16:0)*	NA	0
+C00675	N-palmitoyl-sphingadienine (d18:2/16:0)*	NA	0
+C00676	N-palmitoyl-sphinganine (d18:0/16:0)	NA	0
+C00677	N-palmitoyl-sphingosine (d18:1/16:0)	NA	0
+C00672	N-palmitoylglycine	NA	0
+C00674	N-palmitoylserine	NA	0
+C00679	N-stearoyl-sphingadienine (d18:2/18:0)*	NA	0
+C00680	N-stearoyl-sphinganine (d18:0/18:0)*	NA	0
+C00681	N-stearoyl-sphingosine (d18:1/18:0)*	NA	0
+C00678	N-stearoylserine*	NA	0
+C00604	N1,N12-diacetylspermine	C03413	0
+C00605	N1-Methyl-2-pyridone-5-carboxamide	C05842	0
+C00607	N1-methylinosine	NA	0
+C00608	N2,N2-dimethylguanosine	NA	0
+C00609	N2-acetyl,N6,N6-dimethyllysine	NA	0
+C00610	N2-acetyl,N6-methyllysine	NA	0
+C00611	N4-acetylcytidine	NA	0
+C00612	N6,N6,N6-trimethyllysine	C03793	0
+C00613	N6,N6-dimethyllysine	C05545	0
+C00614	N6-acetyllysine	C02727	0
+C00615	N6-carbamoylthreonyladenosine	NA	0
+C00616	N6-carboxymethyllysine	NA	0
+C00617	N6-methyladenosine	NA	0
+C00618	N6-methyllysine	C02728	0
+C00682	O-acetylhomoserine	C01077	0
+C00704	O-sulfo-L-tyrosine	NA	0
+C00780	S-1-pyrroline-5-carboxylate	C04322	0
+C00783	S-allylcysteine	NA	0
+C00785	S-carboxymethyl-L-cysteine	C03727	0
+C00790	S-methylcysteine	NA	0
+C00791	S-methylcysteine sulfoxide	NA	0
+C00887	X - 07765	NA	0
+C00888	X - 11261	NA	0
+C00889	X - 11299	NA	0
+C00890	X - 11308	NA	0
+C00891	X - 11315	NA	0
+C00892	X - 11372	NA	0
+C00893	X - 11378	NA	0
+C00894	X - 11381	NA	0
+C00895	X - 11407	NA	0
+C00896	X - 11441	NA	0
+C00897	X - 11442	NA	0
+C00898	X - 11478	NA	0
+C00899	X - 11491- retired for deoxycholic acid glucuronide	NA	0
+C00900	X - 11522	NA	0
+C00901	X - 11530	NA	0
+C00902	X - 11578	NA	0
+C00903	X - 11787	NA	0
+C00904	X - 11795	NA	0
+C00905	X - 11843	NA	0
+C00906	X - 11847	NA	0
+C00907	X - 11850	NA	0
+C00908	X - 11852	NA	0
+C00909	X - 11880	NA	0
+C00910	X - 12007	NA	0
+C00911	X - 12026	NA	0
+C00912	X - 12096	NA	0
+C00913	X - 12100	NA	0
+C00914	X - 12101	NA	0
+C00915	X - 12117	NA	0
+C00916	X - 12127	NA	0
+C00917	X - 12206 - retired for ascorbic acid 3-sulfate*	NA	0
+C00918	X - 12212 - retired for 4-allylcatechol sulfate	NA	0
+C00919	X - 12216	NA	0
+C00920	X - 12283	NA	0
+C00921	X - 12411	NA	0
+C00922	X - 12462	NA	0
+C00923	X - 12472 - retired for glutamine conjugate of C6H10O2 (2)*	NA	0
+C00924	X - 12524	NA	0
+C00925	X - 12543	NA	0
+C00926	X - 12544	NA	0
+C00927	X - 12680	NA	0
+C00928	X - 12729	NA	0
+C00929	X - 12739 - retired for glutamine conjugate of C6H10O2 (1)*	NA	0
+C00930	X - 12798	NA	0
+C00931	X - 12844	NA	0
+C00932	X - 12847	NA	0
+C00933	X - 12849	NA	0
+C00934	X - 13007	NA	0
+C00935	X - 13431	NA	0
+C00936	X - 13507	NA	0
+C00937	X - 13728	NA	0
+C00938	X - 13835	NA	0
+C00939	X - 13866	NA	0
+C00940	X - 14056	NA	0
+C00941	X - 14904	NA	0
+C00942	X - 14939	NA	0
+C00943	X - 15161	NA	0
+C00944	X - 15220	NA	0
+C00945	X - 15245	NA	0
+C00946	X - 15469	NA	0
+C00947	X - 15486	NA	0
+C00948	X - 15503	NA	0
+C00949	X - 15523	NA	0
+C00950	X - 15666	NA	0
+C00951	X - 15674	NA	0
+C00952	X - 15728	NA	0
+C00953	X - 16245	NA	0
+C00954	X - 16570	NA	0
+C00955	X - 16576	NA	0
+C00956	X - 16580	NA	0
+C00957	X - 16654 - retired for deoxycholic acid (12 or 24)-sulfate*	NA	0
+C00958	X - 16935	NA	0
+C00959	X - 16938	NA	0
+C00960	X - 16944	NA	0
+C00961	X - 16946	NA	0
+C00962	X - 16964	NA	0
+C00963	X - 17010	NA	0
+C00964	X - 17146	NA	0
+C00965	X - 17185	NA	0
+C00966	X - 17335	NA	0
+C00967	X - 17337- retired for undecenoylcarnitine (C11:1)	NA	0
+C00968	X - 17351	NA	0
+C00969	X - 17438	NA	0
+C00970	X - 17653	NA	0
+C00971	X - 17654	NA	0
+C00972	X - 17676	NA	0
+C00973	X - 17690	NA	0
+C00974	X - 18249 - retired for 3,5-dichloro-2,6-dihydroxybenzoic acid	NA	0
+C00975	X - 18779	NA	0
+C00976	X - 18886	NA	0
+C00977	X - 18901	NA	0
+C00978	X - 18913	NA	0
+C00979	X - 18914 - retired for 3-bromo-5-chloro-2,6-dihydroxybenzoic acid*	NA	0
+C00980	X - 18921	NA	0
+C00981	X - 18922	NA	0
+C00982	X - 19141	NA	0
+C00983	X - 21258	NA	0
+C00984	X - 21285	NA	0
+C00985	X - 21286	NA	0
+C00986	X - 21310	NA	0
+C00987	X - 21319	NA	0
+C00988	X - 21339	NA	0
+C00989	X - 21353	NA	0
+C00990	X - 21364	NA	0
+C00991	X - 21383	NA	0
+C00992	X - 21410	NA	0
+C00993	X - 21441	NA	0
+C00994	X - 21448	NA	0
+C00995	X - 21467	NA	0
+C00996	X - 21470	NA	0
+C00997	X - 21471	NA	0
+C00998	X - 21607	NA	0
+C00999	X - 21628	NA	0
+C01000	X - 21729	NA	0
+C01001	X - 21733	NA	0
+C01002	X - 21736	NA	0
+C01003	X - 21785	NA	0
+C01004	X - 21796	NA	0
+C01005	X - 21821	NA	0
+C01006	X - 21829	NA	0
+C01007	X - 22162	NA	0
+C01008	X - 22519	NA	0
+C01009	X - 22764 - retired for branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*	NA	0
+C01010	X - 22771	NA	0
+C01011	X - 22775	NA	0
+C01012	X - 22776	NA	0
+C01013	X - 23047	NA	0
+C01014	X - 23314	NA	0
+C01015	X - 23587	NA	0
+C01016	X - 23590	NA	0
+C01017	X - 23593	NA	0
+C01018	X - 23639	NA	0
+C01019	X - 23641	NA	0
+C01020	X - 23644	NA	0
+C01021	X - 23659	NA	0
+C01022	X - 23665	NA	0
+C01023	X - 23680	NA	0
+C01024	X - 23739	NA	0
+C01025	X - 23780	NA	0
+C01026	X - 23782	NA	0
+C01027	X - 23786	NA	0
+C01028	X - 23984	NA	0
+C01029	X - 23997	NA	0
+C01030	X - 24241	NA	0
+C01031	X - 24243	NA	0
+C01032	X - 24295	NA	0
+C01033	X - 24328	NA	0
+C01034	X - 24337	NA	0
+C01035	X - 24348 - retired for GlcNAc sulfate conjugate of C21H34O2 steroid**	NA	0
+C01036	X - 24408	NA	0
+C01037	X - 24410	NA	0
+C01038	X - 24411	NA	0
+C01039	X - 24422	NA	0
+C01040	X - 24425	NA	0
+C01041	X - 24431	NA	0
+C01042	X - 24432	NA	0
+C01043	X - 24455	NA	0
+C01044	X - 24456	NA	0
+C01045	X - 24473	NA	0
+C01046	X - 24474	NA	0
+C01047	X - 24475	NA	0
+C01048	X - 24512 - retired - adduct of 5-oxoproline	NA	0
+C01049	X - 24518	NA	0
+C01050	X - 24527 - retired for glutamine conjugate of C6H10O2 (1)*	NA	0
+C01051	X - 24542	NA	0
+C01052	X - 24544	NA	0
+C01053	X - 24545	NA	0
+C01054	X - 24546	NA	0
+C01055	X - 24549	NA	0
+C01056	X - 24556	NA	0
+C01057	X - 24588	NA	0
+C01058	X - 24686	NA	0
+C01059	X - 24699	NA	0
+C01060	X - 24728	NA	0
+C01061	X - 24803 - retired - probable PFPA ion	NA	0
+C01062	X - 24804 - retired - probable PFPA ion	NA	0
+C01063	X - 24812	NA	0
+C01064	X - 24813	NA	0
+C01065	X - 24831 - retired - probable isoleucine adduct	NA	0
+C01066	X - 24849	NA	0
+C01067	X - 24928	NA	0
+C01068	X - 24947	NA	0
+C01069	X - 24949	NA	0
+C01070	X - 24951	NA	0
+C01071	X - 24952	NA	0
+C01072	X - 24953	NA	0
+C01073	X - 24975	NA	0
+C01074	X - 25009	NA	0
+C01075	X - 25109	NA	0
+C01076	X - 25271	NA	0
+C01077	X - 25343	NA	0
+C01078	X - 25371	NA	0
+C01079	X - 25376 - retired for hydroxy-undecanedioate (OH-C11:0-DC)*	NA	0
+C01080	X - 25381	NA	0
+C01081	X - 25382	NA	0
+C01082	X - 25384	NA	0
+C01083	X - 25389	NA	0
+C01084	X - 25395	NA	0
+C01085	X - 25396	NA	0
+C01086	X - 25397	NA	0
+C01087	X - 25398	NA	0
+C01088	X - 25399	NA	0
+C01089	X - 25400	NA	0
+C01090	X - 25402	NA	0
+C01091	X - 25404	NA	0
+C01092	X - 25405	NA	0
+C01093	X - 25406	NA	0
+C01094	X - 25411	NA	0
+C01095	X - 25417	NA	0
+C01096	X - 25419	NA	0
+C01097	X - 25420	NA	0
+C01098	X - 25422	NA	0
+C01099	X - 25427	NA	0
+C01100	X - 25429	NA	0
+C01101	X - 25431	NA	0
+C01102	X - 25433	NA	0
+C01103	X - 25451	NA	0
+C01104	X - 25452	NA	0
+C01105	X - 25453	NA	0
+C01106	X - 25519	NA	0
+C01107	X - 25520	NA	0
+C01108	X - 25563	NA	0
+C01109	X - 25617	NA	0
+C01110	X - 25645	NA	0
+C00277	acetoacetate	C00164	0
+C00278	acetylcarnitine (C2)	C02571	0
+C00279	aconitate [cis or trans]	NA	0
+C00280	adenine	C00147	0
+C00282	adipate	C06104	0
+C00283	adipoylcarnitine (C6-DC)	NA	0
+C00284	adrenate (22:4n6)	C16527	0
+C00285	alanine	C00041	0
+C00286	allantoin	C02350	0
+C00287	alliin	C08265	0
+C00288	alpha-hydroxyisocaproate	C03264	0
+C00289	alpha-hydroxyisovalerate	NA	0
+C00290	alpha-ketoglutaramate*	NA	0
+C00291	alpha-ketoglutarate	C00026	0
+C00292	alpha-tocopherol	C02477	0
+C00293	andro steroid monosulfate C19H28O6S (1)*	C04555	0
+C00294	androstenediol (3alpha, 17alpha) monosulfate (2)	NA	0
+C00295	androstenediol (3alpha, 17alpha) monosulfate (3)	NA	0
+C00296	androstenediol (3beta,17beta) disulfate (1)	C04295	0
+C00297	androstenediol (3beta,17beta) disulfate (2)	C04295	0
+C00298	androstenediol (3beta,17beta) monosulfate (1)	NA	0
+C00299	androsterone glucuronide	C11135	0
+C00300	androsterone sulfate	NA	0
+C00301	anthranilate	C00108	0
+C00302	arabinose	C00216	0
+C00303	arabitol/xylitol	C01904	0
+C00304	arabonate/xylonate	NA	0
+C00305	arachidate (20:0)	C06425	0
+C00306	arachidonate (20:4n6)	C00219	0
+C00307	arachidonoylcarnitine (C20:4)	NA	0
+C00308	arachidonoylcholine	NA	0
+C00309	argininate*	NA	0
+C00310	arginine	C00062	0
+C00311	asparagine	C00152	0
+C00312	aspartate	C00049	0
+C00313	azelaoyltaurine	NA	0
+C00314	azelate (nonanedioate; C9)	C08261	0
+C00315	behenoyl dihydrosphingomyelin (d18:0/22:0)*	NA	0
+C00316	behenoyl sphingomyelin (d18:1/22:0)*	NA	0
+C00317	behenoylcarnitine (C22)*	NA	0
+C00318	benzoate	C00180	0
+C00319	beta-alanine	C00099	0
+C00320	beta-citrylglutamate	C20775	0
+C00321	beta-cryptoxanthin	NA	0
+C00322	beta-hydroxyisovalerate	NA	0
+C00324	beta-sitosterol	C01753	0
+C00323	betaine	C00719	0
+C00327	bilirubin	C00486	0
+C00325	bilirubin (E,E)*	NA	0
+C00326	bilirubin (E,Z or Z,E)*	NA	0
+C00328	biliverdin	C00500	0
+C00329	branched chain 14:0 dicarboxylic acid	NA	0
+C00330	bromine	NA	0
+C00331	butyrylcarnitine (C4)	C02862	0
+C00332	caffeic acid sulfate	NA	0
+C00333	caffeine	C07481	0
+C00334	campesterol	C01789	0
+C00335	caprate (10:0)	C01571	0
+C00336	caproate (6:0)	C01585	0
+C00337	caprylate (8:0)	C06423	0
+C00338	carboxyethyl-GABA	NA	0
+C00339	carnitine	C00318	0
+C00340	carotene diol (1)	NA	0
+C00341	carotene diol (2)	NA	0
+C00342	carotene diol (3)	NA	0
+C00343	catechol sulfate	NA	0
+C00344	ceramide (d16:1/24:1, d18:1/22:1)*	NA	0
+C00345	ceramide (d18:1/14:0, d16:1/16:0)*	NA	0
+C00346	ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)*	NA	0
+C00347	ceramide (d18:2/24:1, d18:1/24:2)*	NA	0
+C00348	cerotoylcarnitine (C26)*	NA	0
+C00350	cholate	C00695	0
+C00351	cholesterol	C00187	0
+C00352	choline	C00114	0
+C00354	cinnamoylglycine	NA	0
+C00355	cis-4-decenoate (10:1n6)*	NA	0
+C00356	cis-4-decenoylcarnitine (C10:1)	NA	0
+C00357	citraconate/glutaconate	NA	0
+C00358	citrate	C00158	0
+C00359	citrulline	C00327	0
+C00360	corticosterone	C02140	0
+C00361	cortisol	C00735	0
+C00362	cortisone	C00762	0
+C00363	cortolone glucuronide (1)	NA	0
+C00364	creatine	C00300	0
+C00365	creatinine	C00791	0
+C00366	cys-gly, oxidized	NA	0
+C00367	cystathionine	C02291	0
+C00368	cysteine	C00097	0
+C00369	cysteine s-sulfate	C05824	0
+C00370	cysteine sulfinic acid	C00606	0
+C00371	cysteine-glutathione disulfide	NA	0
+C00372	cysteinylglycine	C01419	0
+C00373	cysteinylglycine disulfide*	NA	0
+C00374	cystine	C00491	0
+C00375	cytidine	C00475	0
+C00376	cytosine	C00380	0
+C00377	decanoylcarnitine (C10)	NA	0
+C00378	dehydroepiandrosterone sulfate (DHEA-S)	C04555	0
+C00379	deoxycarnitine	C01181	0
+C00380	deoxycholate	C04483	0
+C00381	diacylglycerol (14:0/18:1, 16:0/16:1) [2]*	NA	0
+C00382	diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])*	NA	0
+C00383	diglycerol	NA	0
+C00387	dihomo-linolenoyl-choline	NA	0
+C00386	dihomo-linolenoylcarnitine (C20:3n3 or 6)*	NA	0
+C00388	dihomo-linoleoylcarnitine (C20:2)*	NA	0
+C00384	dihomolinoleate (20:2n6)	C16525	0
+C00385	dihomolinolenate (20:3n3 or 3n6)	C03242	0
+C00389	dihydroorotate	C00337	0
+C00390	dimethyl sulfone	C11142	0
+C00391	dimethylarginine (ADMA + SDMA)	C03626	0
+C00392	dimethylglycine	C01026	0
+C00393	docosadienoate (22:2n6)	C16533	0
+C00394	docosadioate (C22-DC)	C19625	0
+C00395	docosahexaenoate (DHA; 22:6n3)	C06429	0
+C00396	docosahexaenoylcarnitine (C22:6)*	NA	0
+C00397	docosahexaenoylcholine	NA	0
+C00398	docosapentaenoate (DPA; 22:5n3)	C16513	0
+C00399	docosapentaenoate (n6 DPA; 22:5n6)	C16513	0
+C00400	docosatrienoate (22:3n3)	C16534	0
+C00401	dodecadienoate (12:2)*	NA	0
+C00402	dodecanedioate (C12)	C02678	0
+C00403	dopamine 3-O-sulfate	C13690	0
+C00404	ectoine	C06231	0
+C00405	eicosanedioate (C20-DC)	NA	0
+C00406	eicosapentaenoate (EPA; 20:5n3)	C06428	0
+C00407	eicosapentaenoylcholine	NA	0
+C00408	eicosenedioate (C20:1-DC)*	NA	0
+C00409	eicosenoate (20:1n9 or 1n11)	C16526	0
+C00410	eicosenoylcarnitine (C20:1)*	NA	0
+C00411	epiandrosterone sulfate	NA	0
+C00412	ergothioneine	C05570	0
+C00413	erucate (22:1n9)	C08316	0
+C00414	erythritol	C00503	0
+C00415	erythronate*	NA	0
+C00416	estriol 16-glucuronide	NA	0
+C00417	estriol 3-sulfate	C05141	0
+C00418	estriol-3-glucuronide	NA	0
+C00419	estrone 3-sulfate	C02538	0
+C00420	ethylmalonate	NA	0
+C00421	etiocholanolone glucuronide	NA	0
+C00422	eugenol sulfate	NA	0
+C00430	formiminoglutamate	C00439	0
+C00431	fructose	C00095	0
+C00432	fructosyllysine	NA	0
+C00433	fumarate	C00122	0
+C00434	galactonate	C00880	0
+C00436	gamma-CEHC	NA	0
+C00435	gamma-carboxyglutamate	NA	0
+C00437	gamma-glutamyl-2-aminobutyrate	NA	0
+C00439	gamma-glutamyl-alpha-lysine	NA	0
+C00441	gamma-glutamyl-epsilon-lysine	NA	0
+C00438	gamma-glutamylalanine	NA	0
+C00440	gamma-glutamylcitrulline*	NA	0
+C00442	gamma-glutamylglutamate	C05282	0
+C00443	gamma-glutamylglutamine	C05283	0
+C00444	gamma-glutamylglycine	NA	0
+C00445	gamma-glutamylhistidine	NA	0
+C00446	gamma-glutamylisoleucine*	NA	0
+C00447	gamma-glutamylleucine	NA	0
+C00448	gamma-glutamylmethionine	NA	0
+C00449	gamma-glutamylphenylalanine	NA	0
+C00450	gamma-glutamylthreonine	NA	0
+C00451	gamma-glutamyltyrosine	NA	0
+C00452	gamma-glutamylvaline	NA	0
+C00453	gamma-tocopherol/beta-tocopherol	NA	0
+C00454	gentisate	C00628	0
+C00460	glu-gly-asn-val	NA	0
+C00455	gluconate	C00257	0
+C00456	glucose	C00031	0
+C00457	glucuronate	C00191	0
+C00458	glucuronide of C10H18O2 (1)*	NA	0
+C00459	glucuronide of C10H18O2 (7)*	NA	0
+C00461	glutamate	C00025	0
+C00462	glutamine	C00064	0
+C00463	glutarate (C5-DC)	C00489	0
+C00464	glutaroylcarnitine (C5)	NA	0
+C00465	glycerate	C00258	0
+C00466	glycerol	C00116	0
+C00467	glycerol 3-phosphate	C00093	0
+C00468	glycerophosphoethanolamine	C01233	0
+C00469	glycerophosphoglycerol	C03274	0
+C00470	glycerophosphoinositol*	NA	0
+C00471	glycerophosphorylcholine (GPC)	C00670	0
+C00472	glycerophosphoserine*	NA	0
+C00473	glycine	C00037	0
+C00474	glycine conjugate of C10H14O2 (1)*	NA	0
+C00475	glyco-beta-muricholate	NA	0
+C00476	glycochenodeoxycholate	C05466	0
+C00477	glycochenodeoxycholate 3-sulfate	NA	0
+C00478	glycochenodeoxycholate glucuronide (1)	NA	0
+C00479	glycocholate	C01921	0
+C00480	glycocholenate sulfate*	NA	0
+C00481	glycodeoxycholate	C05464	0
+C00482	glycodeoxycholate 3-sulfate	NA	0
+C00483	glycohyocholate	NA	0
+C00484	glycolithocholate sulfate*	C11301	0
+C00485	glycosyl ceramide (d18:1/20:0, d16:1/22:0)*	NA	0
+C00486	glycosyl ceramide (d18:2/24:1, d18:1/24:2)*	NA	0
+C00487	glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH))*	NA	0
+C00488	glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*	NA	0
+C00489	glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)	NA	0
+C00490	glycosyl-N-stearoyl-sphingosine (d18:1/18:0)	NA	0
+C00491	glycoursodeoxycholate	NA	0
+C00492	glycylvaline	NA	0
+C00493	guaiacol sulfate	NA	0
+C00494	guanidinoacetate	C00581	0
+C00495	guanidinosuccinate	C03139	0
+C00496	guanine	C00242	0
+C00497	guanosine	C00387	0
+C00498	gulonate*	C00257	0
+C00499	heptanoate (7:0)	C17714	0
+C00500	heptenedioate (C7:1-DC)*	NA	0
+C00501	hexadecadienoate (16:2n6)	NA	0
+C00502	hexadecanedioate (C16)	C19615	0
+C00503	hexadecasphingosine (d16:1)*	NA	0
+C00504	hexadecenedioate (C16:1-DC)*	NA	0
+C00505	hexanoylcarnitine (C6)	NA	0
+C00506	hexanoylglutamine	NA	0
+C00507	hippurate	C01586	0
+C00508	histidine	C00135	0
+C00509	histidine betaine (hercynine)*	NA	0
+C00510	histidylalanine	NA	0
+C00511	homoarginine	C01924	0
+C00512	homocitrulline	C02427	0
+C00513	homostachydrine*	C08283	0
+C00516	hydroxy-CMPF*	NA	0
+C00517	hydroxy-N6,N6,N6-trimethyllysine*	NA	0
+C00515	hydroxyasparagine	C03124	0
+C00518	hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))	NA	0
+C00862	hydroxyproline	C01157	0
+C00519	hyocholate	C17649	0
+C00520	hypotaurine	C00519	0
+C00521	hypoxanthine	C00262	0
+C00522	imidazole lactate	C05568	0
+C00523	imidazole propionate	NA	0
+C00524	indoleacetate	C00954	0
+C00525	indoleacetylglutamine	NA	0
+C00526	indolelactate	C02043	0
+C00527	indolepropionate	NA	0
+C00528	indolin-2-one	C12312	0
+C00529	inosine	C00294	0
+C00530	isobutyrylcarnitine (C4)	NA	0
+C00531	isobutyrylglycine (C4)	NA	0
+C00532	isocitrate	C00311	0
+C00533	isoleucine	C00407	0
+C00534	isoleucylglycine	NA	0
+C00535	isovalerate (C5)	C08262	0
+C00536	isovalerylcarnitine (C5)	NA	0
+C00537	isovalerylglycine	NA	0
+C00538	kynurenate	C01717	0
+C00539	kynurenine	C00328	0
+C00540	lactate	C00186	0
+C00541	lactobacillic acid	NA	0
+C00542	lactose	C00243	0
+C00543	lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*	NA	0
+C00544	lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*	NA	0
+C00545	lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)	NA	0
+C00546	lanthionine	NA	0
+C00547	laurate (12:0)	C02679	0
+C00548	laurylcarnitine (C12)	NA	0
+C00549	leucine	C00123	0
+C00550	leucylalanine	NA	0
+C00551	leucylglutamine*	NA	0
+C00552	leucylglycine	NA	0
+C00553	lignoceroyl sphingomyelin (d18:1/24:0)	NA	0
+C00554	lignoceroylcarnitine (C24)*	NA	0
+C00555	linoleate (18:2n6)	C01595	0
+C00556	linolenate (18:3n3 or 3n6)	C06426	0
+C00557	linolenoylcarnitine (C18:3)*	NA	0
+C00558	linoleoyl ethanolamide	NA	0
+C00559	linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]*	NA	0
+C00560	linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*	NA	0
+C00563	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]*	NA	0
+C00564	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [2]*	NA	0
+C00565	linoleoyl-linolenoyl-glycerol (18:2/18:3) [1]*	NA	0
+C00566	linoleoyl-linolenoyl-glycerol (18:2/18:3) [2]*	NA	0
+C00567	linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*	NA	0
+C00568	linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*	NA	0
+C00561	linoleoylcarnitine (C18:2)*	NA	0
+C00562	linoleoylcholine*	NA	0
+C00569	lithocholate sulfate (1)	NA	0
+C00570	lysine	C00047	0
+C00571	malate	C00149	0
+C00572	maleate	C01384	0
+C00573	malonate	C00383	0
+C00574	malonylcarnitine	NA	0
+C00575	maltose	C00208	0
+C00576	mannitol/sorbitol	C00794	0
+C00577	mannonate*	NA	0
+C00578	mannose	C00159	0
+C00579	margarate (17:0)	NA	0
+C00580	margaroylcarnitine (C17)*	NA	0
+C00581	mead acid (20:3n9)	NA	0
+C00582	methionine	C00073	0
+C00583	methionine sulfone	NA	0
+C00584	methionine sulfoxide	C02989	0
+C00585	methyl glucopyranoside (alpha + beta)	NA	0
+C00586	methyl-4-hydroxybenzoate sulfate	NA	0
+C00587	methylmalonate (MMA)	C02170	0
+C00588	methylphosphate	NA	0
+C00589	methylsuccinate	NA	0
+C00590	myo-inositol	C00137	0
+C00591	myristate (14:0)	C06424	0
+C00592	myristoleate (14:1n5)	C08322	0
+C00593	myristoleoylcarnitine (C14:1)*	NA	0
+C00594	myristoyl dihydrosphingomyelin (d18:0/14:0)*	NA	0
+C00596	myristoyl-linoleoyl-glycerol (14:0/18:2) [1]*	NA	0
+C00597	myristoyl-linoleoyl-glycerol (14:0/18:2) [2]*	NA	0
+C00595	myristoylcarnitine (C14)	NA	0
+C00655	nervonoylcarnitine (C24:1)*	NA	0
+C00659	nicotinamide	C00153	0
+C00660	nicotinamide N-oxide	NA	0
+C00661	nicotinamide riboside	C03150	0
+C00662	nisinate (24:6n3)	NA	0
+C00669	nonadecanoate (19:0)	C16535	0
+C00670	nonanoylcarnitine (C9)	NA	0
+C00683	o-cresol sulfate	NA	0
+C00684	octadecadienedioate (C18:2-DC)*	NA	0
+C00685	octadecanedioate (C18)	NA	0
+C00686	octadecanedioylcarnitine (C18-DC)*	NA	0
+C00687	octadecenedioate (C18:1-DC)*	NA	0
+C00688	octadecenedioylcarnitine (C18:1-DC)*	NA	0
+C00689	octanoylcarnitine (C8)	C02838	0
+C00690	oleate/vaccenate (18:1)	NA	0
+C00691	oleoyl ethanolamide	NA	0
+C00692	oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]*	NA	0
+C00693	oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*	NA	0
+C00696	oleoyl-linolenoyl-glycerol (18:1/18:3) [2]*	NA	0
+C00697	oleoyl-linoleoyl-glycerol (18:1/18:2) [1]	NA	0
+C00698	oleoyl-linoleoyl-glycerol (18:1/18:2) [2]	NA	0
+C00699	oleoyl-oleoyl-glycerol (18:1/18:1) [1]*	NA	0
+C00700	oleoyl-oleoyl-glycerol (18:1/18:1) [2]*	NA	0
+C00694	oleoylcarnitine (C18)	NA	0
+C00695	oleoylcholine	NA	0
+C00701	ornithine	C00077	0
+C00702	orotate	C00295	0
+C00703	orotidine	NA	0
+C00705	oxalate (ethanedioate)	C00209	0
+C00729	p-cresol glucuronide*	NA	0
+C00730	p-cresol sulfate	NA	0
+C00706	palmitate (16:0)	C00249	0
+C00707	palmitoleate (16:1n7)	C08362	0
+C00708	palmitoleoyl-arachidonoyl-glycerol (16:1/20:4) [2]*	NA	0
+C00710	palmitoleoyl-linoleoyl-glycerol (16:1/18:2) [1]*	NA	0
+C00709	palmitoleoylcarnitine (C16:1)*	NA	0
+C00711	palmitoloelycholine	NA	0
+C00712	palmitoyl dihydrosphingomyelin (d18:0/16:0)*	NA	0
+C00713	palmitoyl ethanolamide	C16512	0
+C00714	palmitoyl sphingomyelin (d18:1/16:0)	NA	0
+C00715	palmitoyl-arachidonoyl-glycerol (16:0/20:4) [1]*	NA	0
+C00716	palmitoyl-arachidonoyl-glycerol (16:0/20:4) [2]*	NA	0
+C00719	palmitoyl-docosahexaenoyl-glycerol (16:0/22:6) [1]*	NA	0
+C00720	palmitoyl-linolenoyl-glycerol (16:0/18:3) [2]*	NA	0
+C00721	palmitoyl-linoleoyl-glycerol (16:0/18:2) [1]*	NA	0
+C00722	palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]*	NA	0
+C00723	palmitoyl-oleoyl-glycerol (16:0/18:1) [1]*	C13861	0
+C00724	palmitoyl-oleoyl-glycerol (16:0/18:1) [2]*	C13861	0
+C00725	palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0)	NA	0
+C00717	palmitoylcarnitine (C16)	C02990	0
+C00718	palmitoylcholine	NA	0
+C00726	pantoate	C00522	0
+C00727	pantothenate (Vitamin B5)	C00864	0
+C00728	paraxanthine	C13747	0
+C00731	pelargonate (9:0)	C01601	0
+C00732	pentadecanoate (15:0)	C16537	0
+C00733	pentose acid*	NA	0
+C00734	perfluorooctanesulfonate (PFOS)	C18142	0
+C00735	perfluorooctanoate (PFOA)	NA	0
+C00736	phenol sulfate	C02180	0
+C00737	phenylacetylcarnitine	NA	0
+C00738	phenylacetylglutamine	C04148	0
+C00739	phenylalanine	C00079	0
+C00740	phenylalanylglycine	NA	0
+C00741	phenyllactate (PLA)	C05607	0
+C00742	phenylpyruvate	C00166	0
+C00743	phosphate	C00009	0
+C00353	phosphocholine	C00588	0
+C00744	phosphoethanolamine (PE)	C00346	0
+C00745	phytanate	C01607	0
+C00746	picolinate	C10164	0
+C00747	picolinoylglycine	NA	0
+C00748	pimelate (C7-DC)	C02656	0
+C00749	pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC)	NA	0
+C00750	pipecolate	C00408	0
+C00751	piperine	C03882	0
+C00752	pregnanediol-3-glucuronide	NA	0
+C00753	pregnanolone/allopregnanolone sulfate	NA	0
+C00754	pregnen-diol disulfate*	NA	0
+C00755	pregnenediol sulfate (C21H34O5S)*	NA	0
+C00756	pregnenetriol disulfate*	NA	0
+C00757	pregnenetriol sulfate*	NA	0
+C00758	pregnenolone sulfate	NA	0
+C00759	progesterone	C00410	0
+C00761	proline	C00148	0
+C00762	prolylglycine	NA	0
+C00760	prolylhydroxyproline	NA	0
+C00763	propionylcarnitine (C3)	C03017	0
+C00764	propyl 4-hydroxybenzoate sulfate	NA	0
+C00765	pseudouridine	C02067	0
+C00766	pyridoxal	C00250	0
+C00767	pyridoxate	C00847	0
+C00768	pyroglutamine*	NA	0
+C00769	pyrraline	NA	0
+C00770	pyruvate	C00022	0
+C00771	quinate	C00296	0
+C00772	quinolinate	C03722	0
+C00773	retinal	C00376	0
+C00774	retinol (Vitamin A)	C00473	0
+C00775	ribitol	C00474	0
+C00776	riboflavin (Vitamin B2)	C00255	0
+C00777	ribonate (ribonolactone)	C01685	0
+C00778	ribose	C00121	0
+C00779	ribulonate/xylulonate/lyxonate*	NA	0
+C00781	saccharopine	C00449	0
+C00782	salicylate	C00805	0
+C00784	sarcosine	C00213	0
+C00786	sebacate (C10-DC)	C08277	0
+C00787	sedoheptulose	NA	0
+C00788	serine	C00065	0
+C00789	serotonin	C00780	0
+C00792	spermidine	C00315	0
+C00793	sphingadienine	NA	0
+C00794	sphinganine	C00836	0
+C00795	sphinganine-1-phosphate	NA	0
+C00796	sphingomyelin (d17:1/14:0, d16:1/15:0)*	NA	0
+C00797	sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*	NA	0
+C00798	sphingomyelin (d17:2/16:0, d18:2/15:0)*	NA	0
+C00799	sphingomyelin (d18:0/18:0, d19:0/17:0)*	NA	0
+C00800	sphingomyelin (d18:0/20:0, d16:0/22:0)*	NA	0
+C00801	sphingomyelin (d18:1/14:0, d16:1/16:0)*	NA	0
+C00802	sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)	NA	0
+C00803	sphingomyelin (d18:1/18:1, d18:2/18:0)	NA	0
+C00804	sphingomyelin (d18:1/19:0, d19:1/18:0)*	NA	0
+C00805	sphingomyelin (d18:1/20:0, d16:1/22:0)*	NA	0
+C00806	sphingomyelin (d18:1/20:1, d18:2/20:0)*	NA	0
+C00807	sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)*	NA	0
+C00808	sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*	NA	0
+C00809	sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*	NA	0
+C00810	sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*	NA	0
+C00811	sphingomyelin (d18:1/24:1, d18:2/24:0)*	NA	0
+C00812	sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*	NA	0
+C00813	sphingomyelin (d18:2/14:0, d18:1/14:1)*	NA	0
+C00814	sphingomyelin (d18:2/16:0, d18:1/16:1)*	NA	0
+C00815	sphingomyelin (d18:2/18:1)*	NA	0
+C00816	sphingomyelin (d18:2/21:0, d16:2/23:0)*	NA	0
+C00817	sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*	NA	0
+C00818	sphingomyelin (d18:2/23:1)*	NA	0
+C00819	sphingomyelin (d18:2/24:1, d18:1/24:2)*	NA	0
+C00820	sphingomyelin (d18:2/24:2)*	NA	0
+C00821	sphingosine	C00319	0
+C00822	sphingosine 1-phosphate	C06124	0
+C00823	stachydrine	C10172	0
+C00824	stearate (18:0)	C01530	0
+C00825	stearidonate (18:4n3)	C16300	0
+C00826	stearoyl sphingomyelin (d18:1/18:0)	C00550	0
+C00827	stearoyl-arachidonoyl-glycerol (18:0/20:4) [1]*	NA	0
+C00828	stearoyl-arachidonoyl-glycerol (18:0/20:4) [2]*	NA	0
+C00829	stearoylcarnitine (C18)	NA	0
+C00830	stearoylcholine*	NA	0
+C00831	suberate (C8-DC)	C08278	0
+C00832	succinate	C00042	0
+C00833	succinimide	C07273	0
+C00834	succinylcarnitine (C4)	NA	0
+C00835	sucrose	C00089	0
+C00836	sulfate of piperine metabolite C16H19NO3 (2)*	NA	0
+C00837	sulfate of piperine metabolite C16H19NO3 (3)*	NA	0
+C00838	sulfate*	C00059	0
+C00839	tartarate	C00898	0
+C00840	tartronate (hydroxymalonate)	C02287	0
+C00841	taurine	C00245	0
+C00842	tauro-beta-muricholate	NA	0
+C00843	taurochenodeoxycholate	C05465	0
+C00844	taurochenodeoxycholic acid 3-sulfate	NA	0
+C00845	taurocholate	C05122	0
+C00846	taurocholenate sulfate*	NA	0
+C00847	taurodeoxycholate	C05463	0
+C00848	taurodeoxycholic acid 3-sulfate	NA	0
+C00849	taurolithocholate 3-sulfate	C03642	0
+C00850	tetradecadienoate (14:2)*	NA	0
+C00851	tetradecanedioate (C14)	NA	0
+C00852	theobromine	C07480	0
+C00853	theophylline	C07130	0
+C00854	thioproline	NA	0
+C00855	threonate	C01620	0
+C00856	threonine	C00188	0
+C00857	threonylphenylalanine	NA	0
+C00858	thymol sulfate	C09908	0
+C00859	thyroxine	C01829	0
+C00860	tigloylglycine	NA	0
+C00861	tiglyl carnitine (C5)	NA	0
+C00863	trans-urocanate	C00785	0
+C00864	tricosanoyl sphingomyelin (d18:1/23:0)*	NA	0
+C00865	tridecenedioate (C13:1-DC)*	NA	0
+C00866	trigonelline (N'-methylnicotinate)	C01004	0
+C00867	trimethylamine N-oxide	C01104	0
+C00868	tryptophan	C00078	0
+C00869	tryptophan betaine	C09213	0
+C00870	tyramine O-sulfate	NA	0
+C00871	tyrosine	C00082	0
+C00872	undecanedioate (C11-DC)	NA	0
+C00873	undecanoate (11:0)	C17715	0
+C00874	uracil	C00106	0
+C00875	urate	C00366	0
+C00876	urea	C00086	0
+C00877	uridine	C00299	0
+C00878	ursodeoxycholate	C07880	0
+C00879	valerate (5:0)	C00803	0
+C00880	valine	C00183	0
+C00881	valylglycine	NA	0
+C00882	vanillylmandelate (VMA)	C05584	0
+C00883	xanthine	C00385	0
+C00884	xanthosine	C01762	0
+C00885	ximenoylcarnitine (C26:1)*	NA	0
+C00886	xylose	C00181	0
