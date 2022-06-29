@@ -1,0 +1,1175 @@
+BIOCHEMICAL	KEGG	PUBCHEM	compound_id
+(14 or 15)-methylpalmitate (a17:0 or i17:0)	C16995	8181,17903417	C000001
+(16 or 17)-methylstearate (a19:0 or i19:0)	NA	3083779	C000002
+(2 or 3)-decenoate (10:1n7 or n8)	NA	NA	C000003
+(2,4 or 2,5)-dimethylphenol sulfate	NA	NA	C000004
+(2-butoxyethoxy)acetic acid	NA	106312	C000005
+(R)-3-hydroxybutyrylcarnitine	NA	53481617	C000006
+(S)-3-hydroxybutyrylcarnitine	NA	71464477	C000007
+(S)-a-amino-omega-caprolactam	C02837	440599	C000008
+1,2,3-benzenetriol sulfate (2)	NA	92013662,54110629	C000009
+1,2-dilinoleoyl-GPC (18:2/18:2)	NA	5288075	C000010
+1,2-dipalmitoyl-GPC (16:0/16:0)	D03585	452110	C000011
+1,3,7-trimethylurate	C16361	79437	C000012
+1,3-dimethylurate	NA	70346	C000013
+1,5-anhydroglucitol (1,5-AG)	C07326	64960	C000014
+1,6-anhydroglucose	NA	2724705	C000015
+1,7-dimethylurate	C16356	91611	C000016
+1-(1-enyl-oleoyl)-GPE (P-18:1)*	NA	NA	C000017
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*	NA	NA	C000018
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*	NA	52925126	C000019
+1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*	NA	24779386	C000020
+1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*	NA	52925127	C000021
+1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*	NA	34779384	C000022
+1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*	NA	52925128	C000023
+1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*	NA	52923882	C000024
+1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*	NA	11146967	C000025
+1-(1-enyl-palmitoyl)-GPC (P-16:0)*	NA	10917802	C000026
+1-(1-enyl-palmitoyl)-GPE (P-16:0)*	NA	NA	C000027
+1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*	NA	9547058	C000028
+1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*	NA	NA	C000029
+1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)	NA	42607457	C000030
+1-(1-enyl-stearoyl)-GPE (P-18:0)*	NA	NA	C000031
+1-arachidonoyl-GPC (20:4n6)*	C05208	24779476	C000032
+1-arachidonoyl-GPE (20:4n6)*	NA	42607465	C000033
+1-arachidonoyl-GPI (20:4)*	NA	121596217	C000034
+1-arachidonylglycerol (20:4)	C13857	16019980,5282281	C000035
+1-carboxyethylisoleucine	NA	NA	C000036
+1-carboxyethylleucine	NA	NA	C000037
+1-carboxyethylphenylalanine	NA	59100900	C000038
+1-carboxyethyltyrosine	NA	NA	C000039
+1-carboxyethylvaline	NA	NA	C000040
+1-cerotoyl-GPC (26:0)*	NA	NA	C000041
+1-hydroxy-2-naphthalenecarboxylate	C03203	54675865	C000042
+1-lignoceroyl-GPC (24:0)	NA	24779481	C000043
+1-linolenoyl-GPC (18:3)*	C04100	NA	C000044
+1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*	C05208	24778979	C000045
+1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*	NA	52922731	C000046
+1-linoleoyl-GPC (18:2)	C04100	11988421	C000047
+1-linoleoyl-GPE (18:2)*	NA	52925130	C000048
+1-linoleoyl-GPG (18:2)*	NA	NA	C000049
+1-linoleoyl-GPI (18:2)*	NA	11124828	C000050
+1-linoleoylglycerol (18:2)	NA	5283469	C000051
+1-methyl-4-imidazoleacetate	C05828	75810	C000052
+1-methyl-5-imidazoleacetate	NA	6451814	C000053
+1-methylguanidine	C02294	10111	C000054
+1-methylhistidine	C01152	92105	C000055
+1-methylnicotinamide	C02918	457	C000056
+1-methylurate	C16359	69726	C000057
+1-methylxanthine	C16358	80220	C000058
+1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*	NA	24778634	C000059
+1-myristoyl-2-palmitoyl-GPC (14:0/16:0)	NA	129657	C000060
+1-oleoyl-2-arachidonoyl-GPE (18:1/20:4)*	NA	348281223	C000061
+1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)*	NA	24778955	C000062
+1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*	NA	52922113	C000063
+1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*	NA	9546753	C000064
+1-oleoyl-GPC (18:1)	C03916	16081932	C000065
+1-oleoyl-GPE (18:1)	NA	9547071	C000066
+1-oleoyl-GPG (18:1)*	NA	NA	C000067
+1-oleoyl-GPI (18:1)	NA	86289645	C000068
+1-oleoylglycerol (18:1)	NA	5283468	C000069
+1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*	NA	52922452	C000070
+1-palmitoleoyl-GPC (16:1)*	NA	24779461	C000071
+1-palmitoleoylglycerol (16:1)*	NA	NA	C000072
+1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6)	C05208	10747814	C000073
+1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*	C05210	9546800	C000074
+1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*	NA	NA	C000075
+1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)	NA	6441886	C000076
+1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*	NA	9546799	C000077
+1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)	NA	5287971	C000078
+1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)	NA	9546747	C000079
+1-palmitoyl-2-linoleoyl-GPI (16:0/18:2)	NA	46891795	C000080
+1-palmitoyl-2-oleoyl-GPC (16:0/18:1)	C13875	6436017	C000081
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1)	NA	5283496	C000082
+1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*	NA	71296232	C000083
+1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*	NA	6443788	C000084
+1-palmitoyl-2-stearoyl-GPC (16:0/18:0)	C03889	24778686	C000085
+1-palmitoyl-GPC (16:0)	C04102	86554	C000086
+1-palmitoyl-GPE (16:0)	NA	9547069	C000087
+1-palmitoyl-GPG (16:0)*	NA	3300276	C000088
+1-palmitoyl-GPI (16:0)	NA	71296207	C000089
+1-ribosyl-imidazoleacetate*	C05131	440569	C000090
+1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)	NA	16219824	C000091
+1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)	C05210	5289133	C000092
+1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)	NA	NA	C000093
+1-stearoyl-2-arachidonoyl-GPS (18:0/20:4)	NA	24779545	C000094
+1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)	NA	24778876	C000095
+1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*	NA	9546798	C000096
+1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*	NA	6441487	C000097
+1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*	NA	9546749	C000098
+1-stearoyl-2-linoleoyl-GPI (18:0/18:2)	NA	NA	C000099
+1-stearoyl-2-oleoyl-GPC (18:0/18:1)	NA	24778825	C000100
+1-stearoyl-2-oleoyl-GPE (18:0/18:1)	NA	9546742	C000101
+1-stearoyl-2-oleoyl-GPI (18:0/18:1)*	NA	NA	C000102
+1-stearoyl-2-oleoyl-GPS (18:0/18:1)	NA	9547087	C000103
+1-stearoyl-GPC (18:0)	NA	497300	C000104
+1-stearoyl-GPE (18:0)	NA	9547068	C000105
+1-stearoyl-GPG (18:0)	NA	NA	C000106
+1-stearoyl-GPI (18:0)	NA	71581135,42607495	C000107
+10-heptadecenoate (17:1n7)	NA	5312435	C000108
+10-hydroxywarfarin	NA	54692492	C000109
+10-nonadecenoate (19:1n9)	NA	5312513	C000110
+10-undecenoate (11:1n1)	C13910	14891	C000111
+11beta-hydroxyandrosterone glucuronide	NA	NA	C000112
+12,13-DiHOME	C14829	10236635	C000113
+13-HODE + 9-HODE	C14767,C14762	5312830,5282945,1424,5282947,5282944	C000114
+16-hydroxypalmitate	C18218	10466	C000115
+16alpha-hydroxy DHEA 3-sulfate	NA	20848950	C000116
+17alpha-hydroxypregnanolone glucuronide	NA	NA	C000117
+17alpha-hydroxypregnenolone 3-sulfate	NA	152971	C000118
+2'-O-methylcytidine	NA	150971	C000119
+2'-O-methyluridine	NA	102212	C000120
+2'-deoxyuridine	C00526	13712	C000121
+2,2'-methylenebis(6-tert-butyl-p-cresol)	NA	8398	C000122
+2,3-dihydroxy-2-methylbutyrate	NA	301941	C000123
+2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*	NA	NA	C000124
+2,3-dihydroxyisovalerate	C04039	677	C000125
+2,3-dihydroxypyridine	NA	28115	C000126
+2,3-diphosphoglycerate	C01159	186004	C000127
+2,4,6-trihydroxybenzoate	NA	66520	C000128
+2,4-di-tert-butylphenol	NA	NA	C000129
+2,6-dihydroxybenzoic acid	NA	9338	C000130
+2,8-quinolinediol sulfate	NA	NA	C000131
+2-O-methylascorbic acid	NA	54726398	C000132
+2-acetamidophenol sulfate	NA	181671	C000133
+2-aminoadipate	C00956	92136	C000134
+2-aminobutyrate	C02356	80283	C000135
+2-aminoheptanoate	NA	227939	C000136
+2-aminooctanoate	NA	69522	C000137
+2-aminophenol sulfate	NA	181670	C000138
+2-butenoylglycine	NA	6303498	C000139
+2-ethylphenylsulfate	NA	NA	C000140
+2-furoylcarnitine	NA	NA	C000141
+2-hydroxy-3-methylvalerate	NA	164623	C000142
+2-hydroxy-4-(methylthio)butanoic acid	NA	11427	C000143
+2-hydroxyacetaminophen sulfate*	NA	86290013	C000144
+2-hydroxyarachidate*	NA	5225199	C000145
+2-hydroxybehenate	NA	193484	C000146
+2-hydroxybutyrate/2-hydroxyisobutyrate	C21297,C05984	440864,4277439	C000147
+2-hydroxydecanoate	NA	21488	C000148
+2-hydroxyfluorene sulfate	NA	NA	C000149
+2-hydroxyglutarate	C02630	43	C000150
+2-hydroxyhippurate (salicylurate)	C07588	10253	C000151
+2-hydroxyibuprofen	NA	10443535	C000152
+2-hydroxylaurate	NA	97783	C000153
+2-hydroxynervonate*	NA	5312783	C000154
+2-hydroxyoctanoate	NA	94180,6995013,5312860	C000155
+2-hydroxypalmitate	NA	12575964,92836,11065598	C000156
+2-hydroxyphenylacetate	C05852	11970	C000157
+2-hydroxyphytanate*	NA	189026	C000158
+2-hydroxysebacate	NA	128458	C000159
+2-hydroxystearate	C03042,C03045	439887,439885,69417	C000160
+2-keto-3-deoxy-gluconate	C00204	161227	C000161
+2-ketocaprylate	NA	67600	C000162
+2-methoxyacetaminophen glucuronide*	NA	121596203	C000163
+2-methoxyacetaminophen sulfate*	NA	86290014	C000164
+2-methoxyhydroquinone sulfate (1)	NA	NA	C000165
+2-methoxyhydroquinone sulfate (2)	NA	NA	C000166
+2-methoxyresorcinol sulfate	NA	NA	C000167
+2-methylbutyrylcarnitine (C5)	NA	6426901	C000168
+2-methylbutyrylglycine	NA	193872	C000169
+2-methylcitrate/homocitrate	C01251	439459,515	C000170
+2-methylhexanoylcarnitine	NA	NA	C000171
+2-naphthol sulfate	NA	74428	C000172
+2-octenoylglycine	NA	131802981	C000173
+2-oleoylglycerol (18:1)	NA	5319879	C000174
+2-oxindole-3-acetate	NA	3080590	C000175
+2-oxoarginine*	C03771	558	C000176
+2-palmitoleoyl-GPC (16:1)*	NA	122164832	C000177
+2-palmitoyl-GPC (16:0)*	NA	15061532	C000178
+2-piperidinone	NA	12665	C000179
+2-propyl-4-pentenoate (4-ene-valproate)	NA	104896	C000180
+2-pyrrolidinone	NA	12025	C000181
+2-stearoyl-GPE (18:0)*	NA	90658453,53480667	C000182
+21-hydroxypregnenolone disulfate	NA	134595	C000183
+2R,3R-dihydroxybutyrate	NA	13120901	C000184
+2S,3R-dihydroxybutyrate	NA	10964471	C000185
+3,4-dihydroxybutyrate	NA	150929	C000186
+3,5-dichloro-2,6-dihydroxybenzoic acid	NA	24721632	C000187
+3,7-dimethylurate	C16360	83126	C000188
+3-(2-methoxyethoxy)propanoic acid	NA	16718874	C000189
+3-(3-amino-3-carboxypropyl)uridine*	NA	171198	C000190
+3-(3-hydroxyphenyl)propionate	C11457	91	C000191
+3-(3-hydroxyphenyl)propionate sulfate	NA	187488	C000192
+3-(4-hydroxyphenyl)lactate	C03672	9378	C000193
+3-(N-acetyl-cystein-S-yl) acetaminophen	NA	83967	C000194
+3-(cystein-S-yl)acetaminophen*	NA	171264	C000195
+3-(methylthio)acetaminophen sulfate*	NA	NA	C000196
+3-acetylphenol sulfate	NA	NA	C000197
+3-amino-2-piperidone	NA	5200225	C000198
+3-aminoisobutyrate	C05145	64956	C000199
+3-bromo-5-chloro-2,6-dihydroxybenzoic acid*	NA	134581543	C000200
+3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**	NA	194501	C000201
+3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	NA	123979	C000202
+3-decenoylcarnitine	NA	NA	C000203
+3-ethylcatechol sulfate (1)	NA	NA	C000204
+3-ethylcatechol sulfate (2)	NA	NA	C000205
+3-formylindole	C08493	10256	C000206
+3-hydroxy-2-ethylpropionate	NA	188979	C000207
+3-hydroxy-2-methylpyridine sulfate	NA	NA	C000208
+3-hydroxy-3-methylglutarate	C03761	1662,5459993	C000209
+3-hydroxyadipate	NA	151913	C000210
+3-hydroxyarachidate*	NA	5282918	C000211
+3-hydroxybutyrate (BHBA)	C03197,C01089	94318,441,92135	C000212
+3-hydroxybutyroylglycine**	NA	NA	C000213
+3-hydroxycotinine glucuronide	NA	53477725	C000214
+3-hydroxydecanoate	NA	26612	C000215
+3-hydroxydecanoylcarnitine	NA	121454166	C000216
+3-hydroxydodecanedioate*	NA	16663321	C000217
+3-hydroxyhexanoate	NA	151492	C000218
+3-hydroxyhexanoylcarnitine (1)	NA	NA	C000219
+3-hydroxyhippurate	NA	450268	C000220
+3-hydroxyhippurate sulfate	NA	186339	C000221
+3-hydroxyindolin-2-one sulfate	NA	NA	C000222
+3-hydroxyisobutyrate	C01188,C06001	11966314	C000223
+3-hydroxykynurenine	C02794	89	C000224
+3-hydroxylaurate	NA	94216	C000225
+3-hydroxymyristate	NA	16064	C000226
+3-hydroxyoctanoate	C20793	26613	C000227
+3-hydroxyoleoylcarnitine	NA	129637446	C000228
+3-hydroxyphenylacetoylglutamine	NA	NA	C000229
+3-hydroxypyridine glucuronide	NA	NA	C000230
+3-hydroxypyridine sulfate	NA	NA	C000231
+3-hydroxysebacate	NA	3017884	C000232
+3-hydroxystachydrine*	C10151	46173781	C000233
+3-hydroxystearate	NA	5282907	C000234
+3-hydroxyvalproate	C16651	134459	C000235
+3-indoleglyoxylic acid	NA	73863	C000236
+3-indoxyl sulfate	NA	10258	C000237
+3-methoxycatechol sulfate (1)	NA	129892430	C000238
+3-methoxycatechol sulfate (2)	NA	NA	C000239
+3-methoxytyramine sulfate	NA	54133459	C000240
+3-methoxytyrosine	NA	9307	C000241
+3-methyl catechol sulfate (1)	NA	118431379	C000242
+3-methyl-2-oxobutyrate	C00141	49	C000243
+3-methyl-2-oxovalerate	C03465,C06008,C00671	439286,440877	C000244
+3-methyladipate	NA	12292	C000245
+3-methylcrotonylglycine	C20828	169485	C000246
+3-methylcytidine	NA	14237477	C000247
+3-methylglutaconate	NA	1551553	C000248
+3-methylglutarylcarnitine (2)	NA	128145	C000249
+3-methylhistidine	C01152	64969	C000250
+3-methylurate*	NA	11804	C000251
+3-methylxanthine	C16357	70639	C000252
+3-phenylpropionate (hydrocinnamate)	C05629	107	C000253
+3-phosphoglycerate	C00597	724	C000254
+3-ureidopropionate	C02642	111	C000255
+3beta,7alpha-dihydroxy-5-cholestenoate	C17335	3081084	C000256
+3beta-hydroxy-5-cholenoate	NA	92997	C000257
+3beta-hydroxy-5-cholestenoate	C17333	165511	C000258
+4-acetamidobenzoate	D03836	6918889	C000259
+4-acetamidobutanoate	C02946	18189	C000260
+4-acetamidophenol	C06804	1983	C000261
+4-acetamidophenylglucuronide	NA	4022661,83944	C000262
+4-acetaminophen sulfate	C06804	83939	C000263
+4-acetylcatechol sulfate (1)	NA	NA	C000264
+4-acetylphenol sulfate	NA	4684006	C000265
+4-allylcatechol sulfate	NA	NA	C000266
+4-allylphenol sulfate	NA	66633409	C000267
+4-aminophenol sulfate (2)	NA	NA	C000268
+4-chlorobenzoic acid	C02370	6318	C000269
+4-cholesten-3-one	C00599	91477	C000270
+4-ethylcatechol sulfate	NA	NA	C000271
+4-ethylphenylsulfate	C13637	20822574	C000272
+4-guanidinobutanoate	C01035	500	C000273
+4-hydroxy duloxetine glucuronide*	NA	29981512	C000274
+4-hydroxy-2-oxoglutaric acid	C01127	599	C000275
+4-hydroxychlorothalonil	NA	34217	C000276
+4-hydroxycoumarin	C20414	54682930	C000277
+4-hydroxyglutamate	C03079	439902	C000278
+4-hydroxyhippurate	NA	151012	C000279
+4-hydroxyphenylacetate	C00642	127	C000280
+4-hydroxyphenylacetoylcarnitine	NA	NA	C000281
+4-hydroxyphenylacetylglutamine	NA	NA	C000282
+4-hydroxyphenylpyruvate	C01179	979	C000283
+4-imidazoleacetate	C02835	96215	C000284
+4-methoxyphenol sulfate	NA	NA	C000285
+4-methyl-2-oxopentanoate	C00233	70	C000286
+4-methylbenzenesulfonate	C06677	85570	C000287
+4-methylcatechol sulfate	NA	54104170	C000288
+4-methylguaiacol sulfate	NA	NA	C000289
+4-methylhexanoylglutamine	NA	NA	C000290
+4-methylhexanoylglycine	NA	NA	C000291
+4-ureidobutyrate	NA	1571307	C000292
+4-vinylguaiacol glucuronide	NA	NA	C000293
+4-vinylguaiacol sulfate	NA	53803570	C000294
+4-vinylphenol sulfate	C05627	6426766	C000295
+5,6-dihydrothymine	C00906	93556	C000296
+5,6-dihydrouridine	NA	94312	C000297
+5-(galactosylhydroxy)-lysine	NA	66995551	C000298
+5-acetylamino-6-amino-3-methyluracil	C16366	88299	C000299
+5-acetylamino-6-formylamino-3-methyluracil	C16365	108214	C000300
+5-dodecenoate (12:1n7)	NA	5312378	C000301
+5-dodecenoylcarnitine (C12:1)	NA	91825571	C000302
+5-hydroxy-2-methylpyridine sulfate	NA	NA	C000303
+5-hydroxy-6-methoxy duloxetine sulfate*	NA	NA	C000304
+5-hydroxyhexanoate	NA	170748	C000305
+5-hydroxyindole glucuronide	NA	NA	C000306
+5-hydroxyindole sulfate	NA	NA	C000307
+5-hydroxylysine	C16741	3032849	C000308
+5-hydroxymethyl-2-furoylcarnitine*	NA	NA	C000309
+5-methylthioadenosine (MTA)	C00170	439176	C000310
+5-methylthioribose**	NA	6419710	C000311
+5-methyluridine (ribothymidine)	NA	445408	C000312
+5-oxoproline	C02237,C01879	439685,7405	C000313
+5alpha-androstan-3alpha,17beta-diol 17-glucuronide	NA	NA	C000314
+5alpha-androstan-3alpha,17beta-diol disulfate	NA	56639109	C000315
+5alpha-androstan-3alpha,17beta-diol monosulfate (1)	NA	121596226,121596225	C000316
+5alpha-androstan-3alpha,17beta-diol monosulfate (2)	NA	121596225	C000317
+5alpha-androstan-3beta,17alpha-diol disulfate	NA	56639109	C000318
+5alpha-androstan-3beta,17beta-diol disulfate	C12525	90186325	C000319
+5alpha-androstan-3beta,17beta-diol monosulfate (2)	NA	NA	C000320
+5alpha-pregnan-3beta,20alpha-diol disulfate	NA	118703093	C000321
+5alpha-pregnan-3beta,20alpha-diol monosulfate (2)	NA	NA	C000322
+5alpha-pregnan-3beta,20beta-diol monosulfate (1)	NA	NA	C000323
+5alpha-pregnan-diol disulfate	NA	3082277,5127902	C000324
+6-bromotryptophan	NA	9856996	C000325
+6-hydroxyindole sulfate	NA	122198196	C000326
+6-hydroxywarfarin	NA	54682459	C000327
+6-oxopiperidine-2-carboxylate	NA	3014237	C000328
+7-hydroxyoctanoate	NA	167627	C000329
+7-hydroxywarfarin	NA	54682507,54732122	C000330
+7-methylguanine	C02242	135398679	C000331
+7-methylurate	C16355	69160	C000332
+7-methylxanthine	C16353	68374	C000333
+7alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)	C17337	3081085	C000334
+8-methoxykynurenate	C05830	76230	C000335
+9,10-DiHOME	C14828	9966640	C000336
+9-hydroxystearate	NA	9570127	C000337
+C-glycosyltryptophan	NA	10981970	C000338
+De(carboxymethoxy) cetirizine acetic acid	NA	NA	C000339
+EDTA	C00284	6049	C000340
+GlcNAc sulfate conjugate of C21H34O2 steroid**	NA	NA	C000341
+I-urobilinogen	C05789	9548718	C000342
+L-urobilin	C05793	5280818	C000343
+N('1)-acetylspermidine	C00612	496	C000344
+N,N,N-trimethyl-5-aminovalerate	NA	14274897	C000345
+N,N,N-trimethyl-alanylproline betaine (TMAP)	NA	NA	C000346
+N,N-dimethyl-5-aminovalerate	NA	NA	C000347
+N,N-dimethylalanine	NA	5488191	C000348
+N,O-didesmethylvenlafaxine glucuronide	NA	71316036	C000349
+N-(2-furoyl)glycine	NA	21863	C000350
+N-acetyl sulfapyridine	NA	58638	C000351
+N-acetyl-1-methylhistidine*	NA	53859791	C000352
+N-acetyl-2-aminooctanoate*	NA	95555	C000353
+N-acetyl-3-methylhistidine*	NA	193270	C000354
+N-acetyl-4-chlorophenylalanine	NA	NA	C000355
+N-acetyl-aspartyl-glutamate (NAAG)	C12270	188803	C000356
+N-acetyl-beta-alanine	C01073	76406	C000357
+N-acetyl-isoputreanine	NA	131802901	C000358
+N-acetylalanine	C02847	88064	C000359
+N-acetylalliin	NA	NA	C000360
+N-acetylarginine	C02562	67427	C000361
+N-acetylasparagine	NA	99715	C000362
+N-acetylaspartate (NAA)	C01042	65065	C000363
+N-acetylcarnosine	NA	9903482	C000364
+N-acetylcitrulline	C15532,C02851	656979	C000365
+N-acetylglucosamine/N-acetylgalactosamine	C01074	439174,84265	C000366
+N-acetylglucosaminylasparagine	C04540	123826	C000367
+N-acetylglutamate	C00624	70914	C000368
+N-acetylglutamine	C02716	182230	C000369
+N-acetylglycine	NA	10972	C000370
+N-acetylhistamine	C05135	69602	C000371
+N-acetylhistidine	C02997	75619	C000372
+N-acetylisoleucine	NA	306109	C000373
+N-acetylkynurenine (2)	NA	73817779	C000374
+N-acetylleucine	C02710	70912	C000375
+N-acetylmethionine	C02712	448580	C000376
+N-acetylneuraminate	C00270	439197	C000377
+N-acetylphenylalanine	C03519	74839	C000378
+N-acetylproline	NA	322640	C000379
+N-acetylputrescine	C02714	122356	C000380
+N-acetylpyrraline	C01227	NA	C000381
+N-acetylserine	NA	65249	C000382
+N-acetyltaurine	NA	159864	C000383
+N-acetyltheanine	NA	NA	C000384
+N-acetylthreonine	NA	152204	C000385
+N-acetyltryptophan	C03137	439917,700653	C000386
+N-acetyltyrosine	NA	68310	C000387
+N-acetylvaline	NA	66789	C000388
+N-behenoyl-sphingadienine (d18:2/22:0)*	NA	NA	C000389
+N-delta-acetylornithine	C00437	9920500	C000390
+N-desalkylquetiapine*	NA	11369918	C000391
+N-formylanthranilic acid	C05653	101399	C000392
+N-formylmethionine	C03145	439750	C000393
+N-formylphenylalanine	NA	759256,7064571	C000394
+N-methylpipecolate	NA	11286529	C000395
+N-methylproline	NA	643474	C000396
+N-methyltaurine	NA	7882	C000397
+N-oleoylserine	NA	44190514	C000398
+N-oleoyltaurine	NA	6437033	C000399
+N-palmitoyl-heptadecasphingosine (d17:1/16:0)*	NA	NA	C000400
+N-palmitoyl-sphingadienine (d18:2/16:0)*	NA	NA	C000401
+N-palmitoyl-sphinganine (d18:0/16:0)	NA	5283572	C000402
+N-palmitoyl-sphingosine (d18:1/16:0)	NA	5283564	C000403
+N-palmitoylglycine	NA	151008	C000404
+N-stearoyl-sphingadienine (d18:2/18:0)*	NA	132282053	C000405
+N-stearoyl-sphinganine (d18:0/18:0)*	NA	5283573	C000406
+N-stearoyl-sphingosine (d18:1/18:0)*	NA	5283565	C000407
+N-stearoyltaurine	NA	168274	C000408
+N1-methyl-2-pyridone-5-carboxamide	C05842	69698	C000409
+N1-methyladenosine	C02494	27476	C000410
+N1-methylguanosine	NA	96373	C000411
+N1-methylinosine	NA	650095	C000412
+N2,N2-dimethylguanosine	NA	135501639	C000413
+N2,N5-diacetylornithine	NA	65977	C000414
+N2-acetyl,N6,N6-dimethyllysine	NA	NA	C000415
+N2-acetyl,N6-methyllysine	NA	NA	C000416
+N2-acetyllysine	C12989	92907	C000417
+N2-methylguanosine	NA	135501934	C000418
+N4-acetyl-5-hydroxysulfamethoxazole*	NA	NA	C000419
+N4-acetylcytidine	NA	107461	C000420
+N4-acetylsulfamethoxazole*	D01601,C13061	65280	C000421
+N6,N6,N6-trimethyllysine	C03793	440120	C000422
+N6,N6-dimethyllysine	C05545	193344	C000423
+N6-acetyllysine	C02727	92832	C000424
+N6-carbamoylthreonyladenosine	NA	161466	C000425
+N6-methyllysine	C02728	164795	C000426
+N6-succinyladenosine	NA	165243	C000427
+O-desmethyltramadol	NA	9838803	C000428
+O-desmethyltramadol glucuronide	NA	29919005	C000429
+O-desmethylvenlafaxine	D07793	125017	C000430
+O-sulfo-tyrosine	NA	514186	C000431
+S-(3-hydroxypropyl)mercapturic acid (HPMA)	NA	119083	C000432
+S-1-pyrroline-5-carboxylate	C04322	11966181	C000433
+S-adenosylhomocysteine (SAH)	C00021	439155	C000434
+S-allylcysteine	NA	98280	C000435
+S-carboxyethylcysteine	NA	NA	C000436
+S-methylcysteine	NA	24417,7058174,88180	C000437
+S-methylcysteine sulfoxide	NA	82142	C000438
+S-methylmethionine	C05319	458	C000439
+THC carboxylic acid	NA	107885	C000440
+THC carboxylic acid glucuronide	NA	NA	C000441
+acesulfame	NA	36573	C000442
+acetylcarnitine (C2)	C02571	7045767	C000443
+acisoga	NA	129397	C000444
+aconitate [cis or trans]	C004174,C02341	444212,643757	C000445
+adenine	C00147	190	C000446
+adenosine 3',5'-cyclic monophosphate (cAMP)	C00575	6076	C000447
+adenosine 5'-monophosphate (AMP)	C00020	6083	C000448
+adipoylcarnitine (C6-DC)	NA	71296139	C000449
+adrenate (22:4n6)	C16527	5282844,5497181	C000450
+adrenoylcarnitine (C22:4)*	NA	NA	C000451
+alanine	C00041	5950	C000452
+allantoin	C02348,C01551,C02350	439714,204,439713	C000453
+alliin	C08265	87310	C000454
+allo-threonine	C05519	99289	C000455
+allopurinol	D00224	135401907	C000456
+allopurinol riboside	NA	135407110	C000457
+alpha-CEHC	NA	9943542	C000458
+alpha-CEHC glucuronide*	NA	134819285	C000459
+alpha-CEHC sulfate	NA	NA	C000460
+alpha-CMBHC glucuronide	NA	NA	C000461
+alpha-hydroxycaproate	NA	99824	C000462
+alpha-hydroxyisocaproate	C03264	83697,92779,439960	C000463
+alpha-hydroxyisovalerate	NA	99823	C000464
+alpha-hydroxymetoprolol	NA	114962	C000465
+alpha-ketobutyrate	C00109	58	C000466
+alpha-ketoglutaramate*	C00940	48	C000467
+alpha-ketoglutarate	C00026	51	C000468
+alpha-tocopherol	C02477	86472	C000469
+amoxicillin	DG00520,C06827,D00229	33613	C000470
+andro steroid monosulfate C19H28O6S (1)*	NA	159663	C000471
+androstenediol (3alpha, 17alpha) monosulfate (2)	NA	NA	C000472
+androstenediol (3alpha, 17alpha) monosulfate (3)	NA	NA	C000473
+androstenediol (3beta,17beta) disulfate (1)	C04295	87120982	C000474
+androstenediol (3beta,17beta) disulfate (2)	NA	87120982	C000475
+androstenediol (3beta,17beta) monosulfate (1)	NA	129670631,13847309	C000476
+androstenediol (3beta,17beta) monosulfate (2)	NA	NA	C000477
+androsterone glucuronide	C11135	114833	C000478
+androsterone sulfate	NA	159663	C000479
+anserine	C01262	112072	C000480
+anthranilate	C00108	227	C000481
+arabinose	C00216	66308	C000482
+arabitol/xylitol	C00379,C00542,C01904	94154,6912	C000483
+arabonate/xylonate	C00502,C05411	122045,6602431	C000484
+arachidate (20:0)	C06425	10467	C000485
+arachidonate (20:4n6)	C00219	444899	C000486
+arachidonoylcarnitine (C20:4)	NA	136212424	C000487
+arachidonoylcholine	NA	122198216	C000488
+arachidoylcarnitine (C20)*	NA	53477833	C000489
+argininate*	NA	160437	C000490
+arginine	C00062	6322	C000491
+ascorbate (vitamin C)	D00018,C00072	54670067	C000492
+ascorbic acid 2-sulfate	NA	54676864	C000493
+ascorbic acid 3-sulfate*	NA	11425365	C000494
+asparagine	C00152	6267	C000495
+aspartate	C00049	5960	C000496
+atenolol	D00235	2249	C000497
+atorvastatin	D07474,D02258,D00887	60822	C000498
+atorvastatin lactone	NA	6483036	C000499
+azelate (C9-DC)	C08261	2266	C000500
+behenate (22:0)*	C08281	8215	C000501
+behenoyl dihydrosphingomyelin (d18:0/22:0)*	NA	44260132	C000502
+behenoyl sphingomyelin (d18:1/22:0)*	NA	44260125	C000503
+behenoylcarnitine (C22)*	NA	71464577	C000504
+benazepril	D07499,C06843	5362124	C000505
+benazeprilat	D03077	5463984	C000506
+benzoate	C00180	243	C000507
+benzoylcarnitine*	NA	NA	C000508
+benzoylecgonine	C10847	448223	C000509
+bestatin	D00087	72172	C000510
+beta-alanine	C00099	239	C000511
+beta-citrylglutamate	C20775	189741	C000512
+beta-cryptoxanthin	C08591	5281235	C000513
+beta-guanidinopropanoate	C03065	67701	C000514
+beta-hydroxyisovalerate	NA	69362	C000515
+beta-hydroxyisovaleroylcarnitine	NA	NA	C000516
+beta-hydroxyisovalerylglycine	NA	129651821	C000517
+betaine	C00719	247	C000518
+betonicine	C08269	164642	C000519
+bilirubin (E,E)*	NA	129320511	C000520
+bilirubin (E,Z or Z,E)*	C00486	5799469	C000521
+bilirubin (Z,Z)	C00486	5280352	C000522
+biliverdin	C00500	5280353	C000523
+branched chain 14:0 dicarboxylic acid**	NA	NA	C000524
+branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*	NA	NA	C000525
+branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*	NA	NA	C000526
+butyrate/isobutyrate (4:0)	C00246	264	C000527
+butyrylcarnitine (C4)	C02862	439829	C000528
+caffeic acid sulfate	NA	21668705	C000529
+caffeine	C07481	2519	C000530
+campesterol	C01789	173183	C000531
+caprate (10:0)	C01571	2969	C000532
+caproate (6:0)	C01585	8892	C000533
+caprylate (8:0)	C06423	379	C000534
+carbamazepine	C06868,D00252	2554	C000535
+carbamazepine 10,11-epoxide	C07496	2555	C000536
+carbamazepine glucuronide*	NA	83870	C000537
+carboxyethyl-GABA	NA	2572	C000538
+carboxyibuprofen	NA	10444113	C000539
+carboxysuccinate	NA	313489	C000540
+carnitine	C00487,C00308	288	C000541
+carnitine of C10H14O2 (5)*	NA	NA	C000542
+carnosine	C00386	439224	C000543
+carotene diol (1)	NA	NA	C000544
+carotene diol (2)	NA	NA	C000545
+carotene diol (3)	NA	NA	C000546
+catechol glucuronide	NA	75124209	C000547
+catechol sulfate	NA	3083879	C000548
+celecoxib	D00567,C07589	2662	C000549
+ceramide (d16:1/24:1, d18:1/22:1)*	NA	NA	C000550
+ceramide (d18:1/14:0, d16:1/16:0)*	NA	NA	C000551
+ceramide (d18:1/17:0, d17:1/18:0)*	NA	NA	C000552
+ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)*	NA	NA	C000553
+ceramide (d18:2/24:1, d18:1/24:2)*	NA	NA	C000554
+cerotoylcarnitine (C26)*	NA	53477828	C000555
+cetirizine	C07778	2678	C000556
+chenodeoxycholic acid sulfate (1)	NA	21252308	C000557
+chiro-inositol	C19891	NA	C000558
+chlorthalidone	D00272	2732	C000559
+cholate	C00695	221493	C000560
+cholesterol	C00187	5997,6432564,11025495	C000561
+cholic acid glucuronide	NA	21252309	C000562
+choline	C00114	305	C000563
+choline phosphate	C00588	1014	C000564
+cimetidine	D00295,C06952	2756	C000565
+cinnamoylglycine	NA	709625	C000566
+ciprofloxacin	C05349	2764	C000567
+cis-4-decenoate (10:1n6)*	NA	5282726	C000568
+cis-4-decenoylcarnitine (C10:1)	NA	57357170	C000569
+citalopram propionate*	C16610	10403174	C000570
+citalopram/escitalopram	D07913	146570	C000571
+citraconate/glutaconate	C02226,C02214	5280498,643798	C000572
+citrate	C00158	311	C000573
+citrulline	C00327	9750	C000574
+clindamycin	DG00435,C06914,D00277	446598	C000575
+corticosterone	C02140	5753	C000576
+cortisol	C00735	5754	C000577
+cortisone	C00762	222786	C000578
+cortolone glucuronide (1)	NA	NA	C000579
+cotinine	NA	408	C000580
+cotinine N-oxide	NA	9815514	C000581
+creatine	C00300	586	C000582
+creatinine	C00791	588	C000583
+cyclo(gly-pro)	NA	193540	C000584
+cyclo(pro-sulfo-tyr)*	NA	NA	C000585
+cyclobenzaprine	D07758,C06931	2895	C000586
+cys-gly, oxidized	NA	333293	C000587
+cystathionine	C02291	439258	C000588
+cysteine	C00097	5862	C000589
+cysteine s-sulfate	C05824	115015	C000590
+cysteine-glutathione disulfide	R00900	3080690	C000591
+cysteinylglycine	C01419	439498	C000592
+cysteinylglycine disulfide*	NA	22833544	C000593
+cystine	C00491	67678	C000594
+cytidine	C00475	6175	C000595
+cytosine	C00380	597	C000596
+daidzein sulfate (2)	NA	12114465	C000597
+decadienedioic acid (C10:2-DC)**	NA	17789717	C000598
+decanoylcarnitine (C10)	NA	10245190	C000599
+dehydroepiandrosterone sulfate (DHEA-S)	C04555	12594	C000600
+delta-CEHC	NA	35027084	C000601
+delta-CEHC glucuronide	NA	NA	C000602
+deoxycarnitine	C01181	22620	C000603
+deoxycholate	C04483	222528,440355	C000604
+deoxycholic acid 12-sulfate*	NA	NA	C000605
+deoxycholic acid glucuronide	NA	NA	C000606
+desmethylcitalopram*	C16608	162180	C000607
+desmethylnaproxen	NA	162920	C000608
+desmethylnaproxen sulfate	NA	184679	C000609
+dexlansoprazole	D08903	9578005	C000610
+dexpanthenol	D03726	4678	C000611
+dextromethorphan	D03744,DG01078,C06947	5360696	C000612
+diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])*	NA	NA	C000613
+dibutyl sulfosuccinate	NA	423891	C000614
+dihomo-linoleate (20:2n6)	C16525	6439848	C000615
+dihomo-linolenate (20:3n3 or n6)	C03242	5280581	C000616
+dihomo-linolenoyl-choline	NA	NA	C000617
+dihomo-linolenoylcarnitine (C20:3n3 or 6)*	NA	NA	C000618
+dihomo-linoleoylcarnitine (C20:2)*	NA	NA	C000619
+dihydrocaffeate sulfate (2)	NA	NA	C000620
+dihydroferulate	NA	14340	C000621
+dihydroferulic acid sulfate	NA	187489	C000622
+dihydroorotate	C00337	648	C000623
+diltiazem	D07845	39186	C000624
+dimethyl sulfone	C11142	6213	C000625
+dimethylarginine (SDMA + ADMA)	C21189,C03626	123831,169148	C000626
+dimethylglycine	C03626	673	C000627
+dimethylguanidino valeric acid (DMGV)*	NA	101535539	C000628
+diphenhydramine	C06960	3100	C000629
+docosadienoate (22:2n6)	C16533	5282807	C000630
+docosadioate (C22-DC)	C14240	7641	C000631
+docosahexaenoate (DHA; 22:6n3)	C06429	445580	C000632
+docosahexaenoylcarnitine (C22:6)*	NA	NA	C000633
+docosahexaenoylcholine	NA	NA	C000634
+docosapentaenoate (n3 DPA; 22:5n3)	C16513	6441454	C000635
+docosapentaenoate (n6 DPA; 22:5n6)	C16513	6441454	C000636
+docosatrienoate (22:3n3)	C16534	5312556	C000637
+docosatrienoate (22:3n6)*	NA	75955220	C000638
+dodecadienoate (12:2)*	NA	25480	C000639
+dodecanedioate (C12-DC)	C02678	12736	C000640
+dodecenedioate (C12:1-DC)*	NA	5283028	C000641
+dopamine 3-O-sulfate	C13690	122136	C000642
+dopamine 4-sulfate	C13691	68517194	C000643
+doxycycline	D00307	54671203	C000644
+doxylamine	D07878	3162	C000645
+ectoine	C06231	126041	C000646
+eicosanedioate (C20-DC)	NA	75502	C000647
+eicosapentaenoate (EPA; 20:5n3)	C06428	446284	C000648
+eicosenedioate (C20:1-DC)*	NA	NA	C000649
+eicosenoate (20:1)	C16526	5282768,5282769,94159	C000650
+eicosenoylcarnitine (C20:1)*	NA	NA	C000651
+enterolactone sulfate	NA	NA	C000652
+epiandrosterone sulfate	C04555	9929317	C000653
+ergothioneine	C05570	5351619	C000654
+erucate (22:1n9)	C08316	8216,5281116	C000655
+erythritol	C00503	222285	C000656
+erythronate*	NA	2781043	C000657
+estrone 3-sulfate	C02538	3001028	C000658
+ethyl alpha-glucopyranoside	NA	11127487	C000659
+ethyl beta-glucopyranoside	NA	121667	C000660
+ethyl glucuronide	NA	18392195	C000661
+ethylmalonate	NA	11756	C000662
+etiocholanolone glucuronide	NA	270605	C000663
+eugenol sulfate	NA	180632	C000664
+ezetimibe glucuronide*	NA	9894653	C000665
+famotidine	D00318	5702160	C000666
+ferulic acid 4-sulfate	NA	6305574	C000667
+feruloylquinate (4)	NA	NA	C000668
+ferulylglycine (1)	NA	NA	C000669
+ferulylglycine (2)	NA	NA	C000670
+fexofenadine	C06999	3348	C000671
+fibrinopeptide A (3-16)**	NA	25078015	C000672
+fibrinopeptide A*	NA	25081464	C000673
+fibrinopeptide A, des-ala(1)*	NA	132993922	C000674
+fibrinopeptide A, phosphono-ser(3)*	NA	132993923	C000675
+fibrinopeptide B	NA	16132131	C000676
+fibrinopeptide B (1-12)**	NA	16132131	C000677
+fibrinopeptide B (1-13)**	NA	NA	C000678
+fluconazole	C07002	3365	C000679
+fluoxetine	D00326	3386	C000680
+formiminoglutamate	C00439	439233	C000681
+fructose	C00095	2723872	C000682
+fructosyllysine	NA	9839580	C000683
+fumarate	C00122	444972	C000684
+furosemide	D00331	3440	C000685
+gabapentin	D00332	3446	C000686
+galactonate	C00880,C15930	12310779,128869	C000687
+gamma-CEHC	NA	133098	C000688
+gamma-CEHC glucuronide*	NA	121596235	C000689
+gamma-carboxyglutamate	NA	40772	C000690
+gamma-glutamyl-2-aminobutyrate	NA	NA	C000691
+gamma-glutamyl-alpha-lysine	NA	65254	C000692
+gamma-glutamylalanine	C03738	440103	C000693
+gamma-glutamylcitrulline*	NA	NA	C000694
+gamma-glutamylglutamate	C05282	92865	C000695
+gamma-glutamylglutamine	C05283	150914	C000696
+gamma-glutamylglycine	NA	100099	C000697
+gamma-glutamylhistidine	NA	7017195	C000698
+gamma-glutamylisoleucine*	NA	22885096	C000699
+gamma-glutamylleucine	NA	151023	C000700
+gamma-glutamylmethionine	NA	7009567	C000701
+gamma-glutamylphenylalanine	NA	111299	C000702
+gamma-glutamylthreonine	NA	76078708	C000703
+gamma-glutamyltryptophan	NA	3989307	C000704
+gamma-glutamyltyrosine	NA	94340	C000705
+gamma-glutamylvaline	NA	7015683	C000706
+gamma-tocopherol/beta-tocopherol	C14152,C02483	NA	C000707
+gemfibrozil	D00334	3463	C000708
+genistein sulfate*	NA	NA	C000709
+gentisate	C00628	3469	C000710
+glimepiride	C07669	3476	C000711
+glipizide	D00335	3478	C000712
+gluconate	C00257	10690,3085666	C000713
+glucose	C00031	5793	C000714
+glucuronate	C16245	441478,23677976,94715,65041,444791	C000715
+glucuronide of C10H14O2 (4)*	NA	NA	C000716
+glucuronide of C10H14O2 (7)*	NA	NA	C000717
+glucuronide of C10H18O2 (1)*	NA	NA	C000718
+glucuronide of C10H18O2 (10)*	NA	NA	C000719
+glucuronide of C10H18O2 (11)*	NA	NA	C000720
+glucuronide of C10H18O2 (12)*	NA	NA	C000721
+glucuronide of C10H18O2 (7)*	NA	NA	C000722
+glucuronide of C10H18O2 (8)*	NA	NA	C000723
+glucuronide of C12H20O3 (1)*	NA	NA	C000724
+glucuronide of C12H20O3 (2)*	NA	NA	C000725
+glucuronide of C12H20O3 (4)*	NA	NA	C000726
+glucuronide of C12H22O4 (1)*	NA	NA	C000727
+glucuronide of C14H26O4 (1)*	NA	NA	C000728
+glucuronide of C8H14O2 (1)*	NA	NA	C000729
+glucuronide of C8H14O2 (2)*	NA	NA	C000730
+glucuronide of C8H14O2 (3)*	NA	NA	C000731
+glucuronide of piperine metabolite C17H21NO3 (3)*	NA	NA	C000732
+glucuronide of piperine metabolite C17H21NO3 (4)*	NA	NA	C000733
+glucuronide of piperine metabolite C17H21NO3 (5)*	NA	NA	C000734
+glutamate	C00025,C00217	33032	C000735
+glutamine	C00064	5961	C000736
+glutamine conjugate of C6H10O2 (1)*	NA	NA	C000737
+glutamine conjugate of C6H10O2 (2)*	NA	NA	C000738
+glutamine conjugate of C7H12O2*	NA	NA	C000739
+glutamine conjugate of C8H12O2 (1)*	NA	NA	C000740
+glutamine conjugate of C8H12O2 (2)*	NA	NA	C000741
+glutamine conjugate of C9H16O2 (1)*	NA	NA	C000742
+glutamine_degradant*	NA	NA	C000743
+glutarate (C5-DC)	C00489	743,4418048	C000744
+glutarylcarnitine (C5-DC)	NA	71317118	C000745
+glutathione, oxidized (GSSG)	D00031,C00127	65359	C000746
+glycerate	C00258	439194,752	C000747
+glycerol	C00116	753	C000748
+glycerol 3-phosphate	C0093	754	C000749
+glycerophosphoethanolamine	C01233	123874	C000750
+glycerophosphoglycerol	C03274	54575349	C000751
+glycerophosphorylcholine (GPC)	C00670	71920	C000752
+glycine	C00037	750	C000753
+glycine conjugate of C10H12O2*	NA	NA	C000754
+glycine conjugate of C10H14O2 (1)*	NA	NA	C000755
+glyco-beta-muricholate**	NA	NA	C000756
+glycochenodeoxycholate	C05466	12544	C000757
+glycochenodeoxycholate 3-sulfate	NA	21116917,21125002,11954205	C000758
+glycochenodeoxycholate glucuronide (1)	NA	44263370	C000759
+glycocholate	C01921	10140	C000760
+glycocholate glucuronide (1)	NA	44263357	C000761
+glycocholenate sulfate*	NA	NA	C000762
+glycodeoxycholate	C05464	3035026	C000763
+glycodeoxycholate 3-sulfate	NA	101602538	C000764
+glycohyocholate	NA	71361462	C000765
+glycolate (hydroxyacetate)	C00160	757	C000766
+glycolithocholate	C15557	115245	C000767
+glycolithocholate sulfate*	C11301	72222	C000768
+glycosyl ceramide (d18:1/20:0, d16:1/22:0)*	NA	NA	C000769
+glycosyl ceramide (d18:2/24:1, d18:1/24:2)*	NA	NA	C000770
+glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH))*	NA	NA	C000771
+glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*	NA	NA	C000772
+glycosyl-N-behenoyl-sphingosine (d18:1/22:0)*	NA	NA	C000773
+glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)	NA	NA	C000774
+glycosyl-N-stearoyl-sphingosine (d18:1/18:0)	NA	NA	C000775
+glycosyl-N-tricosanoyl-sphingadienine (d18:2/23:0)*	NA	NA	C000776
+glycoursodeoxycholate	NA	12310288	C000777
+glycoursodeoxycholic acid sulfate (1)	NA	NA	C000778
+glycylleucine	C02155	92843	C000779
+guaiacol sulfate	NA	22473	C000780
+guaifenesin	D00337	3516	C000781
+guanidinoacetate	C00581	763	C000782
+guanidinosuccinate	C03139	439918	C000783
+gulonate*	C00800	152304	C000784
+heme	C00032	26945	C000785
+heneicosapentaenoate (21:5n3)	NA	11998573	C000786
+heptanoate (7:0)	C17714	8094	C000787
+heptenedioate (C7:1-DC)*	NA	NA	C000788
+hexadecadienoate (16:2n6)	NA	13932172	C000789
+hexadecanedioate (C16-DC)	C19615	10459	C000790
+hexadecenedioate (C16:1-DC)*	NA	NA	C000791
+hexanoylcarnitine (C6)	NA	6426853	C000792
+hexanoylglutamine	NA	NA	C000793
+hexanoylglycine	NA	99463	C000794
+hippurate	C01586	464	C000795
+histidine	C00135	6274	C000796
+histidine betaine (hercynine)*	NA	3083620	C000797
+homoarginine	C01924	9085	C000798
+homocitrulline	C02427	65072	C000799
+homostachydrine*	C08283	441447	C000800
+homovanillate (HVA)	C05582	1738	C000801
+hydantoin-5-propionate	C05565	782	C000802
+hydrochlorothiazide	C07041	3639	C000803
+hydroquinone sulfate	C00530	161220	C000804
+hydroxy-CMPF*	NA	NA	C000805
+hydroxy-N6,N6,N6-trimethyllysine*	NA	NA	C000806
+hydroxyasparagine**	C20631	15991574	C000807
+hydroxybupropion	NA	446	C000808
+hydroxycotinine	NA	107963	C000809
+hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**	NA	NA	C000810
+hyocholate	C17649	92805	C000811
+hypotaurine	C00519	107812	C000812
+hypoxanthine	C00262	790,135398638	C000813
+ibuprofen	C01588	3672	C000814
+ibuprofen acyl glucuronide	NA	163959	C000815
+imidazole lactate	C05568	793	C000816
+imidazole propionate	NA	70630	C000817
+iminodiacetate (IDA)	C19911	8897	C000818
+indole-3-carboxylate	C19837	69867	C000819
+indoleacetate	C00954	802	C000820
+indoleacetoylcarnitine*	NA	NA	C000821
+indoleacetylglutamine	NA	25200879	C000822
+indolelactate	C02043	92904	C000823
+indolepropionate	NA	3744	C000824
+indolin-2-one	C12312	321710	C000825
+indomethacin	C01926,D00141	3715	C000826
+indoxyl glucuronide	NA	2733785	C000827
+inosine	C00294	6021	C000828
+isobutyrylcarnitine (C4)	NA	168379	C000829
+isobutyrylglycine	NA	10855600	C000830
+isoeugenol sulfate	NA	122198202	C000831
+isoleucine	C06418,C00407,C16424	6306	C000832
+isoleucylglycine	NA	342532	C000833
+isoursodeoxycholate	C17662	127601	C000834
+isovalerate (i5:0)	C08262	10430	C000835
+isovalerylcarnitine (C5)	C20826	169235	C000836
+isovalerylglycine	NA	546304	C000837
+kynurenate	C01717	3845	C000838
+kynurenine	C00328	161166	C000839
+lactate	C00186	612	C000840
+lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*	NA	44260143	C000841
+lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*	NA	NA	C000842
+lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)	NA	53477895	C000843
+lanthionine	NA	98504	C000844
+laurate (12:0)	C02679	3893	C000845
+laurylcarnitine (C12)	NA	168381	C000846
+leucine	C00123	6106	C000847
+leucylalanine	NA	81721	C000848
+leucylglycine	NA	79070	C000849
+levetiracetam	C07841	5284583	C000850
+levulinoylcarnitine	NA	NA	C000851
+lidocaine	D00358	3676	C000852
+lignoceroyl sphingomyelin (d18:1/24:0)	NA	NA	C000853
+lignoceroylcarnitine (C24)*	NA	NA	C000854
+linoleate (18:2n6)	C01595	5280450	C000855
+linolenate [alpha or gamma; (18:3n3 or 6)]	C06426,C06427	5280933,5280934	C000856
+linolenoylcarnitine (C18:3)*	NA	NA	C000857
+linoleoyl ethanolamide	NA	5283446	C000858
+linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]*	NA	9543796	C000859
+linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*	NA	9543796	C000860
+linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]*	NA	9543899	C000861
+linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*	NA	9543729	C000862
+linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*	NA	9543729	C000863
+linoleoylcarnitine (C18:2)*	NA	6450015	C000864
+linoleoylcholine*	NA	53481656	C000865
+lisinopril	DG00336,D00362	5362119	C000866
+lithocholate sulfate (1)	NA	451489	C000867
+lithocholic acid sulfate (2)	NA	NA	C000868
+losartan	C07072,D08146	3961	C000869
+lysine	C00739,C00047	5962	C000870
+lyxonate	NA	NA	C000871
+m-tyramine sulfate	NA	NA	C000872
+malate	C00149,C00711,C00497	525	C000873
+maleate	C01384	444266	C000874
+malonate	C00383	867	C000875
+maltol sulfate	NA	NA	C000876
+maltose	C00208	10991489	C000877
+mannitol/sorbitol	C00392,C00794	5780,6251	C000878
+mannonate*	NA	3246006	C000879
+mannose	C00159,C02209,C00936	82308,439680,185698,18950	C000880
+margarate (17:0)	NA	10465	C000881
+margaroylcarnitine (C17)*	NA	53477803	C000882
+meloxicam	D00969,C08169	54677470	C000883
+meprobamate	D00376	4064	C000884
+metabolonic lactone sulfate	NA	NA	C000885
+metformin	C07151	4091	C000886
+methadone	D08195,C07163	4095	C000887
+methamphetamine	D08187,C07164	10836	C000888
+methionine	C00073	6137	C000889
+methionine sulfone	NA	69961	C000890
+methionine sulfoxide	C02989	158980	C000891
+methyl glucopyranoside (alpha + beta)	NA	445238,3036743,2108	C000892
+methyl indole-3-acetate	NA	74706	C000893
+methyl-4-hydroxybenzoate sulfate	NA	10657183	C000894
+methylmalonate (MMA)	C02170	487	C000895
+methylnaphthyl sulfate (1)*	NA	NA	C000896
+methylnaphthyl sulfate (2)*	NA	NA	C000897
+methylphosphate	NA	13130	C000898
+methylsuccinate	NA	10349	C000899
+methylsuccinoylcarnitine	NA	NA	C000900
+metoprolol	D02358	4171	C000901
+metoprolol acid metabolite*	NA	62936	C000902
+metronidazole	DG00006,C07203,D00409	4173	C000903
+minocyclin	D05045,C07225	NA	C000904
+mirtazapine	C07570	4205	C000905
+montelukast	C07482	5281040	C000906
+morphine-3-glucuronide	C16643	5484731	C000907
+myo-inositol	C00137	892	C000908
+myristate (14:0)	C06424	11005	C000909
+myristoleate (14:1n5)	C08322	5281119	C000910
+myristoleoylcarnitine (C14:1)*	NA	129691961	C000911
+myristoyl dihydrosphingomyelin (d18:0/14:0)*	NA	44260138	C000912
+myristoylcarnitine (C14)	NA	6426854	C000913
+naproxen	C01517	156391	C000914
+nervonoylcarnitine (C24:1)*	NA	NA	C000915
+nicotinamide	C00153	936	C000916
+nicotinamide N-oxide	NA	72661	C000917
+nicotinate	C00253	938	C000918
+nicotinate ribonucleoside	C05841	161233	C000919
+nicotine	D03365,C00745	89594	C000920
+nicotinurate (nicotinoylglycine)	C05380	68499	C000921
+nisinate (24:6n3)	NA	11792612	C000922
+nonadecanoate (19:0)	C16535	12591	C000923
+nonanoylcarnitine (C9)	NA	91825642	C000924
+nonenedioate (C9:1-DC)*	NA	NA	C000925
+norbenzoylecgonine*	NA	415793	C000926
+norcotinine	NA	413	C000927
+o-cresol sulfate	NA	11615528	C000928
+o-hydroxyatorvastatin	NA	9808225	C000929
+octadecadienedioate (C18:2-DC)*	NA	NA	C000930
+octadecanedioate (C18-DC)	NA	70095	C000931
+octadecanedioylcarnitine (C18-DC)*	NA	NA	C000932
+octadecenedioate (C18:1-DC)	NA	9543674	C000933
+octadecenedioylcarnitine (C18:1-DC)*	NA	NA	C000934
+octanoylcarnitine (C8)	C02838	123701,11953814	C000935
+ofloxacin	D00453,C07321,DG00616	4583	C000936
+olanzapine	C07322	135398745	C000937
+oleate/vaccenate (18:1)	C21944,C08367,C01712,C00712	5282761,637517,5281127,445639	C000938
+oleoyl ethanolamide	NA	5283454	C000939
+oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]*	NA	9543786	C000940
+oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*	NA	9543786	C000941
+oleoyl-linoleoyl-glycerol (18:1/18:2) [1]	NA	14275396	C000942
+oleoyl-linoleoyl-glycerol (18:1/18:2) [2]	NA	71433693	C000943
+oleoyl-oleoyl-glycerol (18:1/18:1) [2]*	NA	9543716	C000944
+oleoylcarnitine (C18:1)	NA	6441392	C000945
+oleoylcholine	NA	59040790	C000946
+olmesartan	D05246	158781	C000947
+omeprazole	C07324	4594	C000948
+ornithine	C00077	6262	C000949
+orotate	C00295	967	C000950
+orotidine	NA	92751	C000951
+oxalate (ethanedioate)	C00209	971	C000952
+oxypurinol	D02365	135398752	C000953
+p-cresol glucuronide*	NA	154035	C000954
+p-cresol sulfate	NA	4615423	C000955
+p-hydroxyatorvastatin	NA	9851106	C000956
+palmitate (16:0)	C00249	985	C000957
+palmitoleate (16:1n7)	C08362	445638	C000958
+palmitoleoyl-linoleoyl-glycerol (16:1/18:2) [1]*	NA	9543699	C000959
+palmitoleoylcarnitine (C16:1)*	NA	71464547	C000960
+palmitoyl dihydrosphingomyelin (d18:0/16:0)*	NA	9939965	C000961
+palmitoyl ethanolamide	C16512	4671	C000962
+palmitoyl sphingomyelin (d18:1/16:0)	NA	9939941	C000963
+palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0)	NA	NA	C000964
+palmitoylcarnitine (C16)	C02990	461	C000965
+palmitoylcholine	NA	151731	C000966
+pantoate	C00522	5289105	C000967
+pantoprazole	C11806	4679	C000968
+pantothenate	C00864	6613	C000969
+paraxanthine	C13747	4687	C000970
+paroxetine	C07415,D02362	43815	C000971
+pelargonate (9:0)	C01601	8158	C000972
+pentadecanoate (15:0)	C16537	13849	C000973
+pentose acid*	C00803	7991	C000974
+perfluorooctanesulfonate (PFOS)	C18142	74483	C000975
+perfluorooctanoate (PFOA)	NA	9554	C000976
+phenol glucuronide	NA	87235	C000977
+phenol sulfate	C02180	74426	C000978
+phenylacetate	C07086	999	C000979
+phenylacetylalanine	NA	564251	C000980
+phenylacetylcarnitine	NA	101724840	C000981
+phenylacetylglutamate	NA	11579826	C000982
+phenylacetylglutamine	C04148	92258	C000983
+phenylacetylglycine	C05598	68144	C000984
+phenylacetylmethionine	NA	NA	C000985
+phenylacetylthreonine	NA	NA	C000986
+phenylacetylvaline	NA	3501227	C000987
+phenylalanine	C00079	6140	C000988
+phenylalanylalanine	NA	5488196	C000989
+phenylalanylglycine	NA	6992304	C000990
+phenyllactate (PLA)	C05607	3848	C000991
+phenylpropanolamine	C02343	26934	C000992
+phenylpyruvate	C00166	997	C000993
+phosphate	C00009	1061	C000994
+phosphoethanolamine	C00346	1015	C000995
+phytanate	C01607	26840	C000996
+picolinate	C10164	1018	C000997
+picolinoylglycine	NA	11788622	C000998
+pimelate (C7-DC)	C02656	385	C000999
+pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC)	NA	NA	C001000
+pipecolate	NA	NA	C001001
+piperine	C03882	638024	C001002
+prednisolone	D00472,C07369	5755	C001003
+pregabalin	NA	5486971	C001004
+pregnanediol-3-glucuronide	NA	123796	C001005
+pregnenediol disulfate (C21H34O8S2)*	NA	NA	C001006
+pregnenediol sulfate (C21H34O5S)*	C18044	105074	C001007
+pregnenetriol disulfate*	NA	NA	C001008
+pregnenetriol sulfate*	NA	129671303	C001009
+pregnenolone sulfate	C18044	105074	C001010
+pristanate	NA	123929	C001011
+pro-hydroxy-pro	NA	11902893	C001012
+proline	C00148,C000763	8988,145742,614	C001013
+prolylglycine	NA	6426709	C001014
+promethazine	C07404	4927	C001015
+propionylcarnitine (C3)	C03017	107738	C001016
+propionylglycine	NA	98681	C001017
+propyl 4-hydroxybenzoate sulfate	NA	131838881	C001018
+pseudoephedrine	C02765	7028	C001019
+pseudouridine	C02067	15047	C001020
+pyridoxal	C00250	1050	C001021
+pyridoxate	C00847	6723	C001022
+pyridoxine (vitamin B6)	D08454	1054	C001023
+pyrraline	C21013	14274616	C001024
+pyruvate	C00022	1060	C001025
+quetiapine	D08456,DG00899,C07397	5002	C001026
+quinate	C00296	6508	C001027
+quinine	C06526	3034034	C001028
+quinolinate	C03722	1066	C001029
+ranitidine	D00422	3001055	C001030
+ranitidine N-oxide*	NA	62985	C001031
+resveratrol disulfate (1)*	NA	NA	C001032
+resveratrol disulfate (2)*	NA	NA	C001033
+resveratrol glucuronide (1)*	NA	NA	C001034
+resveratrol glucuronide (2)*	NA	NA	C001035
+resveratrol sulfate (1)*	NA	25113755	C001036
+resveratrol sulfate (2)*	NA	25113755	C001037
+retinol (vitamin A)	C00473	445354	C001038
+ribitol	C00379,C01904,C00474,C00532	6912	C001039
+ribonate	C01685	5460677	C001040
+ritalinic acid	NA	86863	C001041
+saccharin	C12283	5143	C001042
+salicylate	C00805	338	C001043
+salicyluric glucuronide*	NA	121596205	C001044
+sarcosine	C00213	1088	C001045
+sebacate (C10-DC)	C08277	5192	C001046
+serine	C00065	5951	C001047
+serotonin	C00780	5202	C001048
+sertraline	C07246	68617	C001049
+sitagliptin	DG00118,D08516	4369359	C001050
+solanidine	C06543	65727	C001051
+spermidine	C00315	1102	C001052
+sphinganine	C00836	3126	C001053
+sphinganine-1-phosphate	NA	520	C001054
+sphingomyelin (d17:1/14:0, d16:1/15:0)*	NA	NA	C001055
+sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*	NA	NA	C001056
+sphingomyelin (d17:2/16:0, d18:2/15:0)*	NA	NA	C001057
+sphingomyelin (d18:0/18:0, d19:0/17:0)*	NA	44260130	C001058
+sphingomyelin (d18:0/20:0, d16:0/22:0)*	NA	NA	C001059
+sphingomyelin (d18:1/14:0, d16:1/16:0)*	NA	11433862	C001060
+sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)	NA	46891763	C001061
+sphingomyelin (d18:1/18:1, d18:2/18:0)	NA	6443882	C001062
+sphingomyelin (d18:1/19:0, d19:1/18:0)*	NA	NA	C001063
+sphingomyelin (d18:1/20:0, d16:1/22:0)*	NA	44260124	C001064
+sphingomyelin (d18:1/20:1, d18:2/20:0)*	NA	NA	C001065
+sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)*	NA	NA	C001066
+sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*	NA	NA	C001067
+sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*	NA	NA	C001068
+sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*	NA	NA	C001069
+sphingomyelin (d18:1/24:1, d18:2/24:0)*	NA	44260126	C001070
+sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*	NA	NA	C001071
+sphingomyelin (d18:2/14:0, d18:1/14:1)*	NA	NA	C001072
+sphingomyelin (d18:2/16:0, d18:1/16:1)*	NA	NA	C001073
+sphingomyelin (d18:2/18:1)*	NA	52931155	C001074
+sphingomyelin (d18:2/21:0, d16:2/23:0)*	NA	NA	C001075
+sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*	NA	134757653	C001076
+sphingomyelin (d18:2/23:1)*	NA	NA	C001077
+sphingomyelin (d18:2/24:1, d18:1/24:2)*	NA	85336023	C001078
+sphingomyelin (d18:2/24:2)*	NA	NA	C001079
+sphingosine	C00319	5280335	C001080
+sphingosine 1-phosphate	C06124	5283560	C001081
+stachydrine	C10172	115244	C001082
+stearate (18:0)	C01530	5281	C001083
+stearidonate (18:4n3)	C16300	5312508	C001084
+stearoyl ethanolamide	NA	27902	C001085
+stearoyl sphingomyelin (d18:1/18:0)	C00550	6453725	C001086
+stearoylcarnitine (C18)	NA	3006797	C001087
+stearoylcholine*	NA	90111	C001088
+suberoylcarnitine (C8-DC)	NA	NA	C001089
+succinate	C00042	1110	C001090
+succinoyltaurine	NA	NA	C001091
+succinylcarnitine (C4-DC)	NA	71464481	C001092
+sucrose	C00089	5988	C001093
+sulfamethoxazole	D00447	5329	C001094
+sulfate of piperine metabolite C16H19NO3 (2)*	NA	NA	C001095
+sulfate of piperine metabolite C16H19NO3 (3)*	NA	NA	C001096
+sulfate of piperine metabolite C18H21NO3 (1)*	NA	NA	C001097
+sulfate of piperine metabolite C18H21NO3 (3)*	NA	NA	C001098
+sulfate*	C00059	5152822	C001099
+sulfociprofloxacin*	NA	128781	C001100
+tadalafil	NA	110635	C001101
+tamsulosin	D08560,C07124	129211	C001102
+tartarate	C00552,C02107,C00898	444305,875	C001103
+tartronate (hydroxymalonate)	C02287	45	C001104
+taurine	C00245	1123	C001105
+tauro-beta-muricholate	NA	121596216,21124703,168408	C001106
+taurochenodeoxycholate	C05465	387316	C001107
+taurochenodeoxycholic acid 3-sulfate	NA	52931550	C001108
+taurocholate	C05122	6675,46783527	C001109
+taurocholenate sulfate*	NA	NA	C001110
+taurodeoxycholate	C05463	2733768	C001111
+taurodeoxycholic acid 3-sulfate	NA	NA	C001112
+taurolithocholate 3-sulfate	C03642	440071	C001113
+tauroursodeoxycholate	NA	9848818	C001114
+tetradecadienedioate (C14:2-DC)*	NA	86018718	C001115
+tetradecadienoate (14:2)*	NA	5312409	C001116
+tetradecanedioate (C14-DC)	NA	13185	C001117
+tetramisole	NA	3913	C001118
+theanine	C01047	439378	C001119
+theobromine	C07480	5429	C001120
+theophylline	C07130	2153	C001121
+thioproline	NA	93176	C001122
+threonate	C01620	151152,5460407	C001123
+threonine	C00188	6288	C001124
+thymol sulfate	C09908	12456386	C001125
+thyroxine	C01829	5819	C001126
+tigloylglycine	NA	6441567	C001127
+tiglylcarnitine (C5:1-DC)	NA	22833596	C001128
+topiramate	D00537	5284627	C001129
+tramadol	C07153	33741	C001130
+trans-2-hexenoylglycine	NA	NA	C001131
+trans-3,4-methyleneheptanoate	NA	NA	C001132
+trans-3,4-methyleneheptanoylcarnitine	NA	NA	C001133
+trans-4-hydroxyproline	C01157	5810	C001134
+trans-urocanate	C00785	736715	C001135
+trazadone	C07156,D08626	5533	C001136
+triamterene	D00386	5546	C001137
+tricosanoyl sphingomyelin (d18:1/23:0)*	NA	NA	C001138
+tridecenedioate (C13:1-DC)*	NA	NA	C001139
+trigonelline (N'-methylnicotinate)	C01004	5570	C001140
+trimethoprim	C01965,D00145	5578	C001141
+trimethylamine N-oxide	C01104	1145	C001142
+trizma acetate	C07182	16218782	C001143
+tryptophan	C00078	6305	C001144
+tryptophan betaine	C09213	442106	C001145
+tyramine O-sulfate	NA	153005	C001146
+tyrosine	C00082	6057	C001147
+umbelliferone sulfate	NA	129659	C001148
+undecenoylcarnitine (C11:1)	NA	NA	C001149
+uracil	C00106	1174	C001150
+urate	C00366	1175	C001151
+urea	C00086	1176	C001152
+uric acid ribonucleoside*	C05513	164933	C001153
+uridine	C00299	6029	C001154
+urolithin B glucuronide	NA	NA	C001155
+valerate (5:0)	C00803	7991	C001156
+valine	C00183	6287	C001157
+valproate	C07185	3121	C001158
+valproic acid glucuronide	NA	88111	C001159
+valsartan	NA	60846	C001160
+valylleucine	NA	352039	C001161
+vanillactate	NA	160637	C001162
+vanillic acid glycine	NA	3083688	C001163
+vanillic alcohol sulfate	NA	NA	C001164
+vanillylmandelate (VMA)	C05584	1245	C001165
+venlafaxine	C07187	5656	C001166
+verapamil	D02356,C07188,DG00329	2520	C001167
+warfarin	DG00149,D08682,C01541	54678486	C001168
+xanthine	C00385	1188	C001169
+xanthosine	C01762	64959	C001170
+xanthurenate	C02470	5699	C001171
+ximenoylcarnitine (C26:1)*	NA	NA	C001172
+xylose	C00181	135191	C001173
+zolpidem	C07219	5732	C001174
