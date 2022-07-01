@@ -4,9 +4,11 @@ Chemical Correlation Database (CCDB) by the Integrated Data Science Laboratory f
 
 # Recommend a dataset
 
-To recommend a dataset to be included in the CCDB, please submit the dataset in the [required format](https://github.com/idslme/chemcordb/blob/main/MTBSL204_INPUT.xlsx) in [the issue section of this repository](https://github.com/idslme/chemcordb/issues). We will index the dataset as soon as possible. 
+To recommend a dataset to be included in the CCDB, please submit the dataset in the [required format](https://github.com/idslme/chemcordb/blob/main/MTBSL204_INPUT.xlsx) in [the issue section of this repository](https://github.com/idslme/chemcordb/issues). We will index the dataset in the database. 
 
-#[CCDB](https://ccdb.idsl.me/)
+Barupal, D. K., Mahajan, P., Fakouri-Baygi, S., Wright, R. O., Arora, M., & Teitelbaum, S. L. (2022). CCDB: A database for exploring inter-chemical correlations in metabolomics and exposomics datasets. Environment international, 164, 107240. https://doi.org/10.1016/j.envint.2022.107240 
+
+Main site: [CCDB](https://ccdb.idsl.me/) 
 
 # Covered studies
 
