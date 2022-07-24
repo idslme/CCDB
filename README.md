@@ -11,9 +11,3 @@ Barupal, D. K., Mahajan, P., Fakouri-Baygi, S., Wright, R. O., Arora, M., & Teit
 Main site: [CCDB](https://ccdb.idsl.me/) 
 
 Covered studies: [Table of Studies](https://github.com/idslme/CCDB/wiki)
-
-
-
-
-
-|
