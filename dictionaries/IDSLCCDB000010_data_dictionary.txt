@@ -1,0 +1,1159 @@
+compound_id	BIOCHEMICAL	PUBCHEM	KEGG
+CPD0001	3-hydroxyphenylacetoylglutamine		
+CPD0002	4-hydroxyphenylacetylglutamine		
+CPD0003	phenylacetylcarnitine	101724840	
+CPD0004	phenylacetylglutamate	11579826	
+CPD0005	phenylacetylglutamine	92258	C04148
+CPD0006	N6-carboxymethyllysine	123800	
+CPD0007	alanine	5950	C00041
+CPD0008	asparagine	6267	C00152
+CPD0009	aspartate	5960	C00049
+CPD0010	hydroxyasparagine	15991574	C20631
+CPD0011	N,N-dimethylalanine	5488191	
+CPD0012	N-acetylalanine	88064	C02847
+CPD0013	N-acetylasparagine	99715	
+CPD0014	N-acetylaspartate (NAA)	65065	C01042
+CPD0015	N-carbamoylalanine	426409	
+CPD0016	erythronate*	2781043	
+CPD0017	glucuronate	441478;94715;23677976;65041;444791	C16245
+CPD0018	N-acetylglucosamine/N-acetylgalactosamine	84265;439174	C01074
+CPD0019	N-acetylglucosaminylasparagine	123826	C04540
+CPD0020	N-acetylneuraminate	439197	C00270
+CPD0021	11-ketoetiocholanolone glucuronide		
+CPD0022	11beta-hydroxyandrosterone glucuronide		
+CPD0023	11beta-hydroxyetiocholanolone glucuronide*		
+CPD0024	16a-hydroxy DHEA 3-sulfate	20848950	
+CPD0025	5alpha-androstan-3alpha,17alpha-diol monosulfate		
+CPD0026	5alpha-androstan-3alpha,17beta-diol disulfate	56639109	
+CPD0027	5alpha-androstan-3alpha,17beta-diol monosulfate (1)	121596226;121596225	
+CPD0028	5alpha-androstan-3alpha,17beta-diol monosulfate (2)	121596225	
+CPD0029	5alpha-androstan-3beta,17alpha-diol disulfate	56639109	
+CPD0030	5alpha-androstan-3beta,17beta-diol disulfate	90186325	C12525
+CPD0031	5alpha-androstan-3beta,17beta-diol monosulfate (2)		
+CPD0032	andro steroid monosulfate C19H28O6S (1)*	159663	
+CPD0033	androstenediol (3alpha, 17alpha) monosulfate (2)		
+CPD0034	androstenediol (3alpha, 17alpha) monosulfate (3)		
+CPD0035	androstenediol (3beta,17beta) disulfate (1)	87120982	C04295
+CPD0036	androstenediol (3beta,17beta) disulfate (2)	87120982	
+CPD0037	androstenediol (3beta,17beta) monosulfate (1)	13847309;129670631	
+CPD0038	androstenediol (3beta,17beta) monosulfate (2)		
+CPD0039	androsterone glucuronide	114833	C11135
+CPD0040	androsterone sulfate	159663	
+CPD0041	dehydroepiandrosterone sulfate (DHEA-S)	12594	C04555
+CPD0042	epiandrosterone sulfate	9929317	C04555
+CPD0043	etiocholanolone glucuronide	270605	
+CPD0044	2-O-methylascorbic acid	54726398	
+CPD0045	ascorbic acid 2-sulfate	54676864	
+CPD0046	ascorbic acid 3-sulfate*	11425365	
+CPD0047	gulonate*	152304	C00800
+CPD0048	oxalate (ethanedioate)	971	C00209
+CPD0049	threonate	5460407;151152	C01620
+CPD0050	1H-indole-7-acetic acid	18356439	
+CPD0051	N-methylpipecolate	11286529	
+CPD0052	2-hydroxyhippurate (salicylurate)	10253	C07588
+CPD0053	2-methoxyhydroquinone sulfate (1)		
+CPD0054	2-methoxyhydroquinone sulfate (2)		
+CPD0055	3-(3-hydroxyphenyl)propionate	91	C11457
+CPD0056	3-(3-hydroxyphenyl)propionate sulfate	187488	
+CPD0057	3-hydroxyhippurate	450268	
+CPD0058	3-hydroxyhippurate sulfate	186339	
+CPD0059	3-methoxycatechol sulfate (1)	129892430	
+CPD0060	3-methoxycatechol sulfate (2)		
+CPD0061	3-methyl catechol sulfate (1)	118431379	
+CPD0062	3-phenylpropionate (hydrocinnamate)	107	C05629
+CPD0063	4-acetylphenyl sulfate	4684006	
+CPD0064	4-allylcatechol sulfate		
+CPD0065	4-ethylcatechol sulfate		
+CPD0066	4-ethylphenyl sulfate	20822574	C13637
+CPD0067	4-hydroxyhippurate	151012	
+CPD0068	4-methylcatechol sulfate	54104170	
+CPD0069	4-methylguaiacol sulfate		
+CPD0070	4-vinylcatechol sulfate		
+CPD0071	4-vinylphenol sulfate	6426766	C05627
+CPD0072	benzoate	243	C00180
+CPD0073	catechol sulfate	3083879	
+CPD0074	guaiacol sulfate	22473	
+CPD0075	hippurate	464	C01586
+CPD0076	methyl-4-hydroxybenzoate sulfate	10657183	
+CPD0077	o-cresol sulfate	11615528	
+CPD0078	p-cresol sulfate	4615423	
+CPD0079	propyl 4-hydroxybenzoate sulfate	131838881	
+CPD0080	carnitine	288	C00487,C00308
+CPD0081	deoxycarnitine	22620	C01181
+CPD0082	palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0)		
+CPD0083	1,2,3-benzenetriol sulfate (1)		
+CPD0084	1,2,3-benzenetriol sulfate (2)	54110629;92013662	
+CPD0085	2,4-di-tert-butylphenol		
+CPD0086	2-methoxyresorcinol sulfate		
+CPD0087	2-naphthol sulfate	74428	
+CPD0088	3,5-dichloro-2,6-dihydroxybenzoic acid	24721632	
+CPD0089	3-acetylphenol sulfate		
+CPD0090	3-bromo-5-chloro-2,6-dihydroxybenzoic acid*	134581543	
+CPD0091	3-hydroxy-2-methylpyridine sulfate		
+CPD0092	3-hydroxypyridine glucuronide		
+CPD0093	3-hydroxypyridine sulfate		
+CPD0094	4-acetamidobenzoate	6918889	D03836
+CPD0095	4-hydroxychlorothalonil	34217	
+CPD0096	5-hydroxy-2-methylpyridine sulfate		
+CPD0097	6-hydroxyindole sulfate	122198196	
+CPD0098	dibutyl sulfosuccinate	423891	
+CPD0099	diethanolamine	8113	C06772
+CPD0100	ectoine	126041	C06231
+CPD0101	EDTA	6049	C00284
+CPD0102	ethyl glucuronide	18392195	
+CPD0103	iminodiacetate (IDA)	8897	C19911
+CPD0104	O-sulfo-L-tyrosine	514186	
+CPD0105	perfluorooctanesulfonate (PFOS)	74483	C18142
+CPD0106	perfluorooctanoate (PFOA)	9554	
+CPD0107	sulfate*	5152822	C00059
+CPD0108	thioproline	93176	
+CPD0109	corticosterone	5753	C02140
+CPD0110	cortisol	5754	C00735
+CPD0111	cortisone	222786	C00762
+CPD0112	cortolone glucuronide (1)		
+CPD0113	tetrahydrocortisol glucuronide		
+CPD0114	tetrahydrocortisol sulfate (1)		
+CPD0115	tetrahydrocortisone glucuronide (5)		
+CPD0116	creatine	586	C00300
+CPD0117	creatinine	588	C00791
+CPD0118	guanidinoacetate	763	C00581
+CPD0119	isoleucylglycine	342532	
+CPD0120	leucylglycine	79070	
+CPD0121	prolylglycine	6426709	
+CPD0122	threonylphenylalanine	7010580	
+CPD0123	valylglutamine	5253209	
+CPD0124	valylglycine	136487	
+CPD0125	sucrose	5988	C00089
+CPD0126	14-HDoHE/17-HDoHE	11566378;6439179	
+CPD0127	2-hydroxyacetaminophen sulfate*	86290013	
+CPD0128	2-hydroxyibuprofen	10443535	
+CPD0129	2-methoxyacetaminophen glucuronide*	121596203	
+CPD0130	2-methoxyacetaminophen sulfate*	86290014	
+CPD0131	3-(cystein-S-yl)acetaminophen*	171264	
+CPD0132	3-(methylthio)acetaminophen sulfate*		
+CPD0133	3-(N-acetyl-L-cystein-S-yl) acetaminophen	83967	
+CPD0134	4-acetamidophenol	1983	C06804
+CPD0135	4-acetamidophenylglucuronide	83944;4022661	
+CPD0136	4-acetaminophen sulfate	83939	C06804
+CPD0137	4-aminophenol sulfate (2)		
+CPD0138	carboxyibuprofen	10444113	
+CPD0139	carboxyibuprofen glucuronide*	135390721	
+CPD0140	celecoxib	2662	D00567,C07589
+CPD0141	desmethylnaproxen	162920	
+CPD0142	desmethylnaproxen sulfate	184679	
+CPD0143	ibuprofen	3672	C01588
+CPD0144	ibuprofen acyl glucuronide	163959	
+CPD0145	lidocaine	3676	D00358
+CPD0146	meloxicam	54677470	C08169,D00969
+CPD0147	morphine	5288826	C01516
+CPD0148	morphine-3-glucuronide	5484731	C16643
+CPD0149	morphine-6-glucuronide	5360621	C16578
+CPD0150	N-ethylglycinexylidide	24415	C16561
+CPD0151	naproxen	156391	C01517
+CPD0152	salicyluric glucuronide*	121596205	
+CPD0153	3-hydroxyquinine	157225	C07344
+CPD0154	clindamycin	446598	D00277,DG00435,C06914
+CPD0155	fluconazole	3365	C07002
+CPD0156	minocyclin		D05045,C07225
+CPD0157	N-acetyl sulfapyridine	58638	
+CPD0158	quinine	3034034	C06526
+CPD0159	emtricitabine	60877	D01199,C12599
+CPD0160	lamivudine	60825	C07065
+CPD0161	4-hydroxycoumarin	54682930	C20414
+CPD0162	atenolol	2249	D00235
+CPD0163	diltiazem	39186	D07845
+CPD0164	furosemide	3440	D00331
+CPD0165	hydrochlorothiazide	3639	C07041
+CPD0166	losartan	3961	D08146,C07072
+CPD0167	metoprolol	4171	D02358
+CPD0168	metoprolol acid metabolite*	62936	
+CPD0169	olmesartan	158781	D05246
+CPD0170	rivaroxaban	9875401	
+CPD0171	tadalafil	110635	
+CPD0172	verapamil	2520	DG00329,C07188,D02356
+CPD0173	dexlansoprazole	9578005	D08903
+CPD0174	omeprazole	4594	C07324
+CPD0175	ondansetron	4595	C07325
+CPD0176	pantoprazole	4679	C11806
+CPD0177	promethazine	4927	C07404
+CPD0178	ranitidine	3001055	D00422
+CPD0179	ranitidine N-oxide*	62985	
+CPD0180	allopurinol	135401907	D00224
+CPD0181	allopurinol riboside	135407110	
+CPD0182	febuxostat	134018	D01206,DG02878
+CPD0183	glyburide	3488	D00336,C07022
+CPD0184	metformin	4091	C07151
+CPD0185	oxypurinol	135398752	D02365
+CPD0186	probenecid	4911	C07372
+CPD0187	sitagliptin	4369359	D08516,DG00118
+CPD0188	2-propyl-2-pentenoate (2-ene-valproate)	6437068	C16653
+CPD0189	2-propyl-4-pentenoate (4-ene-valproate)	104896	
+CPD0190	3-hydroxyvalproate	134459	C16651
+CPD0191	5-hydroxyvalproate	135244	C16650
+CPD0192	cyclobenzaprine	2895	C06931,D07758
+CPD0193	gabapentin	3446	D00332
+CPD0194	homoveratric acid	7139	
+CPD0195	lamotrigine	3878	D00354
+CPD0196	pregabalin	5486971	
+CPD0197	pyridostigmine	4991	C07410
+CPD0198	topiramate	5284627	D00537
+CPD0199	valproate (2-propylpentanoate)	3121	C07185
+CPD0200	valproic acid glucuronide	88111	
+CPD0201	1-hydroxy-2-naphthalenecarboxylate	54675865	C03203
+CPD0202	citalopram propionate*	10403174	C16610
+CPD0203	citalopram/escitalopram	146570	D07913
+CPD0204	desmethylcitalopram*	162180	C16608
+CPD0205	diazepam	3016	D00293
+CPD0206	hydroxybupropion	446	
+CPD0207	N,O-didesmethylvenlafaxine glucuronide	71316036	
+CPD0208	N-desalkylquetiapine*	11369918	
+CPD0209	O-desmethylvenlafaxine	125017	D07793
+CPD0210	paroxetine	43815	D02362,C07415
+CPD0211	quetiapine	5002	"C07397,D08456,
+DG00899"
+CPD0212	sertraline	68617	C07246
+CPD0213	THC carboxylic acid	107885	
+CPD0214	THC carboxylic acid glucuronide		
+CPD0215	trazadone	5533	C07156,D08626
+CPD0216	venlafaxine	5656	C07187
+CPD0217	zolpidem	5732	C07219
+CPD0218	cetirizine	2678	C07778
+CPD0219	De(carboxymethoxy) cetirizine acetic acid		
+CPD0220	diphenhydramine	3100	C06960
+CPD0221	doxylamine	3162	D07878
+CPD0222	fexofenadine	3348	C06999
+CPD0223	guaifenesin	3516	D00337
+CPD0224	montelukast	5281040	C07482
+CPD0225	2,6-dihydroxybenzoic acid	9338	
+CPD0226	hydroquinone sulfate	161220	C00530
+CPD0227	salicylate	338	C00805
+CPD0228	12-HETE	5283155	C14777
+CPD0229	linoleoyl ethanolamide	5283446	
+CPD0230	N-linoleoyltaurine*	52922081	
+CPD0231	N-oleoylserine	44190514	
+CPD0232	N-oleoyltaurine	6437033	
+CPD0233	N-palmitoylserine	6453686	
+CPD0234	N-palmitoyltaurine	14504290	
+CPD0235	N-stearoylserine*		
+CPD0236	N-stearoyltaurine	168274	
+CPD0237	oleoyl ethanolamide	5283454	
+CPD0238	palmitoyl ethanolamide	4671	C16512
+CPD0239	stearoyl ethanolamide	27902	
+CPD0240	adipoylcarnitine (C6-DC)	71296139	
+CPD0241	octadecanedioylcarnitine (C18-DC)*		
+CPD0242	octadecenedioylcarnitine (C18:1-DC)*		
+CPD0243	pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC)		
+CPD0244	(R)-3-hydroxybutyrylcarnitine	53481617	
+CPD0245	(S)-3-hydroxybutyrylcarnitine	71464477	
+CPD0246	3-hydroxydecanoylcarnitine	121454166	
+CPD0247	3-hydroxyhexanoylcarnitine (1)		
+CPD0248	3-hydroxyoctanoylcarnitine (1)		
+CPD0249	3-hydroxyoctanoylcarnitine (2)		
+CPD0250	arachidoylcarnitine (C20)*	53477833	
+CPD0251	behenoylcarnitine (C22)*	71464577	
+CPD0252	cerotoylcarnitine (C26)*	53477828	
+CPD0253	lignoceroylcarnitine (C24)*		
+CPD0254	margaroylcarnitine (C17)*	53477803	
+CPD0255	myristoylcarnitine (C14)	6426854	
+CPD0256	palmitoylcarnitine (C16)	461	C02990
+CPD0257	stearoylcarnitine (C18)	3006797	
+CPD0258	cis-3,4-methyleneheptanoylcarnitine		
+CPD0259	decanoylcarnitine (C10)	10245190	
+CPD0260	hexanoylcarnitine (C6)	6426853	
+CPD0261	laurylcarnitine (C12)	168381	
+CPD0262	nonanoylcarnitine (C9)	91825642	
+CPD0263	octanoylcarnitine (C8)	11953814;123701	C02838
+CPD0264	3-decenoylcarnitine		
+CPD0265	5-dodecenoylcarnitine (C12:1)	91825571	
+CPD0266	cis-4-decenoylcarnitine (C10:1)	57357170	
+CPD0267	eicosenoylcarnitine (C20:1)*		
+CPD0268	myristoleoylcarnitine (C14:1)*	129691961	
+CPD0269	nervonoylcarnitine (C24:1)*		
+CPD0270	oleoylcarnitine (C18:1)	6441392	
+CPD0271	palmitoleoylcarnitine (C16:1)*	71464547	
+CPD0272	undecenoylcarnitine (C11:1)		
+CPD0273	ximenoylcarnitine (C26:1)*		
+CPD0274	arachidonoylcarnitine (C20:4)	136212424	
+CPD0275	dihomo-linolenoylcarnitine (C20:3n3 or 6)*		
+CPD0276	dihomo-linoleoylcarnitine (C20:2)*		
+CPD0277	linolenoylcarnitine (C18:3)*		
+CPD0278	linoleoylcarnitine (C18:2)*	6450015	
+CPD0279	acetylcarnitine (C2)	7045767	C02571
+CPD0280	arachidonoylcholine	122198216	
+CPD0281	docosahexaenoylcholine		
+CPD0282	linoleoylcholine*	53481656	
+CPD0283	oleoylcholine	59040790	
+CPD0284	palmitoylcholine	151731	
+CPD0285	stearoylcholine*	90111	
+CPD0286	4-methylhexanoylglutamine		
+CPD0287	hexanoylglutamine		
+CPD0288	2-butenoylglycine	6303498	
+CPD0289	3-hydroxybutyroylglycine		
+CPD0290	cis-3,4-methyleneheptanoylglycine		
+CPD0291	N-linoleoylglycine	6433346	
+CPD0292	N-palmitoylglycine	151008	
+CPD0293	picolinoylglycine	11788622	
+CPD0294	trans-2-hexenoylglycine		
+CPD0295	butyrylcarnitine (C4)	439829	C02862
+CPD0296	butyrylglycine (C4)	88412	
+CPD0297	methylmalonate (MMA)	487	C02170
+CPD0298	propionylcarnitine (C3)	107738	C03017
+CPD0299	propionylglycine (C3)	98681	
+CPD0300	malonylcarnitine	22833583	
+CPD0301	N-linoleoylserine*		
+CPD0302	2-aminoheptanoate	227939	
+CPD0303	2-aminooctanoate	69522	
+CPD0304	N-acetyl-2-aminooctanoate*	95555	
+CPD0305	(14 or 15)-methylpalmitate (a17:0 or i17:0)	8181;17903417	C16995
+CPD0306	(16 or 17)-methylstearate (a19:0 or i19:0)	3083779	
+CPD0307	2-hydroxyphytanate*	189026	
+CPD0308	cis-3,4-methyleneheptanoate		
+CPD0309	pristanate	123929	
+CPD0310	2-hydroxyglutarate	43	C02630
+CPD0311	2-hydroxysebacate	128458	
+CPD0312	3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)	194501	
+CPD0313	3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	123979	
+CPD0314	3-hydroxyadipate	151913	
+CPD0315	3-hydroxydodecanedioate*	16663321	
+CPD0316	4-hydroxy-2-oxoglutaric acid	599	C01127
+CPD0317	adipate	196	C06104
+CPD0318	azelate (C9-DC)	2266	C08261
+CPD0319	branched chain 14:0 dicarboxylic acid		
+CPD0320	decadienedioic acid (C10:2-DC)	17789717	
+CPD0321	docosadioate (C22-DC)	7641	C14240
+CPD0322	dodecadienoate (12:2)*	25480	
+CPD0323	dodecanedioate (C12)	12736	C02678
+CPD0324	dodecenedioate (C12:1-DC)*	5283028	
+CPD0325	eicosanedioate (C20-DC)	75502	
+CPD0326	eicosenedioate (C20:1-DC)*		
+CPD0327	glutarate (C5-DC)	743;4418048	C00489
+CPD0328	heptenedioate (C7:1-DC)*		
+CPD0329	hexadecanedioate (C16)	10459	C19615
+CPD0330	hexadecenedioate (C16:1-DC)*		
+CPD0331	hydroxy-CMPF*		
+CPD0332	maleate	444266	C01384
+CPD0333	octadecadienedioate (C18:2-DC)*		
+CPD0334	octadecanedioate (C18)	70095	
+CPD0335	octadecenedioate (C18:1-DC)	9543674	
+CPD0336	sebacate (C10-DC)	5192	C08277
+CPD0337	suberate (C8-DC)	10457	C08278
+CPD0338	tetradecadienedioate (C14:2-DC)*	86018718	
+CPD0339	tetradecanedioate (C14)	13185	
+CPD0340	tridecenedioate (C13:1-DC)*		
+CPD0341	undecanedioate (C11-DC)	15816	
+CPD0342	12,13-DiHOME	10236635	C14829
+CPD0343	2R,3R-dihydroxybutyrate	13120901	
+CPD0344	2S,3R-dihydroxybutyrate	10964471	
+CPD0345	3,4-dihydroxybutyrate	150929	
+CPD0346	9,10-DiHOME	9966640	C14828
+CPD0347	13-HODE + 9-HODE	5312830;1424;5282947;5282944;5282945	C14767,C14762
+CPD0348	16-hydroxypalmitate	10466	C18218
+CPD0349	2-hydroxyarachidate*	5225199	
+CPD0350	2-hydroxydecanoate	21488	
+CPD0351	2-hydroxynervonate*	5312783	
+CPD0352	2-hydroxyoctanoate	5312860;6995013;94180	
+CPD0353	2-hydroxypalmitate	12575964;92836;11065598	
+CPD0354	2-hydroxystearate	69417;439885;439887	C03045,C03042
+CPD0355	3-hydroxyarachidate*	5282918	
+CPD0356	3-hydroxydecanoate	26612	
+CPD0357	3-hydroxyhexanoate	151492	
+CPD0358	3-hydroxylaurate	94216	
+CPD0359	3-hydroxymyristate	16064	
+CPD0360	3-hydroxyoctanoate	26613	C20793
+CPD0361	3-hydroxysebacate	3017884	
+CPD0362	3-hydroxystearate	5282907	
+CPD0363	5-hydroxyhexanoate	170748	
+CPD0364	9-hydroxystearate	9570127	
+CPD0365	alpha-hydroxycaproate	99824	
+CPD0366	Fibrinopeptide A (2-15)	25078015	
+CPD0367	Fibrinopeptide A (3-16)	25078015	
+CPD0368	ADSGEGDFXAEGGGVR*	25081464	
+CPD0369	DSGEGDFXAEGGGVR*	132993922	
+CPD0370	ADpSGEGDFXAEGGGVR*	132993923	
+CPD0371	Fibrinopeptide B (1-13)		
+CPD0372	(15:0)-anacardic acid	167551	C10759
+CPD0373	(15:2)-anacardic acid	11824131	
+CPD0374	(15:3)-anacardic acid	9875131	
+CPD0375	2,3-dihydroxyisovalerate	677	C04039
+CPD0376	2,3-dihydroxypyridine	28115	
+CPD0377	2-acetamidophenol sulfate	181671	
+CPD0378	2-aminophenol sulfate	181670	
+CPD0379	2-isopropylmalate	77	C02504
+CPD0380	2-keto-3-deoxy-gluconate	161227	C00204
+CPD0381	2-piperidinone	12665	
+CPD0382	3-ethylcatechol sulfate (1)		
+CPD0383	3-formylindole	10256	C08493
+CPD0384	3-hydroxystachydrine*	46173781	C10151
+CPD0385	3-indoleglyoxylic acid	73863	
+CPD0386	4-acetylcatechol sulfate (1)		
+CPD0387	4-acetylcatechol sulfate (2)		
+CPD0388	4-allylphenol sulfate	66633409	
+CPD0389	4-vinylguaiacol sulfate	53803570	
+CPD0390	acesulfame	36573	
+CPD0391	alliin	87310	C08265
+CPD0392	betonicine	164642	C08269
+CPD0393	caffeic acid sulfate	21668705	
+CPD0394	cinnamoylglycine	709625	
+CPD0395	daidzein	5281708	C10208
+CPD0396	daidzein sulfate (2)	12114465	
+CPD0397	dihydrocaffeate sulfate (2)		
+CPD0398	dihydroferulate	14340	
+CPD0399	dihydroferulic acid sulfate	187489	
+CPD0400	enterolactone sulfate		
+CPD0401	ergothioneine	5351619	C05570
+CPD0402	erythritol	222285	C00503
+CPD0403	ethyl alpha-glucopyranoside	11127487	
+CPD0404	ethyl beta-glucopyranoside	121667	
+CPD0405	eugenol sulfate	180632	
+CPD0406	ferulic acid 4-sulfate	6305574	
+CPD0407	feruloylquinate (4)		
+CPD0408	furaneol sulfate	59815364	
+CPD0409	genistein sulfate*		
+CPD0410	ginkgolic acid C15:1	5281858	C10794
+CPD0411	glucoheptose	76599	
+CPD0412	gluconate	3085666;10690	C00257
+CPD0413	glucuronide of piperine metabolite C17H21NO3 (3)*		
+CPD0414	glucuronide of piperine metabolite C17H21NO3 (4)*		
+CPD0415	glucuronide of piperine metabolite C17H21NO3 (5)*		
+CPD0416	glycyrrhetinate	6857363	C02283
+CPD0417	histidine betaine (hercynine)*	3083620	
+CPD0418	homostachydrine*	441447	C08283
+CPD0419	indolin-2-one	321710	C12312
+CPD0420	isoeugenol sulfate	122198202	
+CPD0421	levulinoylcarnitine		
+CPD0422	maltol sulfate		
+CPD0423	mannonate*	3246006	
+CPD0424	methyl glucopyranoside (alpha + beta)	445238;3036743;2108	
+CPD0425	N-(2-furoyl)glycine	21863	
+CPD0426	N-acetylalliin		
+CPD0427	N-acetyltheanine		
+CPD0428	N-oxalyl glycine (NOG)	3080614	
+CPD0429	phytanate	26840	C01607
+CPD0430	piperine	638024	C03882
+CPD0431	pyrraline	14274616	C21013
+CPD0432	quinate	6508	C00296
+CPD0433	S-allylcysteine	98280	
+CPD0434	saccharin	5143	C12283
+CPD0435	solanidine	65727	C06543
+CPD0436	stachydrine	115244	C10172
+CPD0437	sulfate of piperine metabolite C16H19NO3 (2)*		
+CPD0438	sulfate of piperine metabolite C16H19NO3 (3)*		
+CPD0439	sulfate of piperine metabolite C18H21NO3 (3)*		
+CPD0440	tartarate	444305;875	C00552,C00898,C02107
+CPD0441	tartronate (hydroxymalonate)	45	C02287
+CPD0442	theanine	439378	C01047
+CPD0443	thymol sulfate	12456386	C09908
+CPD0444	umbelliferone sulfate	129659	
+CPD0445	vanillic acid glycine	3083688	
+CPD0446	fructose	2723872	C00095
+CPD0447	galactonate	12310779;128869	C15930,C00880
+CPD0448	mannitol/sorbitol	6251;5780	C00392,C00794
+CPD0449	mannose	185698;82308;18950;439680	C00159,C02209,C00936
+CPD0450	gamma-glutamyl-2-aminobutyrate		
+CPD0451	gamma-glutamyl-alpha-lysine	65254	
+CPD0452	gamma-glutamyl-epsilon-lysine	7015685	
+CPD0453	gamma-glutamylalanine	440103	C03738
+CPD0454	gamma-glutamylcitrulline*		
+CPD0455	gamma-glutamylglutamate	92865	C05282
+CPD0456	gamma-glutamylglutamine	150914	C05283
+CPD0457	gamma-glutamylglycine	100099	
+CPD0458	gamma-glutamylhistidine	7017195	
+CPD0459	gamma-glutamylisoleucine*	22885096	
+CPD0460	gamma-glutamylleucine	151023	
+CPD0461	gamma-glutamylmethionine	7009567	
+CPD0462	gamma-glutamylphenylalanine	111299	
+CPD0463	gamma-glutamylthreonine	76078708	
+CPD0464	gamma-glutamyltryptophan	3989307	
+CPD0465	gamma-glutamyltyrosine	94340	
+CPD0466	gamma-glutamylvaline	7015683	
+CPD0467	4-hydroxyglutamate	439902	C03079
+CPD0468	alpha-ketoglutaramate*	48	C00940
+CPD0469	beta-citrylglutamate	189741	C20775
+CPD0470	carboxyethyl-GABA	2572	
+CPD0471	glutamate	33032	C00025,C00217
+CPD0472	glutamine	5961	C00064
+CPD0473	N-acetylglutamate	70914	C00624
+CPD0474	N-acetylglutamine	182230	C02716
+CPD0475	S-1-pyrroline-5-carboxylate	11966181	C04322
+CPD0476	2-aminobutyrate	80283	C02356
+CPD0477	2-hydroxybutyrate/2-hydroxyisobutyrate	4277439;440864	C21297,C05984
+CPD0478	5-oxoproline	439685;7405	C01879,C02237
+CPD0479	cys-gly, oxidized	333293	
+CPD0480	cysteine-glutathione disulfide	3080690	R00900
+CPD0481	cysteinylglycine	439498	C01419
+CPD0482	cysteinylglycine disulfide*	22833544	
+CPD0483	glycerol	753	C00116
+CPD0484	2-methylserine	94309	C02115
+CPD0485	betaine	247	C00719
+CPD0486	dimethylglycine	673	C03626
+CPD0487	glycine	750	C00037
+CPD0488	N-acetylglycine	10972	
+CPD0489	N-acetylserine	65249	
+CPD0490	N-acetylthreonine	152204	
+CPD0491	O-acetylhomoserine	439389	C01077
+CPD0492	sarcosine	1088	C00213
+CPD0493	serine	5951	C00065
+CPD0494	threonine	6288	C00188
+CPD0495	maltose	10991489	C00208
+CPD0496	maltotetraose	439639	C02052
+CPD0497	maltotriose	439586	C01835
+CPD0498	1,5-anhydroglucitol (1,5-AG)	64960	C07326
+CPD0499	3-phosphoglycerate	724	C00597
+CPD0500	glucose	5793	C00031
+CPD0501	glycerate	752;439194	C00258
+CPD0502	lactate	612	C00186
+CPD0503	pyruvate	1060	C00022
+CPD0504	4-guanidinobutanoate	500	C01035
+CPD0505	bilirubin (E,E)*	129320511	
+CPD0506	bilirubin (E,Z or Z,E)*	5799469	C00486
+CPD0507	bilirubin	5280352	C00486
+CPD0508	biliverdin	5280353	C00500
+CPD0509	heme	26945	C00032
+CPD0510	I-urobilinogen	9548718	C05789
+CPD0511	1-methyl-4-imidazoleacetate	75810	C05828
+CPD0512	1-methyl-5-imidazoleacetate	6451814	
+CPD0513	1-methyl-5-imidazolelactate		
+CPD0514	1-methylhistamine	3614	C05127
+CPD0515	1-methylhistidine	92105	C01152
+CPD0516	1-ribosyl-imidazoleacetate*	440569	C05131
+CPD0517	3-methylhistidine	64969	C01152
+CPD0518	anserine	112072	C01262
+CPD0519	formiminoglutamate	439233	C00439
+CPD0520	histamine	774	C00388
+CPD0521	histidine	6274	C00135
+CPD0522	hydantoin-5-propionate	782	C05565
+CPD0523	imidazole lactate	793	C05568
+CPD0524	imidazole propionate	70630	
+CPD0525	N-acetyl-1-methylhistidine*	53859791	
+CPD0526	N-acetyl-3-methylhistidine*	193270	
+CPD0527	N-acetylcarnosine	9903482	
+CPD0528	N-acetylhistidine	75619	C02997
+CPD0529	trans-urocanate	736715	C00785
+CPD0530	chiro-inositol		C19891
+CPD0531	myo-inositol	892	C00137
+CPD0532	3-hydroxybutyrate (BHBA)	441;94318;92135	C03197,C01089
+CPD0533	1-carboxyethylisoleucine		
+CPD0534	1-carboxyethylleucine		
+CPD0535	1-carboxyethylvaline		
+CPD0536	2,3-dihydroxy-2-methylbutyrate	301941	
+CPD0537	2-hydroxy-3-methylvalerate	164623	
+CPD0538	2-ketocaprylate	67600	
+CPD0539	2-methylbutyrylcarnitine (C5)	6426901	
+CPD0540	3-hydroxy-2-ethylpropionate	188979	
+CPD0541	3-hydroxyisobutyrate	11966314	C01188,C06001
+CPD0542	3-methyl-2-oxobutyrate	49	C00141
+CPD0543	3-methyl-2-oxovalerate	440877;439286	C00671,C06008,C03465
+CPD0544	3-methylglutaconate	1551553	
+CPD0545	3-methylglutarylcarnitine (2)	128145	
+CPD0546	4-methyl-2-oxopentanoate	70	C00233
+CPD0547	alpha-hydroxyisocaproate	92779;83697;439960	C03264
+CPD0548	alpha-hydroxyisovalerate	99823	
+CPD0549	beta-hydroxyisovalerate	69362	
+CPD0550	beta-hydroxyisovaleroylcarnitine		
+CPD0551	ethylmalonate	11756	
+CPD0552	isobutyrylcarnitine (C4)	168379	
+CPD0553	isobutyrylglycine (C4)	10855600	
+CPD0554	isoleucine	6306	C16424,C00407,C06418
+CPD0555	isovalerate (C5)	10430	C08262
+CPD0556	isovalerylcarnitine (C5)	169235	C20826
+CPD0557	isovalerylglycine	546304	
+CPD0558	leucine	6106	C00123
+CPD0559	methylsuccinate	10349	
+CPD0560	N-acetylisoleucine	306109	
+CPD0561	N-acetylleucine	70912	C02710
+CPD0562	N-acetylvaline	66789	
+CPD0563	N-carbamoylvaline	448879	
+CPD0564	tiglyl carnitine (C5)	22833596	
+CPD0565	valine	6287	C00183
+CPD0566	alpha-lipoate	6112	C16241
+CPD0567	10-heptadecenoate (17:1n7)	5312435	
+CPD0568	10-nonadecenoate (19:1n9)	5312513	
+CPD0569	eicosenoate (20:1n9 or 1n11)	5282769;5282768;94159	C16526
+CPD0570	erucate (22:1n9)	8216;5281116	C08316
+CPD0571	myristoleate (14:1n5)	5281119	C08322
+CPD0572	oleate/vaccenate (18:1)	637517;445639;5281127;5282761	C01712,C08367,C00712,C21944
+CPD0573	palmitoleate (16:1n7)	445638	C08362
+CPD0574	adrenate (22:4n6)	5497181;5282844	C16527
+CPD0575	arachidonate (20:4n6)	444899	C00219
+CPD0576	dihomolinoleate (20:2n6)	6439848	C16525
+CPD0577	dihomolinolenate (20:3n3 or 3n6)	5280581	C03242
+CPD0578	docosadienoate (22:2n6)	5282807	C16533
+CPD0579	docosahexaenoate (DHA; 22:6n3)	445580	C06429
+CPD0580	docosapentaenoate (DPA; 22:5n3)	6441454	C16513
+CPD0581	docosapentaenoate (n6 DPA; 22:5n6)	6441454	C16513
+CPD0582	docosatrienoate (22:3n3)	5312556	C16534
+CPD0583	eicosapentaenoate (EPA; 20:5n3)	446284	C06428
+CPD0584	hexadecadienoate (16:2n6)	13932172	
+CPD0585	linoleate (18:2n6)	5280450	C01595
+CPD0586	linolenate (18:3n3 or 3n6)	5280933;5280934	C06426,C06427
+CPD0587	stearidonate (18:4n3)	5312508	C16300
+CPD0588	tetradecadienoate (14:2)*	5312409	
+CPD0589	arachidate (20:0)	10467	C06425
+CPD0590	margarate (17:0)	10465	
+CPD0591	myristate (14:0)	11005	C06424
+CPD0592	nonadecanoate (19:0)	12591	C16535
+CPD0593	palmitate (16:0)	985	C00249
+CPD0594	pentadecanoate (15:0)	13849	C16537
+CPD0595	stearate (18:0)	5281	C01530
+CPD0596	2-aminoadipate	92136	C00956
+CPD0597	5-hydroxylysine	3032849	C16741
+CPD0598	6-oxopiperidine-2-carboxylate	3014237	
+CPD0599	fructosyllysine	9839580	
+CPD0600	glutarylcarnitine (C5-DC)	71317118	
+CPD0601	hydroxy-N6,N6,N6-trimethyllysine*		
+CPD0602	lysine	5962	C00047,C00739
+CPD0603	N,N,N-trimethyl-5-aminovalerate	14274897	
+CPD0604	N-acetyl-2-aminoadipate	443992	C12986
+CPD0605	N-butyryl-lysine	13072316	
+CPD0606	N2-acetyl,N6,N6-dimethyllysine		
+CPD0607	N2-acetyl,N6-methyllysine		
+CPD0608	N6,N6,N6-trimethyllysine	440120	C03793
+CPD0609	N6,N6-dimethyllysine	193344	C05545
+CPD0610	N6-acetyllysine	92832	C02727
+CPD0611	N6-methyllysine	164795	C02728
+CPD0612	pipecolate		
+CPD0613	1-arachidonoyl-GPA (20:4)	42607498	
+CPD0614	1-linoleoyl-GPG (18:2)*		
+CPD0615	1-oleoyl-GPG (18:1)*		
+CPD0616	1-oleoyl-GPS (18:1)	85036846	
+CPD0617	1-palmitoyl-GPA (16:0)	6419701	C04036
+CPD0618	1-palmitoyl-GPG (16:0)*	3300276	
+CPD0619	1-stearoyl-GPG (18:0)		
+CPD0620	1-stearoyl-GPS (18:0)*	74819135	
+CPD0621	(2 or 3)-decenoate (10:1n7 or n8)		
+CPD0622	10-undecenoate (11:1n1)	14891	C13910
+CPD0623	5-dodecenoate (12:1n7)	5312378	
+CPD0624	caprate (10:0)	2969	C01571
+CPD0625	caproate (6:0)	8892	C01585
+CPD0626	caprylate (8:0)	379	C06423
+CPD0627	cis-4-decenoate (10:1n6)*	5282726	
+CPD0628	heptanoate (7:0)	8094	C17714
+CPD0629	laurate (12:0)	3893	C02679
+CPD0630	pelargonate (9:0)	8158	C01601
+CPD0631	2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*		
+CPD0632	2-hydroxy-4-(methylthio)butanoic acid	11427	
+CPD0633	alpha-ketobutyrate	58	C00109
+CPD0634	cystathionine	439258	C02291
+CPD0635	cysteine	5862	C00097
+CPD0636	cysteine s-sulfate	115015	C05824
+CPD0637	cystine	67678	C00491
+CPD0638	hypotaurine	107812	C00519
+CPD0639	lanthionine	98504	
+CPD0640	methionine	6137	C00073
+CPD0641	methionine sulfone	69961	
+CPD0642	methionine sulfoxide	158980	C02989
+CPD0643	N-acetylmethionine	448580	C02712
+CPD0644	N-acetyltaurine	159864	
+CPD0645	N-formylmethionine	439750	C03145
+CPD0646	N-methyltaurine	7882	
+CPD0647	S-adenosylhomocysteine (SAH)	439155	C00021
+CPD0648	S-carboxyethylcysteine		
+CPD0649	S-methylcysteine	88180;7058174;24417	
+CPD0650	S-methylcysteine sulfoxide	82142	
+CPD0651	S-methylmethionine	458	C05319
+CPD0652	taurine	1123	C00245
+CPD0653	3-hydroxy-3-methylglutarate	1662;5459993	C03761
+CPD0654	N,N-dimethyl-pro-pro		
+CPD0655	1-methylnicotinamide	457	C02918
+CPD0656	adenosine 5'-diphosphoribose (ADP-ribose)	192	C00301
+CPD0657	N1-Methyl-2-pyridone-5-carboxamide	69698	C05842
+CPD0658	N1-Methyl-4-pyridone-3-carboxamide	440810	C05843
+CPD0659	nicotinamide	936	C00153
+CPD0660	quinolinate	1066	C03722
+CPD0661	trigonelline (N'-methylnicotinate)	5570	C01004
+CPD0662	phosphate	1061	C00009
+CPD0663	pantoate	5289105	C00522
+CPD0664	pantothenate (Vitamin B5)	6613	C00864
+CPD0665	bilirubin degradation product, C16H18N2O5 (1)		
+CPD0666	bilirubin degradation product, C16H18N2O5 (2)		
+CPD0667	bilirubin degradation product, C16H18N2O5 (3)		
+CPD0668	bilirubin degradation product, C16H18N2O5 (4)		
+CPD0669	bilirubin degradation product, C17H18N2O4 (1)		
+CPD0670	bilirubin degradation product, C17H18N2O4 (2)		
+CPD0671	bilirubin degradation product, C17H18N2O4 (3)		
+CPD0672	bilirubin degradation product, C17H20N2O5 (1)		
+CPD0673	bilirubin degradation product, C17H20N2O5 (2)		
+CPD0674	branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*		
+CPD0675	branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*		
+CPD0676	carnitine of C10H14O2 (5)*		
+CPD0677	GlcNAc sulfate conjugate of C21H34O2 steroid		
+CPD0678	glucuronide of C10H18O2 (1)*		
+CPD0679	glucuronide of C10H18O2 (3)*		
+CPD0680	glucuronide of C10H18O2 (7)*		
+CPD0681	glucuronide of C10H18O2 (8)*		
+CPD0682	glucuronide of C12H22O4 (1)*		
+CPD0683	glucuronide of C14H26O4 (1)*		
+CPD0684	glutamine conjugate of C6H10O2 (1)*		
+CPD0685	glutamine conjugate of C6H10O2 (2)*		
+CPD0686	glutamine conjugate of C7H12O2*		
+CPD0687	glutamine_degradant*		
+CPD0688	glycine conjugate of C10H12O2*		
+CPD0689	glycine conjugate of C10H14O2 (1)*		
+CPD0690	metabolonic lactone sulfate		
+CPD0691	pentose acid*	7991	C00803
+CPD0692	arabitol/xylitol	6912;94154	C00542,C01904,C00379
+CPD0693	arabonate/xylonate	122045;6602431	C00502,C05411
+CPD0694	lyxonate		
+CPD0695	ribitol	6912	C00532,C01904,C00474,C00379
+CPD0696	ribonate	5460677	C01685
+CPD0697	xylose	135191	C00181
+CPD0698	1-carboxyethylphenylalanine	59100900	
+CPD0699	2-hydroxyphenylacetate	11970	C05852
+CPD0700	4-hydroxyphenylacetate	127	C00642
+CPD0701	N-acetylphenylalanine	74839	C03519
+CPD0702	phenylacetate	999	C07086
+CPD0703	phenylalanine	6140	C00079
+CPD0704	phenyllactate (PLA)	3848	C05607
+CPD0705	phenylpyruvate	997	C00166
+CPD0706	1-stearoyl-2-arachidonoyl-GPS (18:0/20:4)	24779545	
+CPD0707	1-stearoyl-2-docosahexaenoyl-GPS (18:0/22:6)*	24779546	
+CPD0708	1-stearoyl-2-oleoyl-GPS (18:0/18:1)	9547087	
+CPD0709	choline	305	C00114
+CPD0710	phosphocholine	1014	C00588
+CPD0711	glycerophosphoethanolamine	123874	C01233
+CPD0712	glycerophosphorylcholine (GPC)	71920	C00670
+CPD0713	phosphoethanolamine (PE)	1015	C00346
+CPD0714	trimethylamine N-oxide	1145	C01104
+CPD0715	(N(1) + N(8))-acetylspermidine	123689;496	C00612,C01029
+CPD0716	4-acetamidobutanoate	18189	C02946
+CPD0717	5-methylthioadenosine (MTA)	439176	C00170
+CPD0718	acisoga	129397	
+CPD0719	N-acetyl-isoputreanine	131802901	
+CPD0720	N-acetylputrescine	122356	C02714
+CPD0721	spermidine	1102	C00315
+CPD0722	spermine	1103	C00750
+CPD0723	XHWESASXXR*		
+CPD0724	17alpha-hydroxypregnanolone glucuronide		
+CPD0725	17alpha-hydroxypregnenolone 3-sulfate	152971	
+CPD0726	21-hydroxypregnanolone monosulfate (1)		
+CPD0727	21-hydroxypregnenolone disulfate	134595	
+CPD0728	pregnen-diol disulfate*		
+CPD0729	pregnenediol sulfate (C21H34O5S)*	105074	C18044
+CPD0730	pregnenetriol disulfate*		
+CPD0731	pregnenetriol sulfate*	129671303	
+CPD0732	pregnenolone sulfate	105074	C18044
+CPD0733	cholate	221493	C00695
+CPD0734	glyco-beta-muricholate		
+CPD0735	glycochenodeoxycholate	12544	C05466
+CPD0736	glycochenodeoxycholate 3-sulfate	11954205;21125002;21116917	
+CPD0737	glycochenodeoxycholate glucuronide (1)	44263370	
+CPD0738	glycocholate	10140	C01921
+CPD0739	glycocholate glucuronide (1)	44263357	
+CPD0740	tauro-beta-muricholate	121596216;168408;21124703	
+CPD0741	taurochenodeoxycholate	387316	C05465
+CPD0742	taurocholate	46783527;6675	C05122
+CPD0743	5alpha-pregnan-3beta,20alpha-diol disulfate	118703093	
+CPD0744	5alpha-pregnan-3beta,20alpha-diol monosulfate (2)		
+CPD0745	5alpha-pregnan-3beta,20beta-diol monosulfate (1)		
+CPD0746	5alpha-pregnan-3beta-ol,20-one sulfate		
+CPD0747	5alpha-pregnan-diol disulfate	3082277;5127902	
+CPD0748	pregnanediol-3-glucuronide	123796	
+CPD0749	pregnanolone/allopregnanolone sulfate	31402;129699967	C05480
+CPD0750	allantoin	204;439714;439713	C02350,C02348,C01551
+CPD0751	hypoxanthine	790;135398638	C00262
+CPD0752	inosine	6021	C00294
+CPD0753	inosine 5'-monophosphate (IMP)	8582	C00130
+CPD0754	N1-methylinosine	650095	
+CPD0755	urate	1175	C00366
+CPD0756	xanthine	1188	C00385
+CPD0757	adenosine	60961	C00212
+CPD0758	adenosine 3',5'-cyclic monophosphate (cAMP)	6076	C00575
+CPD0759	ADP	6022	C00008
+CPD0760	AMP	6083	C00020
+CPD0761	1-methyladenosine	27476	C02494
+CPD0762	N6-carbamoylthreonyladenosine	161466	
+CPD0763	N6-methyladenosine	102175	
+CPD0764	N6-succinyladenosine	165243	
+CPD0765	7-methylguanine	135398679	C02242
+CPD0766	N2,N2-dimethylguanosine	135501639	
+CPD0767	2'-O-methylcytidine	150971	
+CPD0768	3-methylcytidine	14237477	
+CPD0769	cytidine	6175	C00475
+CPD0770	cytosine	597	C00380
+CPD0771	N4-acetylcytidine	107461	
+CPD0772	N-carbamoylaspartate	93072	C00438
+CPD0773	orotate	967	C00295
+CPD0774	orotidine	92751	
+CPD0775	3-aminoisobutyrate	64956	C05145
+CPD0776	5,6-dihydrothymine	93556	C00906
+CPD0777	2'-O-methyluridine	102212	
+CPD0778	3-(3-amino-3-carboxypropyl)uridine*	171198	
+CPD0779	3-ureidopropionate	111	C02642
+CPD0780	5,6-dihydrouridine	94312	
+CPD0781	5-methyluridine (ribothymidine)	445408	
+CPD0782	beta-alanine	239	C00099
+CPD0783	N-acetyl-beta-alanine	76406	C01073
+CPD0784	pseudouridine	15047	C02067
+CPD0785	uracil	1174	C00106
+CPD0786	uridine	6029	C00299
+CPD0787	FAD	643975	C00016
+CPD0788	3b-hydroxy-5-cholenoic acid	92997	
+CPD0789	deoxycholate	222528;440355	C04483
+CPD0790	deoxycholic acid 12-sulfate*		
+CPD0791	deoxycholic acid glucuronide		
+CPD0792	glycocholenate sulfate*		
+CPD0793	glycodeoxycholate	3035026	C05464
+CPD0794	glycodeoxycholate 3-sulfate	101602538	
+CPD0795	glycohyocholate	71361462	
+CPD0796	glycolithocholate	115245	C15557
+CPD0797	glycolithocholate sulfate*	72222	C11301
+CPD0798	glycoursodeoxycholate	12310288	
+CPD0799	glycoursodeoxycholic acid sulfate (1)		
+CPD0800	hyocholate	92805	C17649
+CPD0801	isoursodeoxycholate	127601	C17662
+CPD0802	lithocholate sulfate (1)	451489	
+CPD0803	taurochenodeoxycholic acid 3-sulfate	52931550	
+CPD0804	taurocholenate sulfate*		
+CPD0805	taurodeoxycholate	2733768	C05463
+CPD0806	taurodeoxycholic acid 3-sulfate		
+CPD0807	taurolithocholate 3-sulfate	440071	C03642
+CPD0808	tauroursodeoxycholate	9848818	
+CPD0809	ursodeoxycholate	31401	C07880
+CPD0810	butyrate/isobutyrate (4:0)	264	C00246
+CPD0811	sphingadienine	6449795	
+CPD0812	sphinganine	3126	C00836
+CPD0813	sphinganine-1-phosphate	520	
+CPD0814	hexadecasphingosine (d16:1)*	14767871	
+CPD0815	sphingosine	5280335	C00319
+CPD0816	sphingosine 1-phosphate	5283560	C06124
+CPD0817	3beta,7alpha-dihydroxy-5-cholestenoate	3081084	C17335
+CPD0818	3beta-hydroxy-5-cholestenoate	165511	C17333
+CPD0819	4-cholesten-3-one	91477	C00599
+CPD0820	7-HOCA	3081085	C17337
+CPD0821	cholesterol	6432564;11025495;5997	C00187
+CPD0822	aconitate [cis or trans]	643757;444212	C02341,C004174
+CPD0823	alpha-ketoglutarate	51	C00026
+CPD0824	citraconate/glutaconate	643798;5280498	C02226,C02214
+CPD0825	citrate	311	C00158
+CPD0826	fumarate	444972	C00122
+CPD0827	isocitrate	5318532	C00451
+CPD0828	isocitric lactone	98259	
+CPD0829	malate	525	C00497,C00149,C00711
+CPD0830	succinate	1110	C00042
+CPD0831	succinylcarnitine (C4-DC)	71464481	
+CPD0832	3-hydroxycotinine glucuronide	53477725	
+CPD0833	cotinine	408	
+CPD0834	cotinine N-oxide	9815514	
+CPD0835	hydroxycotinine	107963	
+CPD0836	alpha-tocopherol	86472	C02477
+CPD0837	delta-CEHC	35027084	
+CPD0838	delta-CEHC glucuronide		
+CPD0839	gamma-CEHC	133098	
+CPD0840	gamma-CEHC glucuronide*	121596235	
+CPD0841	gamma-tocopherol/beta-tocopherol		C14152,C02483
+CPD0842	3-indoxyl sulfate	10258	
+CPD0843	5-hydroxyindole glucuronide		
+CPD0844	5-hydroxyindole sulfate		
+CPD0845	6-bromotryptophan	9856996	
+CPD0846	8-methoxykynurenate	76230	C05830
+CPD0847	C-glycosyltryptophan	10981970	
+CPD0848	indole-3-carboxylate	69867	C19837
+CPD0849	indoleacetate	802	C00954
+CPD0850	indoleacetoylcarnitine*		
+CPD0851	indoleacetylglutamine	25200879	
+CPD0852	indolebutyrate	8617	C11284
+CPD0853	indolelactate	92904	C02043
+CPD0854	indolepropionate	3744	
+CPD0855	kynurenate	3845	C01717
+CPD0856	kynurenine	161166	C00328
+CPD0857	N-acetylkynurenine (2)	73817779	
+CPD0858	N-acetyltryptophan	439917;700653	C03137
+CPD0859	N-formylanthranilic acid	101399	C05653
+CPD0860	oxindolylalanine	20977764	
+CPD0861	picolinate	1018	C10164
+CPD0862	serotonin	5202	C00780
+CPD0863	tryptophan	6305	C00078
+CPD0864	tryptophan betaine	442106	C09213
+CPD0865	xanthurenate	5699	C02470
+CPD0866	1-carboxyethyltyrosine		
+CPD0867	3-(4-hydroxyphenyl)lactate (HPLA)	9378	C03672
+CPD0868	3-methoxytyramine sulfate	54133459	
+CPD0869	3-methoxytyrosine	9307	
+CPD0870	4-hydroxyphenylpyruvate	979	C01179
+CPD0871	4-methoxyphenol sulfate		
+CPD0872	5-hydroxymethyl-2-furoic acid	80642	C20448
+CPD0873	catechol glucuronide	75124209	
+CPD0874	dopamine 3-O-sulfate	122136	C13690
+CPD0875	dopamine 4-sulfate	68517194	C13691
+CPD0876	gentisate	3469	C00628
+CPD0877	m-tyramine sulfate		
+CPD0878	N-acetyltyrosine	68310	
+CPD0879	p-cresol glucuronide*	154035	
+CPD0880	phenol glucuronide	87235	
+CPD0881	phenol sulfate	74426	C02180
+CPD0882	thyroxine	5819	C01829
+CPD0883	tyramine O-sulfate	153005	
+CPD0884	tyrosine	6057	C00082
+CPD0885	vanillactate	160637	
+CPD0886	vanillic alcohol sulfate		
+CPD0887	vanillylmandelate (VMA)	1245	C05584
+CPD0888	2-oxoarginine*	558	C03771
+CPD0889	3-amino-2-piperidone	5200225	
+CPD0890	argininate*	160437	
+CPD0891	arginine	6322	C00062
+CPD0892	citrulline	9750	C00327
+CPD0893	dimethylarginine (ADMA + SDMA)	123831;169148	C21189,C03626
+CPD0894	dimethylguanidino valeric acid (DMGV)*	101535539	
+CPD0895	homoarginine	9085	C01924
+CPD0896	homocitrulline	65072	C02427
+CPD0897	N,N,N-trimethyl-alanylproline betaine (TMAP)		
+CPD0898	N-acetylarginine	67427	C02562
+CPD0899	N-acetylcitrulline	656979	C15532,C02851
+CPD0900	N-acetylproline	322640	
+CPD0901	N-alpha-acetylornithine	439232	C00437
+CPD0902	N-delta-acetylornithine	9920500	C00437
+CPD0903	N-methylhydroxyproline	9860390	
+CPD0904	N-methylproline	643474	
+CPD0905	N2,N5-diacetylornithine	65977	
+CPD0906	ornithine	6262	C00077
+CPD0907	prolylhydroxyproline	11902893	
+CPD0908	proline	145742;614;8988	C00148,C000763
+CPD0909	hydroxyproline	5810	C01157
+CPD0910	urea	1176	C00086
+CPD0911	4-oxo-retinoic acid	6437063	
+CPD0912	beta-cryptoxanthin	5281235	C08591
+CPD0913	carotene diol (1)		
+CPD0914	carotene diol (2)		
+CPD0915	carotene diol (3)		
+CPD0916	retinal	638015	C00376
+CPD0917	retinol (Vitamin A)	445354	C00473
+CPD0918	pyridoxate	6723	C00847
+CPD0919	1,3,7-trimethylurate	79437	C16361
+CPD0920	1,3-dimethylurate	70346	
+CPD0921	1,7-dimethylurate	91611	C16356
+CPD0922	1-methylurate	69726	C16359
+CPD0923	1-methylxanthine	80220	C16358
+CPD0924	3,7-dimethylurate	83126	C16360
+CPD0925	3-methylxanthine	70639	C16357
+CPD0926	5-acetylamino-6-amino-3-methyluracil	88299	C16366
+CPD0927	5-acetylamino-6-formylamino-3-methyluracil	108214	C16365
+CPD0928	7-methylurate	69160	C16355
+CPD0929	7-methylxanthine	68374	C16353
+CPD0930	caffeine	2519	C07481
+CPD0931	paraxanthine	4687	C13747
+CPD0932	theobromine	5429	C07480
+CPD0933	theophylline	2153	C07130
+CPD0934	X - 07765		
+CPD0935	X - 10458		
+CPD0936	X - 11299		
+CPD0937	X - 11308		
+CPD0938	X - 11315		
+CPD0939	X - 11372		
+CPD0940	X - 11378		
+CPD0941	X - 11381		
+CPD0942	X - 11407		
+CPD0943	X - 11444		
+CPD0944	X - 11470		
+CPD0945	X - 11478		
+CPD0946	X - 11483		
+CPD0947	X - 11632		
+CPD0948	X - 11787		
+CPD0949	X - 11795		
+CPD0950	X - 11843		
+CPD0951	X - 11847		
+CPD0952	X - 11849		
+CPD0953	X - 11850		
+CPD0954	X - 11852		
+CPD0955	X - 11858		
+CPD0956	X - 11880		
+CPD0957	X - 12007		
+CPD0958	X - 12013		
+CPD0959	X - 12015		
+CPD0960	X - 12026		
+CPD0961	X - 12100		
+CPD0962	X - 12101		
+CPD0963	X - 12111		
+CPD0964	X - 12112		
+CPD0965	X - 12117		
+CPD0966	X - 12126		
+CPD0967	X - 12193		
+CPD0968	X - 12216		
+CPD0969	X - 12221		
+CPD0970	X - 12261		
+CPD0971	X - 12306		
+CPD0972	X - 12407		
+CPD0973	X - 12410		
+CPD0974	X - 12411		
+CPD0975	X - 12456		
+CPD0976	X - 12462		
+CPD0977	X - 12543		
+CPD0978	X - 12544		
+CPD0979	X - 12680		
+CPD0980	X - 12689		
+CPD0981	X - 12701		
+CPD0982	X - 12707		
+CPD0983	X - 12714		
+CPD0984	X - 12726		
+CPD0985	X - 12729		
+CPD0986	X - 12730		
+CPD0987	X - 12731		
+CPD0988	X - 12738		
+CPD0989	X - 12740		
+CPD0990	X - 12753		
+CPD0991	X - 12798		
+CPD0992	X - 12812		
+CPD0993	X - 12815		
+CPD0994	X - 12816		
+CPD0995	X - 12818		
+CPD0996	X - 12822		
+CPD0997	X - 12830		
+CPD0998	X - 12839		
+CPD0999	X - 12844		
+CPD1000	X - 12847		
+CPD1001	X - 12849		
+CPD1002	X - 12851		
+CPD1003	X - 12906		
+CPD1004	X - 13431		
+CPD1005	X - 13507		
+CPD1006	X - 13553		
+CPD1007	X - 13658		
+CPD1008	X - 13684		
+CPD1009	X - 13726		
+CPD1010	X - 13728		
+CPD1011	X - 13729		
+CPD1012	X - 13844		
+CPD1013	X - 13846		
+CPD1014	X - 13866		
+CPD1015	X - 14056		
+CPD1016	X - 14939		
+CPD1017	X - 15220		
+CPD1018	X - 15245		
+CPD1019	X - 15461		
+CPD1020	X - 15486		
+CPD1021	X - 15503		
+CPD1022	X - 15728		
+CPD1023	X - 16087		
+CPD1024	X - 16124		
+CPD1025	X - 16397		
+CPD1026	X - 16580		
+CPD1027	X - 16649		
+CPD1028	X - 16935		
+CPD1029	X - 16938		
+CPD1030	X - 17010		
+CPD1031	X - 17146		
+CPD1032	X - 17325		
+CPD1033	X - 17328		
+CPD1034	X - 17343		
+CPD1035	X - 17348		
+CPD1036	X - 17351		
+CPD1037	X - 17353		
+CPD1038	X - 17354		
+CPD1039	X - 17357		
+CPD1040	X - 17367		
+CPD1041	X - 17438		
+CPD1042	X - 17653		
+CPD1043	X - 17655		
+CPD1044	X - 17676		
+CPD1045	X - 17685		
+CPD1046	X - 17686		
+CPD1047	X - 17690		
+CPD1048	X - 18345		
+CPD1049	X - 18779		
+CPD1050	X - 18886		
+CPD1051	X - 18887		
+CPD1052	X - 18888		
+CPD1053	X - 18899		
+CPD1054	X - 18901		
+CPD1055	X - 18913		
+CPD1056	X - 18921		
+CPD1057	X - 18922		
+CPD1058	X - 19141		
+CPD1059	X - 19183		
+CPD1060	X - 19438		
+CPD1061	X - 21258		
+CPD1062	X - 21286		
+CPD1063	X - 21310		
+CPD1064	X - 21312		
+CPD1065	X - 21315		
+CPD1066	X - 21319		
+CPD1067	X - 21327		
+CPD1068	X - 21339		
+CPD1069	X - 21353		
+CPD1070	X - 21364		
+CPD1071	X - 21383		
+CPD1072	X - 21441		
+CPD1073	X - 21442		
+CPD1074	X - 21467		
+CPD1075	X - 21470		
+CPD1076	X - 21471		
+CPD1077	X - 21733		
+CPD1078	X - 21736		
+CPD1079	X - 21742		
+CPD1080	X - 21752		
+CPD1081	X - 21796		
+CPD1082	X - 21803		
+CPD1083	X - 21807		
+CPD1084	X - 21815		
+CPD1085	X - 21821		
+CPD1086	X - 21834		
+CPD1087	X - 21838		
+CPD1088	X - 21845		
+CPD1089	X - 22162		
+CPD1090	X - 22509		
+CPD1091	X - 22771		
+CPD1092	X - 22834		
+CPD1093	X - 23276		
+CPD1094	X - 23587		
+CPD1095	X - 23636		
+CPD1096	X - 23639		
+CPD1097	X - 23641		
+CPD1098	X - 23644		
+CPD1099	X - 23655		
+CPD1100	X - 23665		
+CPD1101	X - 23680		
+CPD1102	X - 23739		
+CPD1103	X - 23780		
+CPD1104	X - 23782		
+CPD1105	X - 23787		
+CPD1106	X - 23997		
+CPD1107	X - 24243		
+CPD1108	X - 24295		
+CPD1109	X - 24306		
+CPD1110	X - 24307		
+CPD1111	X - 24309		
+CPD1112	X - 24328		
+CPD1113	X - 24337		
+CPD1114	X - 24411		
+CPD1115	X - 24422		
+CPD1116	X - 24425		
+CPD1117	X - 24518		
+CPD1118	X - 24544		
+CPD1119	X - 24546		
+CPD1120	X - 24556		
+CPD1121	X - 24571		
+CPD1122	X - 24588		
+CPD1123	X - 24637		
+CPD1124	X - 24736		
+CPD1125	X - 24757		
+CPD1126	X - 24811		
+CPD1127	X - 24812		
+CPD1128	X - 24947		
+CPD1129	X - 24949		
+CPD1130	X - 24951		
+CPD1131	X - 24970		
+CPD1132	X - 25172		
+CPD1133	X - 25265		
+CPD1134	X - 25271		
+CPD1135	X - 25279		
+CPD1136	X - 25343		
+CPD1137	X - 25371		
+CPD1138	X - 25419		
+CPD1139	X - 25420		
+CPD1140	X - 25422		
+CPD1141	X - 25511		
+CPD1142	X - 25520		
+CPD1143	X - 25523		
+CPD1144	X - 25524		
+CPD1145	X - 25790		
+CPD1146	X - 25800		
+CPD1147	X - 25802		
+CPD1148	X - 25805		
+CPD1149	X - 25957		
+CPD1150	X - 26054		
+CPD1151	X - 26058		
+CPD1152	X - 26062		
+CPD1153	X - 26106		
+CPD1154	X - 26107		
+CPD1155	X - 26109		
+CPD1156	X - 26111		
+CPD1157	X - 26119		
