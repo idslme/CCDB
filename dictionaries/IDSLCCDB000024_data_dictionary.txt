@@ -1,0 +1,932 @@
+compound_id	BIOCHEMICAL	SUPER PATHWAY	SUB PATHWAY	RI	MZ	PLATFORM	KEGG
+CPD00001	(14 or 15)-methylpalmitate (a17:0 or i17:0)	Lipid	Fatty Acid, Branched	5695	269.2487	LC/MS Neg	
+CPD00002	(16 or 17)-methylstearate (a19:0 or i19:0)	Lipid	Fatty Acid, Branched	5993	297.2799	LC/MS Neg	
+CPD00003	(2 or 3)-decenoate (10:1n7 or n8)	Lipid	Medium Chain Fatty Acid	4990	169.1234	LC/MS Neg	
+CPD00004	(2,4 or 2,5)-dimethylphenol sulfate	Xenobiotics	Food Component/Plant	3474	201.0227	LC/MS Neg	
+CPD00005	(N(1) + N(8))-acetylspermidine	Amino Acid	Polyamine Metabolism	3080	188.1757	LC/MS Pos Early	
+CPD00006	(R)-3-hydroxybutyrylcarnitine	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)	2400	248.1493	LC/MS Pos Early	
+CPD00007	(S)-3-hydroxybutyrylcarnitine	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)	2340	248.1493	LC/MS Pos Early	
+CPD00008	1,2,3-benzenetriol sulfate (2)	Xenobiotics	Chemical	1709	204.9812	LC/MS Neg	
+CPD00009	1,2-dilinoleoyl-GPC (18:2/18:2)	Lipid	Phosphatidylcholine (PC)	2006	782.5694	LC/MS Pos Late	
+CPD00010	1,2-dilinoleoyl-GPE (18:2/18:2)*	Lipid	Phosphatidylethanolamine (PE)	2083	740.5225	LC/MS Pos Late	
+CPD00011	1,2-dipalmitoyl-GPC (16:0/16:0)	Lipid	Phosphatidylcholine (PC)	2365	734.5694	LC/MS Pos Late	
+CPD00012	1,3-dimethylurate	Xenobiotics	Xanthine Metabolism	1671.4	195.0524	LC/MS Neg	
+CPD00013	1,5-anhydroglucitol (1,5-AG)	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	802	163.0612	LC/MS Neg	C07326
+CPD00014	1,7-dimethylurate	Xenobiotics	Xanthine Metabolism	1578.6	195.0524	LC/MS Neg	C16356
+CPD00015	1-(1-enyl-oleoyl)-GPE (P-18:1)*	Lipid	Lysoplasmalogen	894	462.299	LC/MS Polar	
+CPD00016	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*	Lipid	Plasmalogen	2154	766.5745	LC/MS Pos Late	
+CPD00017	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*	Lipid	Plasmalogen	2270	724.5276	LC/MS Pos Late	
+CPD00018	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*	Lipid	Plasmalogen	2226	742.5745	LC/MS Pos Late	
+CPD00019	1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*	Lipid	Plasmalogen	2351	700.5276	LC/MS Pos Late	
+CPD00020	1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*	Lipid	Plasmalogen	2443	744.5902	LC/MS Pos Late	
+CPD00021	1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*	Lipid	Plasmalogen	2600	702.5432	LC/MS Pos Late	
+CPD00022	1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*	Lipid	Plasmalogen	2218	716.5589	LC/MS Pos Late	
+CPD00023	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*	Lipid	Plasmalogen	2454	718.5745	LC/MS Pos Late	
+CPD00024	1-(1-enyl-palmitoyl)-GPC (P-16:0)*	Lipid	Lysoplasmalogen	1547	480.3449	LC/MS Pos Late	
+CPD00025	1-(1-enyl-palmitoyl)-GPE (P-16:0)*	Lipid	Lysoplasmalogen	1558	438.2979	LC/MS Pos Late	
+CPD00026	1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*	Lipid	Plasmalogen	2511	752.5589	LC/MS Pos Late	
+CPD00027	1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*	Lipid	Plasmalogen	2633	728.5589	LC/MS Pos Late	
+CPD00028	1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1)	Lipid	Plasmalogen	2950	730.5745	LC/MS Pos Late	
+CPD00029	1-(1-enyl-stearoyl)-GPE (P-18:0)*	Lipid	Lysoplasmalogen	1649	466.3292	LC/MS Pos Late	
+CPD00030	1-arachidonoyl-GPA (20:4)	Lipid	Lysophospholipid	5499	457.2361	LC/MS Neg	
+CPD00031	1-arachidonoyl-GPC* (20:4)*	Lipid	Lysophospholipid	1460	544.3398	LC/MS Pos Late	C05208
+CPD00032	1-arachidonoyl-GPE (20:4n6)*	Lipid	Lysophospholipid	1470	502.2928	LC/MS Pos Late	
+CPD00033	1-arachidonoyl-GPI* (20:4)*	Lipid	Lysophospholipid	5482	619.2889	LC/MS Neg	
+CPD00034	1-arachidonylglycerol (20:4)	Lipid	Monoacylglycerol	6250	303.2329	LC/MS Neg	C13857
+CPD00035	1-carboxyethylisoleucine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2628	202.1085	LC/MS Neg	
+CPD00036	1-carboxyethylleucine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2663	202.1085	LC/MS Neg	
+CPD00037	1-carboxyethylphenylalanine	Amino Acid	Phenylalanine Metabolism	2844	236.0928	LC/MS Neg	
+CPD00038	1-carboxyethyltyrosine	Amino Acid	Tyrosine Metabolism	1846	252.0877	LC/MS Neg	
+CPD00039	1-carboxyethylvaline	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2008	188.0928	LC/MS Neg	
+CPD00040	1-hydroxy-2-naphthalenecarboxylate	Xenobiotics	Drug - Other	3930	187.0401	LC/MS Neg	C03203
+CPD00041	1-lignoceroyl-GPC (24:0)	Lipid	Lysophospholipid	1907	608.465	LC/MS Pos Late	
+CPD00042	1-linolenoyl-GPC (18:3)*	Lipid	Lysophospholipid	1410	518.3241	LC/MS Pos Late	
+CPD00043	1-linolenoylglycerol (18:3)	Lipid	Monoacylglycerol	6214	277.2173	LC/MS Neg	
+CPD00044	1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*	Lipid	Phosphatidylcholine (PC)	1969	806.5694	LC/MS Pos Late	
+CPD00045	1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*	Lipid	Phosphatidylcholine (PC)	1939	780.5538	LC/MS Pos Late	
+CPD00046	1-linoleoyl-GPA (18:2)*	Lipid	Lysophospholipid	5483	433.2361	LC/MS Neg	
+CPD00047	1-linoleoyl-GPC (18:2)	Lipid	Lysophospholipid	1465	520.3398	LC/MS Pos Late	C04100
+CPD00048	1-linoleoyl-GPE (18:2)*	Lipid	Lysophospholipid	1482	478.2928	LC/MS Pos Late	
+CPD00049	1-linoleoyl-GPG (18:2)*	Lipid	Lysophospholipid	5516	507.2728	LC/MS Neg	
+CPD00050	1-linoleoyl-GPI* (18:2)*	Lipid	Lysophospholipid	5494	595.2889	LC/MS Neg	
+CPD00051	1-linoleoylglycerol (18:2)	Lipid	Monoacylglycerol	6477	279.2329	LC/MS Neg	
+CPD00052	1-methyl-4-imidazoleacetate	Amino Acid	Histidine Metabolism	2064	141.0659	LC/MS Pos Early	C05828
+CPD00053	1-methyl-5-imidazoleacetate	Amino Acid	Histidine Metabolism	1989	141.0659	LC/MS Pos Early	
+CPD00054	1-methylhistidine	Amino Acid	Histidine Metabolism	2755	170.0924	LC/MS Pos Early	C01152
+CPD00055	1-methylnicotinamide	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	1940	137.0709	LC/MS Pos Early	C02918
+CPD00056	1-methylurate	Xenobiotics	Xanthine Metabolism	1099	181.0367	LC/MS Neg	C16359
+CPD00057	1-methylxanthine	Xenobiotics	Xanthine Metabolism	1568.8	165.0418	LC/MS Neg	C16358
+CPD00058	1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*	Lipid	Phosphatidylcholine (PC)	1914	754.5381	LC/MS Pos Late	
+CPD00059	1-myristoyl-2-palmitoyl-GPC (14:0/16:0)	Lipid	Phosphatidylcholine (PC)	2147	706.5381	LC/MS Pos Late	
+CPD00060	1-oleoyl-2-arachidonoyl-GPE (18:1/20:4)*	Lipid	Phosphatidylethanolamine (PE)	2200	766.5381	LC/MS Pos Late	
+CPD00061	1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)*	Lipid	Phosphatidylcholine (PC)	2011	832.5851	LC/MS Pos Late	
+CPD00062	1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*	Lipid	Phosphatidylethanolamine (PE)	2119	790.5381	LC/MS Pos Late	
+CPD00063	1-oleoyl-2-linoleoyl-GPC (18:1/18:2)*	Lipid	Phosphatidylcholine (PC)	2165	784.5851	LC/MS Pos Late	
+CPD00064	1-oleoyl-2-linoleoyl-GPE (18:1/18:2)*	Lipid	Phosphatidylethanolamine (PE)	762	740.5236	LC/MS Polar	
+CPD00065	1-oleoylglycerophosphate (18:1)	Lipid	Lysophospholipid	1433	435.2517	LC/MS Polar	
+CPD00066	1-oleoyl-GPC (18:1)	Lipid	Lysophospholipid	1540	522.3554	LC/MS Pos Late	
+CPD00067	1-oleoyl-GPE (18:1)	Lipid	Lysophospholipid	1554	480.3085	LC/MS Pos Late	
+CPD00068	1-oleoyl-GPI (18:1)	Lipid	Lysophospholipid	5599	597.3045	LC/MS Neg	
+CPD00069	1-oleoylglycerol (18:1)	Lipid	Monoacylglycerol	6650	281.2486	LC/MS Neg	
+CPD00070	1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*	Lipid	Phosphatidylcholine (PC)	1850	754.5381	LC/MS Pos Late	
+CPD00071	1-palmitoleoyl-GPC* (16:1)*	Lipid	Lysophospholipid	1450	494.3241	LC/MS Pos Late	
+CPD00072	1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6)	Lipid	Phosphatidylcholine (PC)	2091	782.5694	LC/MS Pos Late	
+CPD00073	1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*	Lipid	Phosphatidylethanolamine (PE)	2198	740.5225	LC/MS Pos Late	
+CPD00074	1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*	Lipid	Phosphatidylinositol (PI)	892	857.5186	LC/MS Polar	
+CPD00075	1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*	Lipid	Phosphatidylcholine (PC)	2199	784.5851	LC/MS Pos Late	
+CPD00076	1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6)	Lipid	Phosphatidylcholine (PC)	2023	806.5694	LC/MS Pos Late	
+CPD00077	1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*	Lipid	Phosphatidylethanolamine (PE)	2119	764.5225	LC/MS Pos Late	
+CPD00078	1-palmitoyl-2-linoleoyl-GPC (16:0/18:2)	Lipid	Phosphatidylcholine (PC)	2160	758.5694	LC/MS Pos Late	
+CPD00079	1-palmitoyl-2-linoleoyl-GPE (16:0/18:2)	Lipid	Phosphatidylethanolamine (PE)	2275	716.5225	LC/MS Pos Late	
+CPD00080	1-palmitoyl-2-linoleoyl-GPI (16:0/18:2)	Lipid	Phosphatidylinositol (PI)	910	833.5185	LC/MS Polar	
+CPD00081	1-palmitoyl-2-oleoyl-GPC (16:0/18:1)	Lipid	Phosphatidylcholine (PC)	2358	760.5851	LC/MS Pos Late	
+CPD00082	1-palmitoyl-2-oleoyl-GPE (16:0/18:1)	Lipid	Phosphatidylethanolamine (PE)	2509	718.5381	LC/MS Pos Late	
+CPD00083	1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*	Lipid	Phosphatidylinositol (PI)	893	835.5342	LC/MS Polar	
+CPD00084	1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*	Lipid	Phosphatidylcholine (PC)	2160	732.5538	LC/MS Pos Late	
+CPD00085	1-palmitoyl-2-stearoyl-GPC (16:0/18:0)	Lipid	Phosphatidylcholine (PC)	2653	762.6007	LC/MS Pos Late	
+CPD00086	1-palmitoyl-GPA (16:0)	Lipid	Lysophospholipid	1445	409.2361	LC/MS Polar	C04036
+CPD00087	1-palmitoyl-GPC (16:0)	Lipid	Lysophospholipid	1525	496.3398	LC/MS Pos Late	
+CPD00088	1-palmitoyl-GPE (16:0)	Lipid	Lysophospholipid	1544	454.2928	LC/MS Pos Late	
+CPD00089	1-palmitoyl-GPI* (16:0)	Lipid	Lysophospholipid	5564	571.2889	LC/MS Neg	
+CPD00090	1-ribosyl-imidazoleacetate*	Amino Acid	Histidine Metabolism	2006	259.0925	LC/MS Pos Early	C05131
+CPD00091	1-stearoyl-2-arachidonoyl-GPC (18:0/20:4)	Lipid	Phosphatidylcholine (PC)	2300	810.6007	LC/MS Pos Late	
+CPD00092	1-stearoyl-2-arachidonoyl-GPE (18:0/20:4)	Lipid	Phosphatidylethanolamine (PE)	2424	768.5538	LC/MS Pos Late	
+CPD00093	1-stearoyl-2-arachidonoyl-GPI (18:0/20:4)	Lipid	Phosphatidylinositol (PI)	870	885.5495	LC/MS Polar	
+CPD00094	1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6)	Lipid	Phosphatidylcholine (PC)	2197	834.6013	LC/MS Pos Late	
+CPD00095	1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*	Lipid	Phosphatidylethanolamine (PE)	2317	792.5538	LC/MS Pos Late	
+CPD00096	1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*	Lipid	Phosphatidylcholine (PC)	2380	786.6007	LC/MS Pos Late	
+CPD00097	1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*	Lipid	Phosphatidylethanolamine (PE)	2522	744.5538	LC/MS Pos Late	
+CPD00098	1-stearoyl-2-linoleoyl-GPI (18:0/18:2)	Lipid	Phosphatidylinositol (PI)	910	861.5499	LC/MS Polar	
+CPD00099	1-stearoyl-2-oleoyl-GPC (18:0/18:1)	Lipid	Phosphatidylcholine (PC)	2644	788.6164	LC/MS Pos Late	
+CPD00100	1-stearoyl-2-oleoyl-GPE (18:0/18:1)	Lipid	Phosphatidylethanolamine (PE)	2858	746.5694	LC/MS Pos Late	
+CPD00101	1-stearoyl-GPC (18:0)	Lipid	Lysophospholipid	1606	524.3711	LC/MS Pos Late	
+CPD00102	1-stearoyl-GPE (18:0)	Lipid	Lysophospholipid	1626	482.3241	LC/MS Pos Late	
+CPD00103	1-stearoyl-GPI (18:0)	Lipid	Lysophospholipid	5794	599.3202	LC/MS Neg	
+CPD00104	10-heptadecenoate (17:1n7)	Lipid	Long Chain Monounsaturated Fatty Acid	5555	267.233	LC/MS Neg	
+CPD00105	10-hydroxywarfarin	Xenobiotics	Drug - Cardiovascular	3910	323.0925	LC/MS Neg	
+CPD00106	10-nonadecenoate (19:1n9)	Lipid	Long Chain Monounsaturated Fatty Acid	5780	295.2643	LC/MS Neg	
+CPD00107	10-undecenoate (11:1n1)	Lipid	Medium Chain Fatty Acid	5085.8	183.1391	LC/MS Neg	C13910
+CPD00108	11beta-hydroxyandrosterone glucuronide	Lipid	Androgenic Steroids	4209	481.2443	LC/MS Neg	
+CPD00109	12,13-DiHOME	Lipid	Fatty Acid, Dihydroxy	5137	313.2384	LC/MS Neg	C14829
+CPD00110	12-HETE	Lipid	Eicosanoid	5326	319.2279	LC/MS Neg	
+CPD00111	13-HODE + 9-HODE	Lipid	Fatty Acid, Monohydroxy	5275	295.2283	LC/MS Neg	
+CPD00112	14-HDoHE/17-HDoHE	Lipid	Docosanoid	5296	343.2279	LC/MS Neg	
+CPD00113	16a-hydroxy DHEA 3-sulfate	Lipid	Androgenic Steroids	4240	383.1534	LC/MS Neg	
+CPD00114	17alpha-hydroxypregnanolone glucuronide	Lipid	Pregnenolone Steroids	5071.9	509.2756	LC/MS Neg	
+CPD00115	17alpha-hydroxypregnenolone 3-sulfate	Lipid	Pregnenolone Steroids	4800	411.1847	LC/MS Neg	
+CPD00116	1H-indole-7-acetic acid	Xenobiotics	Bacterial/Fungal	922	174.0561	LC/MS Polar	
+CPD00117	2'-deoxyuridine	Nucleotide	Pyrimidine Metabolism, Uracil containing	1586	227.0673	LC/MS Neg	C00526
+CPD00118	2'-O-methylcytidine	Nucleotide	Pyrimidine Metabolism, Cytidine containing	2411	258.1085	LC/MS Pos Early	
+CPD00119	2'-O-methyluridine	Nucleotide	Pyrimidine Metabolism, Uracil containing	1831	257.0779	LC/MS Neg	
+CPD00120	2,2'-Methylenebis(6-tert-butyl-p-cresol)	Xenobiotics	Chemical	703	339.233	LC/MS Polar	
+CPD00121	2,3-dihydroxy-2-methylbutyrate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1318	133.0506	LC/MS Polar	
+CPD00122	2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	1156	177.0227	LC/MS Neg	
+CPD00123	2,3-dihydroxyisovalerate	Xenobiotics	Food Component/Plant	1050	133.0506	LC/MS Polar	C04039
+CPD00124	2,6-dihydroxybenzoic acid	Xenobiotics	Drug - Topical Agents	2575	153.0193	LC/MS Neg	
+CPD00125	2,8-quinolinediol sulfate	Xenobiotics	Food Component/Plant	2612	239.9972	LC/MS Neg	
+CPD00126	2-acetamidophenol sulfate	Xenobiotics	Drug - Analgesics, Anesthetics	2251	230.0129	LC/MS Neg	
+CPD00127	2-aminoadipate	Amino Acid	Lysine Metabolism	3500	160.0615	LC/MS Polar	C00956
+CPD00128	2-aminobutyrate	Amino Acid	Glutathione Metabolism	2059	104.0706	LC/MS Pos Early	C02261
+CPD00129	2-aminoheptanoate	Lipid	Fatty Acid, Amino	2384	144.103	LC/MS Neg	
+CPD00130	2-aminooctanoate	Lipid	Fatty Acid, Amino	3385	158.1187	LC/MS Neg	
+CPD00131	2-aminophenol sulfate	Xenobiotics	Chemical	1677	188.0023	LC/MS Neg	
+CPD00132	2-hydroxy-3-methylvalerate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1800	131.0714	LC/MS Neg	
+CPD00133	2-hydroxyacetaminophen sulfate*	Xenobiotics	Drug - Analgesics, Anesthetics	1674	246.0078	LC/MS Neg	
+CPD00134	2-hydroxybutyrate/2-hydroxyisobutyrate	Amino Acid	Glutathione Metabolism	1258	103.0401	LC/MS Polar	
+CPD00135	2-hydroxydecanoate	Lipid	Fatty Acid, Monohydroxy	4840	187.134	LC/MS Neg	
+CPD00136	2-hydroxyfluorene sulfate	Xenobiotics	Tobacco Metabolite	4372	261.0227	LC/MS Neg	
+CPD00137	2-hydroxyglutarate	Lipid	Fatty Acid, Dicarboxylate	958	131.0339	LC/MS Pos Early	C02630
+CPD00138	2-hydroxyheptanoate*	Lipid	Fatty Acid, Monohydroxy	925	145.087	LC/MS Polar	
+CPD00139	2-hydroxyhippurate (salicylurate)	Xenobiotics	Benzoate Metabolism	2184	194.0459	LC/MS Neg	C07588
+CPD00140	2-hydroxyibuprofen	Xenobiotics	Drug - Analgesics, Anesthetics	3462	221.1183	LC/MS Neg	
+CPD00141	2-hydroxynervonate*	Lipid	Fatty Acid, Monohydroxy	6345	381.3374	LC/MS Neg	
+CPD00142	2-hydroxyoctanoate	Lipid	Fatty Acid, Monohydroxy	3736.8	159.1027	LC/MS Neg	
+CPD00143	2-hydroxypalmitate	Lipid	Fatty Acid, Monohydroxy	5511.2	271.2279	LC/MS Neg	
+CPD00144	2-hydroxyphenylacetate	Amino Acid	Phenylalanine Metabolism	2164.6	151.0401	LC/MS Neg	C05852
+CPD00145	2-hydroxysebacate	Lipid	Fatty Acid, Dicarboxylate	1324	217.1081	LC/MS Neg	
+CPD00146	2-hydroxystearate	Lipid	Fatty Acid, Monohydroxy	5695	299.2592	LC/MS Neg	C03045
+CPD00147	2-isopropylmalate	Xenobiotics	Food Component/Plant	2605	175.0612	LC/MS Polar	C02504
+CPD00148	2-keto-3-deoxy-gluconate	Xenobiotics	Food Component/Plant	1900	177.0405	LC/MS Polar	C00204
+CPD00149	2-ketocaprylate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	3951	157.087	LC/MS Neg	
+CPD00150	2-linoleoylglycerol (18:2)	Lipid	Monoacylglycerol	6250	279.2329	LC/MS Neg	
+CPD00151	2-methoxyacetaminophen glucuronide*	Xenobiotics	Drug - Analgesics, Anesthetics	1633	356.0987	LC/MS Neg	
+CPD00152	2-methoxyacetaminophen sulfate*	Xenobiotics	Drug - Analgesics, Anesthetics	1949	260.0234	LC/MS Neg	
+CPD00153	2-methoxyresorcinol sulfate	Xenobiotics	Chemical	1863	218.9969	LC/MS Neg	
+CPD00154	2-methylbutyrylcarnitine (C5)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	3050	246.17	LC/MS Pos Early	
+CPD00155	2-methylbutyrylglycine (C5)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2000	160.0968	LC/MS Pos Early	
+CPD00156	2-methylcitrate/homocitrate	Energy	TCA Cycle	575	205.0354	LC/MS Neg	
+CPD00157	2-methylserine	Amino Acid	Glycine, Serine and Threonine Metabolism	1652	120.0655	LC/MS Pos Early	C02115
+CPD00158	2-naphthol sulfate	Xenobiotics	Chemical	3658	223.0071	LC/MS Neg	
+CPD00159	2-oleoylglycerol (18:1)	Lipid	Monoacylglycerol	6500	281.2486	LC/MS Neg	
+CPD00160	2-oxoarginine*	Amino Acid	Urea cycle; Arginine and Proline Metabolism	1760	174.0873	LC/MS Pos Early	C03771
+CPD00161	2-palmitoyl-GPC* (16:0)*	Lipid	Lysophospholipid	6215	570.3413	LC/MS Neg	
+CPD00162	2-piperidinone	Xenobiotics	Food Component/Plant	1675	100.0757	LC/MS Pos Early	
+CPD00163	2-pyrrolidinone	Amino Acid	Glutamate Metabolism	1262	86.06	LC/MS Pos Early	
+CPD00164	2-stearoyl-GPE (18:0)*	Lipid	Lysophospholipid	6350	480.3096	LC/MS Neg	
+CPD00165	21-hydroxypregnenolone disulfate	Lipid	Pregnenolone Steroids	3935	245.0671	LC/MS Neg	
+CPD00166	21-hydroxypregnenolone monosulfate (1)	Lipid	Pregnenolone Steroids	4624	411.1847	LC/MS Neg	
+CPD00167	2R,3R-dihydroxybutyrate	Lipid	Fatty Acid, Dihydroxy	1543	119.035	LC/MS Polar	
+CPD00168	2S,3R-dihydroxybutyrate	Lipid	Fatty Acid, Dihydroxy	1660	119.035	LC/MS Polar	
+CPD00169	3,4-dihydroxybutyrate	Lipid	Fatty Acid, Dihydroxy	2204	119.035	LC/MS Polar	
+CPD00170	3,4-methyleneheptanoate	Xenobiotics	Food Component/Plant	3807	141.0921	LC/MS Neg	
+CPD00171	3,5-dichloro-2,6-dihydroxybenzoic acid	Xenobiotics	Chemical	693	220.9414	LC/MS Polar	
+CPD00172	3-(3-amino-3-carboxypropyl)uridine*	Nucleotide	Pyrimidine Metabolism, Uracil containing	1369	344.1099	LC/MS Neg	
+CPD00173	3-(3-hydroxyphenyl)propionate	Xenobiotics	Benzoate Metabolism	1980	165.0557	LC/MS Neg	C11457
+CPD00174	3-(3-hydroxyphenyl)propionate sulfate	Xenobiotics	Benzoate Metabolism	1294	245.0125	LC/MS Neg	
+CPD00175	3-(4-hydroxyphenyl)lactate (HPLA)	Amino Acid	Tyrosine Metabolism	1379	181.0506	LC/MS Neg	C03672
+CPD00176	3-(4-hydroxyphenyl)propionate	Xenobiotics	Benzoate Metabolism	1670	165.0557	LC/MS Neg	C01744
+CPD00177	3-(methylthio)acetaminophen sulfate*	Xenobiotics	Drug - Analgesics, Anesthetics	2265	276.0006	LC/MS Neg	
+CPD00178	3-(N-acetyl-L-cystein-S-yl) acetaminophen	Xenobiotics	Drug - Analgesics, Anesthetics	2094	311.0707	LC/MS Neg	
+CPD00179	3-amino-2-piperidone	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2065	115.0866	LC/MS Pos Early	
+CPD00180	3-aminoisobutyrate	Nucleotide	Pyrimidine Metabolism, Thymine containing	2190	104.0706	LC/MS Pos Early	C05145
+CPD00181	3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)	Lipid	Fatty Acid, Dicarboxylate	4000	267.1238	LC/MS Neg	
+CPD00182	3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	Lipid	Fatty Acid, Dicarboxylate	2800	239.0925	LC/MS Neg	
+CPD00183	3-decenoylcarnitine	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	1045	314.2326	LC/MS Pos Late	
+CPD00184	3-ethylcatechol sulfate (1)	Xenobiotics	Food Component/Plant	3422	217.0176	LC/MS Neg	
+CPD00185	3-formylindole	Xenobiotics	Food Component/Plant	2736	146.06	LC/MS Pos Early	C08493
+CPD00186	3-hydroxy-2-ethylpropionate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	975	117.0557	LC/MS Neg	
+CPD00187	3-hydroxy-2-methylpyridine sulfate	Xenobiotics	Chemical	1849	188.0023	LC/MS Neg	
+CPD00188	3-hydroxy-3-methylglutarate	Lipid	Mevalonate Metabolism	2850	161.0456	LC/MS Polar	C03761
+CPD00189	3-hydroxyadipate*	Lipid	Fatty Acid, Dicarboxylate	3131	161.0455	LC/MS Polar	
+CPD00190	3-hydroxybutyrate (BHBA)	Lipid	Ketone Bodies	1480	103.0401	LC/MS Polar	C01089
+CPD00191	3-hydroxybutyroylglycine	Lipid	Fatty Acid Metabolism (Acyl Glycine)	978	162.0761	LC/MS Pos Early	
+CPD00192	3-hydroxydecanoate	Lipid	Fatty Acid, Monohydroxy	4634.7	187.134	LC/MS Neg	
+CPD00193	3-hydroxydecanoylcarnitine	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)	961	332.2432	LC/MS Pos Late	
+CPD00194	3-hydroxydodecanedioate*	Lipid	Fatty Acid, Dicarboxylate	2252	245.1394	LC/MS Neg	
+CPD00195	3-hydroxyhexanoate	Lipid	Fatty Acid, Monohydroxy	1082	131.0714	LC/MS Polar	
+CPD00196	3-hydroxyhexanoylcarnitine (1)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)	2918	276.1806	LC/MS Pos Early	
+CPD00197	3-hydroxyhippurate	Xenobiotics	Benzoate Metabolism	1687	194.0459	LC/MS Neg	
+CPD00198	3-hydroxyhippurate sulfate	Xenobiotics	Benzoate Metabolism	1047	274.0027	LC/MS Neg	
+CPD00199	3-hydroxyisobutyrate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1619	103.0401	LC/MS Polar	C06001
+CPD00200	3-hydroxylaurate	Lipid	Fatty Acid, Monohydroxy	5175	215.1653	LC/MS Neg	
+CPD00201	3-hydroxyoctanoate	Lipid	Fatty Acid, Monohydroxy	3446	159.1027	LC/MS Neg	
+CPD00202	3-hydroxyoleate*	Lipid	Fatty Acid, Monohydroxy	5508	297.2435	LC/MS Neg	
+CPD00203	3-hydroxypyridine sulfate	Xenobiotics	Chemical	1595.5	173.9867	LC/MS Neg	
+CPD00204	3-hydroxysebacate	Lipid	Fatty Acid, Monohydroxy	1282	217.1081	LC/MS Neg	
+CPD00205	3-hydroxystachydrine*	Xenobiotics	Food Component/Plant	1049	160.0968	LC/MS Pos Early	
+CPD00206	3-hydroxystearate	Lipid	Fatty Acid, Monohydroxy	5674	299.2592	LC/MS Neg	
+CPD00207	3-indoleglyoxylic acid	Xenobiotics	Food Component/Plant	2140	188.0353	LC/MS Neg	
+CPD00208	3-indoxyl sulfate	Amino Acid	Tryptophan Metabolism	2222.2	212.0023	LC/MS Neg	
+CPD00209	3-methoxycatechol sulfate (1)	Xenobiotics	Benzoate Metabolism	2163	218.9969	LC/MS Neg	
+CPD00210	3-methoxycatechol sulfate (2)	Xenobiotics	Benzoate Metabolism	2200	218.9969	LC/MS Neg	
+CPD00211	3-methoxytyramine sulfate	Amino Acid	Tyrosine Metabolism	1722	246.0442	LC/MS Neg	
+CPD00212	3-methoxytyrosine	Amino Acid	Tyrosine Metabolism	1606	210.0772	LC/MS Neg	
+CPD00213	3-methyl catechol sulfate (1)	Xenobiotics	Benzoate Metabolism	2790	203.002	LC/MS Neg	
+CPD00214	3-methyl-2-oxobutyrate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1465	115.0401	LC/MS Neg	C00141
+CPD00215	3-methyl-2-oxovalerate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2064.2	129.0557	LC/MS Neg	C00671
+CPD00216	3-methyladipate	Lipid	Fatty Acid, Dicarboxylate	2865	159.0663	LC/MS Polar	
+CPD00217	3-methylcytidine	Nucleotide	Pyrimidine Metabolism, Cytidine containing	2176	258.1085	LC/MS Pos Early	
+CPD00218	3-methylglutaconate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2700	99.0452	LC/MS Polar	
+CPD00219	3-methylglutarylcarnitine (2)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2687	290.1598	LC/MS Pos Early	
+CPD00220	3-methylhistidine	Amino Acid	Histidine Metabolism	906.3	168.0779	LC/MS Neg	C01152
+CPD00221	3-methylxanthine	Xenobiotics	Xanthine Metabolism	1700	165.0418	LC/MS Neg	C16357
+CPD00222	3-phenylpropionate (hydrocinnamate)	Xenobiotics	Benzoate Metabolism	2860	149.0608	LC/MS Neg	C05629
+CPD00223	3-sulfo-L-alanine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	2890	167.9972	LC/MS Polar	C00506
+CPD00224	3-ureidopropionate	Nucleotide	Pyrimidine Metabolism, Uracil containing	2230	131.0462	LC/MS Polar	C02642
+CPD00225	3b-hydroxy-5-cholenoic acid	Lipid	Secondary Bile Acid Metabolism	5205	373.2748	LC/MS Neg	
+CPD00226	3beta,7alpha-dihydroxy-5-cholestenoate	Lipid	Sterol	5275	431.3167	LC/MS Neg	C17335
+CPD00227	3beta-hydroxy-5-cholestenoate	Lipid	Sterol	5398	415.3218	LC/MS Neg	C17333
+CPD00228	4-acetamidobutanoate	Amino Acid	Polyamine Metabolism	894	144.0666	LC/MS Neg	C02946
+CPD00229	4-acetamidophenol	Xenobiotics	Drug - Analgesics, Anesthetics	2173.7	150.0561	LC/MS Neg	C06804
+CPD00230	4-acetamidophenylglucuronide	Xenobiotics	Drug - Analgesics, Anesthetics	1400	326.0881	LC/MS Neg	
+CPD00231	4-acetaminophen sulfate	Xenobiotics	Drug - Analgesics, Anesthetics	1792	230.0129	LC/MS Neg	C06804
+CPD00232	4-acetylcatechol sulfate (1)	Xenobiotics	Food Component/Plant	1774	230.9969	LC/MS Neg	
+CPD00233	4-acetylphenyl sulfate	Xenobiotics	Benzoate Metabolism	2375	215.002	LC/MS Neg	
+CPD00234	4-allylcatechol sulfate	Xenobiotics	Benzoate Metabolism	3571	229.0176	LC/MS Neg	
+CPD00235	4-allylphenol sulfate	Xenobiotics	Food Component/Plant	3805	213.0227	LC/MS Neg	
+CPD00236	4-cholesten-3-one	Lipid	Sterol	2520	385.3465	LC/MS Pos Late	C00599
+CPD00237	4-ethylcatechol sulfate	Xenobiotics	Benzoate Metabolism	3379	217.0176	LC/MS Neg	
+CPD00238	4-ethylphenyl sulfate	Xenobiotics	Benzoate Metabolism	3580	201.0227	LC/MS Neg	C13637
+CPD00239	4-guanidinobutanoate	Amino Acid	Guanidino and Acetamido Metabolism	2320	146.0924	LC/MS Pos Early	C01035
+CPD00240	4-hydroxychlorothalonil	Xenobiotics	Chemical	4427	244.9082	LC/MS Neg	
+CPD00241	4-hydroxycoumarin	Xenobiotics	Drug - Cardiovascular	2470	161.0244	LC/MS Neg	C20414
+CPD00242	4-hydroxyglutamate	Amino Acid	Glutamate Metabolism	1141	164.0554	LC/MS Pos Early	C03079
+CPD00243	4-hydroxyhippurate	Xenobiotics	Benzoate Metabolism	1475	194.0459	LC/MS Neg	
+CPD00244	4-hydroxyphenylacetate	Amino Acid	Phenylalanine Metabolism	1361	151.0401	LC/MS Neg	C00642
+CPD00245	4-hydroxyphenylacetylglutamine	Peptide	Acetylated Peptides	1650	279.0986	LC/MS Neg	
+CPD00246	4-imidazoleacetate	Amino Acid	Histidine Metabolism	2055	127.0502	LC/MS Pos Early	C02835
+CPD00247	4-methoxyphenol sulfate	Amino Acid	Tyrosine Metabolism	2412	203.002	LC/MS Neg	
+CPD00248	4-methyl-2-oxopentanoate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2170	129.0557	LC/MS Neg	C00233
+CPD00249	4-methylcatechol sulfate	Xenobiotics	Benzoate Metabolism	2665	203.002	LC/MS Neg	
+CPD00250	4-methylguaiacol sulfate	Xenobiotics	Benzoate Metabolism	2978	217.0176	LC/MS Neg	
+CPD00251	4-methylnonanoylcarnitine	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)	1055	316.2482	LC/MS Pos Late	
+CPD00252	4-vinylguaiacol sulfate	Xenobiotics	Food Component/Plant	3354	229.0176	LC/MS Neg	
+CPD00253	4-vinylphenol sulfate	Xenobiotics	Benzoate Metabolism	3320	199.0071	LC/MS Neg	C05627
+CPD00254	5,6-dihydrothymine	Nucleotide	Pyrimidine Metabolism, Thymine containing	1637.8	127.0513	LC/MS Neg	C00906
+CPD00255	5,6-dihydrouracil	Nucleotide	Pyrimidine Metabolism, Uracil containing	1120	113.0357	LC/MS Neg	C00429
+CPD00256	5,6-dihydrouridine	Nucleotide	Pyrimidine Metabolism, Uracil containing	1119	245.0779	LC/MS Neg	
+CPD00257	5-(galactosylhydroxy)-L-lysine	Amino Acid	Lysine Metabolism	2755	325.1606	LC/MS Pos Early	
+CPD00258	5-acetylamino-6-amino-3-methyluracil	Xenobiotics	Xanthine Metabolism	1710	197.068	LC/MS Polar	C16366
+CPD00259	5-dodecenoate (12:1n7)	Lipid	Medium Chain Fatty Acid	5224	197.1547	LC/MS Neg	
+CPD00260	5-dodecenoylcarnitine (C12:1)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	1135	342.2639	LC/MS Pos Late	
+CPD00261	5-hydroxy-6-methoxy duloxetine sulfate*	Xenobiotics	Drug - Psychoactive	3807	422.0738	LC/MS Neg	
+CPD00262	5-hydroxyhexanoate	Lipid	Fatty Acid, Monohydroxy	1267	131.0714	LC/MS Neg	
+CPD00263	5-hydroxyindole sulfate	Amino Acid	Tryptophan Metabolism	1928	212.0023	LC/MS Neg	
+CPD00264	5-hydroxylysine	Amino Acid	Lysine Metabolism	2790	163.1077	LC/MS Pos Early	C16741
+CPD00265	5-hydroxymethyl-2-furoic acid	Amino Acid	Tyrosine Metabolism	1442	141.0193	LC/MS Polar	C20448
+CPD00266	5-methylthioadenosine (MTA)	Amino Acid	Polyamine Metabolism	2752	298.0968	LC/MS Pos Early	C00170
+CPD00267	5-methylthioribose	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	790	181.0529	LC/MS Pos Early	
+CPD00268	5-methyluridine (ribothymidine)	Nucleotide	Pyrimidine Metabolism, Uracil containing	1778.1	257.0779	LC/MS Neg	
+CPD00269	5-oxoproline	Amino Acid	Glutathione Metabolism	738.5	128.0353	LC/MS Neg	C01879
+CPD00270	5alpha-androstan-3alpha,17alpha-diol monosulfate	Lipid	Androgenic Steroids	5208	371.1898	LC/MS Neg	
+CPD00271	5alpha-androstan-3alpha,17beta-diol disulfate	Lipid	Androgenic Steroids	4275	225.0697	LC/MS Neg	
+CPD00272	5alpha-androstan-3alpha,17beta-diol monosulfate (1)	Lipid	Androgenic Steroids	4925	371.1898	LC/MS Neg	
+CPD00273	5alpha-androstan-3alpha,17beta-diol monosulfate (2)	Lipid	Androgenic Steroids	5080	371.1898	LC/MS Neg	
+CPD00274	5alpha-androstan-3beta,17alpha-diol disulfate	Lipid	Androgenic Steroids	4215	225.0697	LC/MS Neg	
+CPD00275	5alpha-androstan-3beta,17beta-diol disulfate	Lipid	Androgenic Steroids	3880	225.0697	LC/MS Neg	C12525
+CPD00276	5alpha-androstan-3beta,17beta-diol monosulfate (2)	Lipid	Androgenic Steroids	4685	371.1898	LC/MS Neg	
+CPD00277	5alpha-pregnan-3beta,20alpha-diol disulfate	Lipid	Progestin Steroids	3962	239.0853	LC/MS Neg	
+CPD00278	5alpha-pregnan-3beta,20alpha-diol monosulfate (2)	Lipid	Progestin Steroids	5060	399.2211	LC/MS Neg	
+CPD00279	5alpha-pregnan-3beta,20beta-diol monosulfate (1)	Lipid	Progestin Steroids	5180	399.2211	LC/MS Neg	
+CPD00280	5alpha-pregnan-diol disulfate	Lipid	Progestin Steroids	4310	239.0853	LC/MS Neg	
+CPD00281	6-bromotryptophan	Amino Acid	Tryptophan Metabolism	3565	280.9931	LC/MS Neg	
+CPD00282	6-hydroxyindole sulfate	Xenobiotics	Chemical	2498	212.0023	LC/MS Neg	
+CPD00283	6-oxopiperidine-2-carboxylate	Amino Acid	Lysine Metabolism	965	142.051	LC/MS Neg	
+CPD00284	7-HOCA	Lipid	Sterol	5288.1	429.301	LC/MS Neg	C17337
+CPD00285	7-hydroxyindole sulfate	Amino Acid	Tryptophan Metabolism	1765	212.0023	LC/MS Neg	
+CPD00286	7-hydroxywarfarin	Xenobiotics	Drug - Cardiovascular	3300	323.0925	LC/MS Neg	
+CPD00287	7-methylguanine	Nucleotide	Purine Metabolism, Guanine containing	2175	166.0723	LC/MS Pos Early	C02242
+CPD00288	7-methylurate	Xenobiotics	Xanthine Metabolism	1321	183.0513	LC/MS Pos Early	C16355
+CPD00289	7-methylxanthine	Xenobiotics	Xanthine Metabolism	1350	167.0564	LC/MS Pos Early	C16353
+CPD00290	8-hydroxyoctanoate	Lipid	Fatty Acid, Monohydroxy	2300	159.1027	LC/MS Neg	
+CPD00291	8-methoxykynurenate	Amino Acid	Tryptophan Metabolism	2574	220.0604	LC/MS Pos Early	C05830
+CPD00292	9,10-DiHOME	Lipid	Fatty Acid, Dihydroxy	5180	313.2384	LC/MS Neg	C14828
+CPD00293	acesulfame	Xenobiotics	Food Component/Plant	1581	161.9867	LC/MS Neg	
+CPD00294	acetylcarnitine (C2)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Short Chain)	2282	204.123	LC/MS Pos Early	C02571
+CPD00295	acisoga	Amino Acid	Polyamine Metabolism	2297	183.1139	LC/MS Neg	
+CPD00296	aconitate [cis or trans]	Energy	TCA Cycle	580	173.0092	LC/MS Neg	
+CPD00297	adenine	Nucleotide	Purine Metabolism, Adenine containing	2221	136.0618	LC/MS Pos Early	C00147
+CPD00298	adenosine	Nucleotide	Purine Metabolism, Adenine containing	2169	268.104	LC/MS Pos Early	C00212
+CPD00299	AMP	Nucleotide	Purine Metabolism, Adenine containing	1013	348.0704	LC/MS Pos Early	C00020
+CPD00300	adipoylcarnitine (C6-DC)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)	2570	290.1598	LC/MS Pos Early	
+CPD00301	adrenate (22:4n6)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5678	331.2643	LC/MS Neg	C16527
+CPD00302	alanine	Amino Acid	Alanine and Aspartate Metabolism	1700	90.055	LC/MS Pos Early	C00041
+CPD00303	allantoin	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	1672	157.0367	LC/MS Polar	C02350
+CPD00304	alliin	Xenobiotics	Food Component/Plant	1470	178.0532	LC/MS Pos Early	C08265
+CPD00305	alpha-hydroxycaproate	Lipid	Fatty Acid, Monohydroxy	1920	131.0714	LC/MS Neg	
+CPD00306	alpha-hydroxyisocaproate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1840	131.0714	LC/MS Neg	C03264
+CPD00307	alpha-hydroxyisovalerate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1052	117.0557	LC/MS Polar	
+CPD00308	alpha-ketoglutaramate*	Amino Acid	Glutamate Metabolism	1916	144.0302	LC/MS Polar	
+CPD00309	alpha-ketoglutarate	Energy	TCA Cycle	2700	145.0143	LC/MS Polar	C00026
+CPD00310	alpha-tocopherol	Cofactors and Vitamins	Tocopherol Metabolism	2522	430.3782	LC/MS Pos Late	C02477
+CPD00311	andro steroid monosulfate C19H28O6S (1)*	Lipid	Androgenic Steroids	3871	383.1534	LC/MS Neg	C04555
+CPD00312	androstenediol (3alpha, 17alpha) monosulfate (2)	Lipid	Androgenic Steroids	4712	369.1741	LC/MS Neg	
+CPD00313	androstenediol (3alpha, 17alpha) monosulfate (3)	Lipid	Androgenic Steroids	5180	369.1741	LC/MS Neg	
+CPD00314	androstenediol (3beta,17beta) disulfate (1)	Lipid	Androgenic Steroids	3740	224.0618	LC/MS Neg	C04295
+CPD00315	androstenediol (3beta,17beta) disulfate (2)	Lipid	Androgenic Steroids	4065	224.0624	LC/MS Neg	C04295
+CPD00316	androstenediol (3beta,17beta) monosulfate (1)	Lipid	Androgenic Steroids	4535	369.1741	LC/MS Neg	
+CPD00317	androstenediol (3beta,17beta) monosulfate (2)	Lipid	Androgenic Steroids	4500	369.1741	LC/MS Neg	
+CPD00318	androsterone glucuronide	Lipid	Androgenic Steroids	4953	465.2494	LC/MS Neg	C11135
+CPD00319	androsterone sulfate	Lipid	Androgenic Steroids	5022	369.1741	LC/MS Neg	
+CPD00320	anthranilate	Amino Acid	Tryptophan Metabolism	2606	138.055	LC/MS Pos Early	C00108
+CPD00321	arabinose	Carbohydrate	Pentose Metabolism	1804.5	195.051	LC/MS Polar	C00216
+CPD00322	arabitol/xylitol	Carbohydrate	Pentose Metabolism	1932.4	151.0612	LC/MS Polar	C01904
+CPD00323	arabonate/xylonate	Carbohydrate	Pentose Metabolism	2700	165.0405	LC/MS Polar	
+CPD00324	arachidate (20:0)	Lipid	Long Chain Saturated Fatty Acid	6240	311.2956	LC/MS Neg	C06425
+CPD00325	arachidonate (20:4n6)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5535	303.233	LC/MS Neg	C00219
+CPD00326	arachidonoyl ethanolamide	Lipid	Endocannabinoid	1535	348.2897	LC/MS Pos Late	C11695
+CPD00327	arachidonoylcarnitine (C20:4)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)	1353	448.3422	LC/MS Pos Late	
+CPD00328	arachidonoylcholine	Lipid	Fatty Acid Metabolism (Acyl Choline)	1390	390.3367	LC/MS Pos Late	
+CPD00329	arachidoylcarnitine (C20)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)	1512	456.4047	LC/MS Pos Late	
+CPD00330	argininate*	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2150	176.103	LC/MS Pos Early	
+CPD00331	arginine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	5285	173.1044	LC/MS Polar	C00062
+CPD00332	ascorbic acid 2-sulfate	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	3042	254.9816	LC/MS Polar	
+CPD00333	asparagine	Amino Acid	Alanine and Aspartate Metabolism	2951.1	131.0462	LC/MS Polar	C00152
+CPD00334	aspartate	Amino Acid	Alanine and Aspartate Metabolism	1165	134.0448	LC/MS Pos Early	C00049
+CPD00335	azelate (nonanedioate; C9)	Lipid	Fatty Acid, Dicarboxylate	1276	187.0976	LC/MS Neg	C08261
+CPD00336	behenoyl dihydrosphingomyelin (d18:0/22:0)*	Lipid	Dihydrosphingomyelins	3150	789.6844	LC/MS Pos Late	
+CPD00337	behenoyl sphingomyelin (d18:1/22:0)*	Lipid	Sphingomyelins	3083	787.6688	LC/MS Pos Late	
+CPD00338	benzoate	Xenobiotics	Benzoate Metabolism	1750	121.0295	LC/MS Neg	C00180
+CPD00339	beta-alanine	Nucleotide	Pyrimidine Metabolism, Uracil containing	1905	90.055	LC/MS Pos Early	C00099
+CPD00340	beta-citrylglutamate	Amino Acid	Glutamate Metabolism	530	320.0623	LC/MS Neg	C20775
+CPD00341	beta-cryptoxanthin	Cofactors and Vitamins	Vitamin A Metabolism	2560	552.4326	LC/MS Pos Late	
+CPD00342	beta-guanidinopropanoate	Xenobiotics	Food Component/Plant	2145	132.0768	LC/MS Pos Early	C03065
+CPD00343	beta-hydroxyisovalerate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1027	117.0557	LC/MS Neg	
+CPD00344	betaine	Amino Acid	Glycine, Serine and Threonine Metabolism	1064	118.0863	LC/MS Pos Early	C00719
+CPD00345	betonicine	Xenobiotics	Food Component/Plant	1012	160.0968	LC/MS Pos Early	C08269
+CPD00346	bilirubin (E,E)*	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	1045	585.2708	LC/MS Pos Late	
+CPD00347	bilirubin (E,Z or Z,E)*	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	1265	585.2708	LC/MS Pos Late	
+CPD00348	bilirubin	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	1840	585.2708	LC/MS Pos Late	C00486
+CPD00349	biliverdin	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	1016	583.2551	LC/MS Pos Late	C00500
+CPD00350	branched chain 14:0 dicarboxylic acid	Lipid	Fatty Acid, Dicarboxylate	3849	257.1758	LC/MS Neg	
+CPD00351	branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*	Partially Characterized Molecules	Partially Characterized Molecules	4805	169.1234	LC/MS Neg	
+CPD00352	branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (2)*	Partially Characterized Molecules	Partially Characterized Molecules	4853	169.1234	LC/MS Neg	
+CPD00353	butyrylcarnitine (C4)	Lipid	Fatty Acid Metabolism (also BCAA Metabolism)	2860	232.1543	LC/MS Pos Early	C02862
+CPD00354	C-glycosyltryptophan	Amino Acid	Tryptophan Metabolism	1777	365.1354	LC/MS Neg	
+CPD00355	caffeic acid sulfate	Xenobiotics	Food Component/Plant	1307	258.9918	LC/MS Polar	
+CPD00356	caffeine	Xenobiotics	Xanthine Metabolism	2106	195.0877	LC/MS Pos Early	C07481
+CPD00357	campesterol	Lipid	Sterol	2873	383.3672	LC/MS Pos Late	C01789
+CPD00358	candesartan	Xenobiotics	Drug - Cardiovascular	3436	439.1524	LC/MS Neg	D00522,C07468
+CPD00359	caprate (10:0)	Lipid	Medium Chain Fatty Acid	5090.7	171.1391	LC/MS Neg	C01571
+CPD00360	caproate (6:0)	Lipid	Medium Chain Fatty Acid	2713.7	115.0765	LC/MS Neg	C01585
+CPD00361	caprylate (8:0)	Lipid	Medium Chain Fatty Acid	4362	143.1078	LC/MS Neg	C06423
+CPD00362	carbamazepine	Xenobiotics	Drug - Neurological	880	237.1022	LC/MS Pos Late	D00252
+CPD00363	carboxyethyl-GABA	Amino Acid	Glutamate Metabolism	2085	176.0917	LC/MS Pos Early	
+CPD00364	carboxyibuprofen	Xenobiotics	Drug - Analgesics, Anesthetics	1920	235.0976	LC/MS Neg	
+CPD00365	carnitine	Lipid	Carnitine Metabolism	1978	162.1125	LC/MS Pos Early	C00318
+CPD00366	carotene diol (1)	Cofactors and Vitamins	Vitamin A Metabolism	1720	568.4276	LC/MS Pos Late	
+CPD00367	carotene diol (2)	Cofactors and Vitamins	Vitamin A Metabolism	1904	568.4279	LC/MS Pos Late	
+CPD00368	carotene diol (3)	Cofactors and Vitamins	Vitamin A Metabolism	1948	568.4279	LC/MS Pos Late	
+CPD00369	catechol glucuronide	Amino Acid	Tyrosine Metabolism	1742	285.0616	LC/MS Neg	
+CPD00370	catechol sulfate	Xenobiotics	Benzoate Metabolism	1906	188.9863	LC/MS Neg	
+CPD00371	ceramide (d16:1/24:1, d18:1/22:1)*	Lipid	Ceramides	3850	620.5976	LC/MS Pos Late	
+CPD00372	ceramide (d18:1/14:0, d16:1/16:0)*	Lipid	Ceramides	2477	510.4881	LC/MS Pos Late	
+CPD00373	ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)*	Lipid	Ceramides	3920	594.582	LC/MS Pos Late	
+CPD00374	ceramide (d18:2/24:1, d18:1/24:2)*	Lipid	Ceramides	3858	646.6133	LC/MS Pos Late	
+CPD00375	cerotoylcarnitine (C26)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)	1649	540.4986	LC/MS Pos Late	
+CPD00376	chenodeoxycholate	Lipid	Primary Bile Acid Metabolism	5264	391.2854	LC/MS Neg	C02528
+CPD00377	chenodeoxycholic acid sulfate (1)	Lipid	Primary Bile Acid Metabolism	4531	235.1175	LC/MS Neg	
+CPD00378	chiro-inositol	Lipid	Inositol Metabolism	3191.2	225.0616	LC/MS Polar	C19891
+CPD00379	cholate	Lipid	Primary Bile Acid Metabolism	5165	407.2803	LC/MS Neg	C00695
+CPD00380	cholesterol	Lipid	Sterol	2707	369.3516	LC/MS Pos Late	C00187
+CPD00381	choline	Lipid	Phospholipid Metabolism	1961	104.107	LC/MS Pos Early	C00114
+CPD00382	phosphocholine	Lipid	Phospholipid Metabolism	700	184.0733	LC/MS Pos Early	C00588
+CPD00383	cinnamoylglycine	Xenobiotics	Food Component/Plant	3127	204.0666	LC/MS Neg	
+CPD00384	cis-4-decenoate (10:1n6)*	Lipid	Medium Chain Fatty Acid	4890	169.1234	LC/MS Neg	
+CPD00385	cis-4-decenoylcarnitine (C10:1)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	1057	314.2326	LC/MS Pos Late	
+CPD00386	citrate	Energy	TCA Cycle	582	191.0197	LC/MS Neg	C00158
+CPD00387	citrulline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	3250	174.0884	LC/MS Polar	C00327
+CPD00388	corticosterone	Lipid	Corticosteroids	5040	345.2071	LC/MS Neg	C02140
+CPD00389	cortisol	Lipid	Corticosteroids	4710	361.202	LC/MS Neg	C00735
+CPD00390	cortisone	Lipid	Corticosteroids	4575	359.1864	LC/MS Neg	C00762
+CPD00391	cortolone glucuronide (1)	Lipid	Corticosteroids	4600	541.2654	LC/MS Neg	
+CPD00392	cotinine	Xenobiotics	Tobacco Metabolite	2213	177.1022	LC/MS Pos Early	
+CPD00393	cotinine N-oxide	Xenobiotics	Tobacco Metabolite	1377	193.0972	LC/MS Pos Early	
+CPD00394	creatine	Amino Acid	Creatine Metabolism	2920	130.0622	LC/MS Polar	C00300
+CPD00395	creatinine	Amino Acid	Creatine Metabolism	1071.8	112.0516	LC/MS Neg	C00791
+CPD00396	cys-gly, oxidized	Amino Acid	Glutathione Metabolism	2947	355.0741	LC/MS Pos Early	
+CPD00397	cystathionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	2270	223.0747	LC/MS Pos Early	C02291
+CPD00398	cysteine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	1475	122.027	LC/MS Pos Early	C00097
+CPD00399	cysteine s-sulfate	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	2273	199.9693	LC/MS Polar	C05824
+CPD00400	cysteine sulfinic acid	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	597	154.0169	LC/MS Pos Early	C00606
+CPD00401	cysteine-glutathione disulfide	Amino Acid	Glutathione Metabolism	2465	427.0952	LC/MS Pos Early	
+CPD00402	cysteinylglycine	Amino Acid	Glutathione Metabolism	2132	179.0485	LC/MS Pos Early	C01419
+CPD00403	cysteinylglycine disulfide*	Amino Acid	Glutathione Metabolism	2547	298.0526	LC/MS Pos Early	
+CPD00404	cystine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	2000	241.0311	LC/MS Pos Early	C00491
+CPD00405	cytidine	Nucleotide	Pyrimidine Metabolism, Cytidine containing	1325	242.0782	LC/MS Neg	C00475
+CPD00406	cytosine	Nucleotide	Pyrimidine Metabolism, Cytidine containing	2060	112.0505	LC/MS Pos Early	C00380
+CPD00407	daidzein sulfate (2)	Xenobiotics	Food Component/Plant	3330	333.0076	LC/MS Neg	
+CPD00408	decanoylcarnitine (C10)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)	1130	316.2482	LC/MS Pos Late	
+CPD00409	dehydroepiandrosterone sulfate (DHEA-S)	Lipid	Androgenic Steroids	4745	367.1585	LC/MS Neg	C04555
+CPD00410	delta-CEHC	Cofactors and Vitamins	Tocopherol Metabolism	3422	249.1132	LC/MS Neg	
+CPD00411	delta-tocopherol	Cofactors and Vitamins	Tocopherol Metabolism	2259	402.3492	LC/MS Pos Late	C14151
+CPD00412	deoxycarnitine	Lipid	Carnitine Metabolism	2052	146.1176	LC/MS Pos Early	C01181
+CPD00413	deoxycholate	Lipid	Secondary Bile Acid Metabolism	5294	391.2854	LC/MS Neg	C04483
+CPD00414	deoxycholic acid glucuronide	Lipid	Secondary Bile Acid Metabolism	4800	567.3175	LC/MS Neg	
+CPD00415	desmethylnaproxen sulfate	Xenobiotics	Drug - Analgesics, Anesthetics	2250	295.0282	LC/MS Neg	
+CPD00416	dexlansoprazole	Xenobiotics	Drug - Gastrointestinal	757	368.0686	LC/MS Polar	D08903
+CPD00417	diglycerol	Xenobiotics	Chemical	818	167.0914	LC/MS Pos Early	
+CPD00418	dihomolinoleate (20:2n6)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5730	307.2643	LC/MS Neg	C16525
+CPD00419	dihomolinolenate (20:3n3 or 3n6)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5596	305.2486	LC/MS Neg	C03242
+CPD00420	dihomo-linolenoyl-choline	Lipid	Fatty Acid Metabolism (Acyl Choline)	1424	392.3523	LC/MS Pos Late	
+CPD00421	dihomo-linolenoylcarnitine (C20:3n3 or 6)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)	1392	450.3578	LC/MS Pos Late	
+CPD00422	dihomo-linoleoylcarnitine (C20:2)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)	1436	452.3734	LC/MS Pos Late	
+CPD00423	dihydrocaffeate sulfate (2)	Xenobiotics	Food Component/Plant	930	261.0074	LC/MS Neg	
+CPD00424	dihydroferulate	Xenobiotics	Food Component/Plant	1928	195.0663	LC/MS Neg	
+CPD00425	dihydroferulic acid sulfate	Xenobiotics	Food Component/Plant	1310	275.0231	LC/MS Neg	
+CPD00426	dihydroorotate	Nucleotide	Pyrimidine Metabolism, Orotate containing	1910	157.0255	LC/MS Polar	C00337
+CPD00427	dimethyl sulfone	Xenobiotics	Chemical	832	95.0161	LC/MS Pos Early	C11142
+CPD00428	dimethylarginine (ADMA + SDMA)	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2850	203.1503	LC/MS Pos Early	C03626
+CPD00429	dimethylglycine	Amino Acid	Glycine, Serine and Threonine Metabolism	1104	104.0706	LC/MS Pos Early	C01026
+CPD00430	docosadienoate (22:2n6)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	6034	335.2956	LC/MS Neg	C16533
+CPD00431	docosadioate (C22-DC)	Lipid	Fatty Acid, Dicarboxylate	5291.8	369.301	LC/MS Neg	C19625
+CPD00432	docosahexaenoate (DHA; 22:6n3)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5525	327.233	LC/MS Neg	C06429
+CPD00433	docosahexaenoylcholine	Lipid	Fatty Acid Metabolism (Acyl Choline)	1378	414.3367	LC/MS Pos Late	
+CPD00434	docosapentaenoate (DPA; 22:5n3)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5571	329.2486	LC/MS Neg	C16513
+CPD00435	docosapentaenoate (n6 DPA; 22:5n6)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5624.5	329.2486	LC/MS Neg	C16513
+CPD00436	docosatrienoate (22:3n3)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5823	333.2799	LC/MS Neg	C16534
+CPD00437	dodecadienoate (12:2)*	Lipid	Fatty Acid, Dicarboxylate	5146	195.1391	LC/MS Neg	
+CPD00438	dodecanedioate (C12)	Lipid	Fatty Acid, Dicarboxylate	2990	229.1445	LC/MS Neg	C02678
+CPD00439	dodecenedioate (C12:1-DC)*	Lipid	Fatty Acid, Dicarboxylate	2700	227.1289	LC/MS Neg	
+CPD00440	dopamine 3-O-sulfate	Amino Acid	Tyrosine Metabolism	1556.2	232.0285	LC/MS Neg	C13690
+CPD00441	dopamine 4-sulfate	Amino Acid	Tyrosine Metabolism	1511	232.0285	LC/MS Neg	C13691
+CPD00442	ectoine	Xenobiotics	Chemical	796.6	141.067	LC/MS Neg	C06231
+CPD00443	eicosanedioate (C20-DC)	Lipid	Fatty Acid, Dicarboxylate	5200.9	341.2697	LC/MS Neg	
+CPD00444	eicosapentaenoate (EPA; 20:5n3)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5450	301.2173	LC/MS Neg	C06428
+CPD00445	eicosenedioate (C20:1-DC)*	Lipid	Fatty Acid, Dicarboxylate	5095	339.2541	LC/MS Neg	
+CPD00446	eicosenoate (20:1n9 or 1n11)	Lipid	Long Chain Monounsaturated Fatty Acid	5950	309.2799	LC/MS Neg	C16526
+CPD00447	eicosenoylcarnitine (C20:1)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	1484	454.3891	LC/MS Pos Late	
+CPD00448	epiandrosterone sulfate	Lipid	Androgenic Steroids	4855	369.1741	LC/MS Neg	
+CPD00449	equol glucuronide	Xenobiotics	Food Component/Plant	3215	417.1191	LC/MS Neg	
+CPD00450	equol sulfate	Xenobiotics	Food Component/Plant	3630	321.0438	LC/MS Neg	
+CPD00451	ergothioneine	Xenobiotics	Food Component/Plant	850	230.0958	LC/MS Pos Early	C05570
+CPD00452	erucate (22:1n9)	Lipid	Long Chain Monounsaturated Fatty Acid	6355.6	337.3112	LC/MS Neg	C08316
+CPD00453	erythritol	Xenobiotics	Food Component/Plant	1491	167.0561	LC/MS Polar	C00503
+CPD00454	erythronate*	Carbohydrate	Aminosugar Metabolism	2186	135.0299	LC/MS Polar	
+CPD00455	ethyl alpha-glucopyranoside	Xenobiotics	Food Component/Plant	1576	207.0874	LC/MS Neg	
+CPD00456	ethyl glucuronide	Xenobiotics	Chemical	793	221.0667	LC/MS Neg	
+CPD00457	ethylmalonate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2785	131.035	LC/MS Polar	
+CPD00458	etiocholanolone glucuronide	Lipid	Androgenic Steroids	4915	465.2494	LC/MS Neg	
+CPD00459	eugenol sulfate	Xenobiotics	Food Component/Plant	3782	243.0333	LC/MS Neg	
+CPD00460	ferulic acid 4-sulfate	Xenobiotics	Food Component/Plant	1200	273.0074	LC/MS Neg	
+CPD00461	formiminoglutamate	Amino Acid	Histidine Metabolism	1880	175.0713	LC/MS Pos Early	C00439
+CPD00462	fructose	Carbohydrate	Fructose, Mannose and Galactose Metabolism	2065	225.0616	LC/MS Polar	C00095
+CPD00463	fructosyllysine	Amino Acid	Lysine Metabolism	2784	309.1656	LC/MS Pos Early	
+CPD00464	fumarate	Energy	TCA Cycle	3084	115.0037	LC/MS Polar	C00122
+CPD00465	galactonate	Carbohydrate	Fructose, Mannose and Galactose Metabolism	3085	195.051	LC/MS Polar	C00880
+CPD00466	gamma-CEHC	Cofactors and Vitamins	Tocopherol Metabolism	3843	263.1289	LC/MS Neg	
+CPD00467	gamma-CEHC glucuronide*	Cofactors and Vitamins	Tocopherol Metabolism	2500	439.161	LC/MS Neg	
+CPD00468	gamma-CEHC sulfate	Cofactors and Vitamins	Tocopherol Metabolism	2850	343.0857	LC/MS Neg	
+CPD00469	gamma-glutamyl-alpha-lysine	Peptide	Gamma-glutamyl Amino Acid	2784	276.1554	LC/MS Pos Early	
+CPD00470	gamma-glutamyl-epsilon-lysine	Peptide	Gamma-glutamyl Amino Acid	2725	276.1554	LC/MS Pos Early	
+CPD00471	gamma-glutamylalanine	Peptide	Gamma-glutamyl Amino Acid	1986	219.0976	LC/MS Pos Early	
+CPD00472	gamma-glutamylcitrulline*	Peptide	Gamma-glutamyl Amino Acid	1644	305.1456	LC/MS Pos Early	
+CPD00473	gamma-glutamylglutamate	Peptide	Gamma-glutamyl Amino Acid	1775	277.103	LC/MS Pos Early	C05282
+CPD00474	gamma-glutamylglutamine	Peptide	Gamma-glutamyl Amino Acid	1430	276.119	LC/MS Pos Early	C05283
+CPD00475	gamma-glutamylglycine	Peptide	Gamma-glutamyl Amino Acid	1535	205.0819	LC/MS Pos Early	
+CPD00476	gamma-glutamylhistidine	Peptide	Gamma-glutamyl Amino Acid	2740	285.1194	LC/MS Pos Early	
+CPD00477	gamma-glutamylisoleucine*	Peptide	Gamma-glutamyl Amino Acid	2940	261.1445	LC/MS Pos Early	
+CPD00478	gamma-glutamylleucine	Peptide	Gamma-glutamyl Amino Acid	1685	259.1299	LC/MS Neg	
+CPD00479	gamma-glutamylmethionine	Peptide	Gamma-glutamyl Amino Acid	1268	277.0864	LC/MS Neg	
+CPD00480	gamma-glutamylphenylalanine	Peptide	Gamma-glutamyl Amino Acid	1825	293.1143	LC/MS Neg	
+CPD00481	gamma-glutamylserine	Peptide	Gamma-glutamyl Amino Acid	1351	235.0925	LC/MS Pos Early	
+CPD00482	gamma-glutamylthreonine	Peptide	Gamma-glutamyl Amino Acid	1750	249.1081	LC/MS Pos Early	
+CPD00483	gamma-glutamyltryptophan	Peptide	Gamma-glutamyl Amino Acid	1960	332.1252	LC/MS Neg	
+CPD00484	gamma-glutamyltyrosine	Peptide	Gamma-glutamyl Amino Acid	1240	309.1092	LC/MS Neg	
+CPD00485	gamma-glutamylvaline	Peptide	Gamma-glutamyl Amino Acid	1072	245.1143	LC/MS Neg	
+CPD00486	gamma-tocopherol/beta-tocopherol	Cofactors and Vitamins	Tocopherol Metabolism	2384	416.3643	LC/MS Pos Late	
+CPD00487	genistein sulfate*	Xenobiotics	Food Component/Plant	3616	349.0024	LC/MS Neg	
+CPD00488	glu-gly-asn-val	Peptide	Polypeptide	2675	418.1932	LC/MS Pos Early	
+CPD00489	gluconate	Xenobiotics	Food Component/Plant	2922	195.051	LC/MS Polar	C00257
+CPD00490	glucose	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	2342	225.0616	LC/MS Polar	C00031
+CPD00491	glucuronate	Carbohydrate	Aminosugar Metabolism	3233.3	193.0354	LC/MS Polar	C00191
+CPD00492	glucuronide of C10H18O2 (7)*	Partially Characterized Molecules	Partially Characterized Molecules	3790	345.1555	LC/MS Neg	
+CPD00493	glucuronide of C12H22O4 (1)*	Partially Characterized Molecules	Partially Characterized Molecules	2590	405.1766	LC/MS Neg	
+CPD00494	glucuronide of C14H26O4 (1)*	Partially Characterized Molecules	Partially Characterized Molecules	3200	433.2079	LC/MS Neg	
+CPD00495	glucuronide of piperine metabolite C17H21NO3 (4)*	Xenobiotics	Food Component/Plant	3992	462.177	LC/MS Neg	
+CPD00496	glutamate	Amino Acid	Glutamate Metabolism	637	146.0459	LC/MS Neg	C00025
+CPD00497	glutamine	Amino Acid	Glutamate Metabolism	2969	145.0619	LC/MS Polar	C00064
+CPD00498	glutamine conjugate of C6H10O2 (1)*	Partially Characterized Molecules	Partially Characterized Molecules	2262	243.1339	LC/MS Pos Early	
+CPD00499	glutamine conjugate of C6H10O2 (2)*	Partially Characterized Molecules	Partially Characterized Molecules	2383	243.1339	LC/MS Pos Early	
+CPD00500	glutarate (C5-DC)	Lipid	Fatty Acid, Dicarboxylate	2900	131.035	LC/MS Polar	C00489
+CPD00501	glutaroylcarnitine (C5)	Amino Acid	Lysine Metabolism	2393	276.1442	LC/MS Pos Early	
+CPD00502	glycerate	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	2070.4	105.0193	LC/MS Polar	C00258
+CPD00503	glycerol	Lipid	Glycerolipid Metabolism	758	91.0401	LC/MS Neg	C00116
+CPD00504	glycerol 3-phosphate	Lipid	Glycerolipid Metabolism	580	173.021	LC/MS Pos Early	C00093
+CPD00505	glycerophosphoethanolamine	Lipid	Phospholipid Metabolism	3075	214.0486	LC/MS Polar	C01233
+CPD00506	glycerophosphoinositol*	Lipid	Phospholipid Metabolism	516	335.0738	LC/MS Pos Early	
+CPD00507	glycerophosphorylcholine (GPC)	Lipid	Phospholipid Metabolism	3003.1	302.101	LC/MS Polar	C00670
+CPD00508	glycerophosphoserine*	Lipid	Phospholipid Metabolism	577	260.053	LC/MS Pos Early	
+CPD00509	glycine	Amino Acid	Glycine, Serine and Threonine Metabolism	1375	76.0393	LC/MS Pos Early	C00037
+CPD00510	glycine conjugate of C10H14O2 (1)*	Partially Characterized Molecules	Partially Characterized Molecules	4335	222.1136	LC/MS Neg	
+CPD00511	glyco-alpha-muricholate	Lipid	Primary Bile Acid Metabolism	4734	464.3018	LC/MS Neg	
+CPD00512	glyco-beta-muricholate	Lipid	Primary Bile Acid Metabolism	4762	464.3018	LC/MS Neg	
+CPD00513	glycochenodeoxycholate	Lipid	Primary Bile Acid Metabolism	5236.1	448.3068	LC/MS Neg	C05466
+CPD00514	glycochenodeoxycholate 3-sulfate	Lipid	Primary Bile Acid Metabolism	4820	263.6282	LC/MS Neg	
+CPD00515	glycochenodeoxycholate glucuronide (1)	Lipid	Primary Bile Acid Metabolism	4806	311.6658	LC/MS Neg	
+CPD00516	glycocholate	Lipid	Primary Bile Acid Metabolism	5163	464.3018	LC/MS Neg	C01921
+CPD00517	glycocholate glucuronide (1)	Lipid	Primary Bile Acid Metabolism	4533	640.3339	LC/MS Neg	
+CPD00518	glycocholenate sulfate*	Lipid	Secondary Bile Acid Metabolism	4750	254.6229	LC/MS Neg	
+CPD00519	glycodeoxycholate	Lipid	Secondary Bile Acid Metabolism	1302	450.3214	LC/MS Pos Late	C05464
+CPD00520	glycodeoxycholate 3-sulfate	Lipid	Secondary Bile Acid Metabolism	4875	263.6282	LC/MS Neg	
+CPD00521	glycohyocholate	Lipid	Secondary Bile Acid Metabolism	5020	464.3018	LC/MS Neg	
+CPD00522	glycolithocholate	Lipid	Secondary Bile Acid Metabolism	5357.1	432.3119	LC/MS Neg	C15557
+CPD00523	glycolithocholate sulfate*	Lipid	Secondary Bile Acid Metabolism	5011	255.6307	LC/MS Neg	C11301
+CPD00524	glycosyl ceramide (d18:1/20:0, d16:1/22:0)*	Lipid	Hexosylceramides (HCER)	3414	756.6348	LC/MS Pos Late	
+CPD00525	glycosyl ceramide (d18:2/24:1, d18:1/24:2)*	Lipid	Hexosylceramides (HCER)	3380	808.6661	LC/MS Pos Late	
+CPD00526	glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH))*	Lipid	Hexosylceramides (HCER)	3839	826.6767	LC/MS Pos Late	
+CPD00527	glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*	Lipid	Hexosylceramides (HCER)	3420	782.6505	LC/MS Pos Late	
+CPD00528	glycosyl-N-behenoyl-sphingosine (d18:1/22:0)*	Lipid	Hexosylceramides (HCER)	4058	784.6661	LC/MS Pos Late	
+CPD00529	glycosyl-N-palmitoyl-sphingosine (d18:1/16:0)	Lipid	Hexosylceramides (HCER)	2623	700.5722	LC/MS Pos Late	
+CPD00530	glycosyl-N-stearoyl-sphingosine (d18:1/18:0)	Lipid	Hexosylceramides (HCER)	3053	728.6035	LC/MS Pos Late	
+CPD00531	glycoursodeoxycholate	Lipid	Secondary Bile Acid Metabolism	5033	448.3068	LC/MS Neg	
+CPD00532	glycylvaline	Peptide	Dipeptide	2734	175.1077	LC/MS Pos Early	
+CPD00533	guaiacol sulfate	Xenobiotics	Benzoate Metabolism	2344	203.002	LC/MS Neg	
+CPD00534	guanidinoacetate	Amino Acid	Creatine Metabolism	2884	116.0466	LC/MS Polar	C00581
+CPD00535	guanidinosuccinate	Amino Acid	Guanidino and Acetamido Metabolism	1892	176.0666	LC/MS Pos Early	C03139
+CPD00536	guanosine	Nucleotide	Purine Metabolism, Guanine containing	1662	282.0844	LC/MS Neg	C00387
+CPD00537	gulonate*	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	2750	195.051	LC/MS Polar	C00257
+CPD00538	heme	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	1124	616.1762	LC/MS Pos Late	C00032
+CPD00539	heptanoate (7:0)	Lipid	Medium Chain Fatty Acid	3670	129.0921	LC/MS Neg	C17714
+CPD00540	heptenedioate (C7:1-DC)*	Lipid	Fatty Acid, Dicarboxylate	2816	157.0506	LC/MS Polar	
+CPD00541	hexadecadienoate (16:2n6)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5398	251.2017	LC/MS Neg	
+CPD00542	hexadecenedioate (C16:1-DC)*	Lipid	Fatty Acid, Dicarboxylate	4380	283.1915	LC/MS Neg	
+CPD00543	hexanoylcarnitine (C6)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)	3358	260.1856	LC/MS Pos Early	
+CPD00544	hexanoylglutamine	Lipid	Fatty Acid Metabolism (Acyl Glutamine)	2780	243.135	LC/MS Neg	
+CPD00545	hexanoylglycine (C6)	Lipid	Fatty Acid Metabolism (Acyl Glycine)	2900	172.0979	LC/MS Neg	
+CPD00546	hippurate	Xenobiotics	Benzoate Metabolism	2106.9	178.051	LC/MS Neg	C01586
+CPD00547	histidine	Amino Acid	Histidine Metabolism	755.9	154.0622	LC/MS Neg	C00135
+CPD00548	histidine betaine (hercynine)*	Xenobiotics	Food Component/Plant	2094	198.1237	LC/MS Pos Early	
+CPD00549	homoarginine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2882	189.1346	LC/MS Pos Early	C01924
+CPD00550	homocitrulline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	3006.8	188.1041	LC/MS Polar	C02427
+CPD00551	homostachydrine*	Xenobiotics	Food Component/Plant	1750	158.1176	LC/MS Pos Early	C08283
+CPD00552	hydantoin-5-propionate	Amino Acid	Histidine Metabolism	2080	171.0411	LC/MS Polar	C05565
+CPD00553	hydrochlorothiazide	Xenobiotics	Drug - Cardiovascular	2046	295.9572	LC/MS Neg	C07041
+CPD00554	hydroquinone sulfate	Xenobiotics	Drug - Topical Agents	1395	188.9863	LC/MS Neg	C00530
+CPD00555	hydroxy-CMPF*	Lipid	Fatty Acid, Dicarboxylate	2153	255.0874	LC/MS Polar	
+CPD00556	hydroxy-N6,N6,N6-trimethyllysine*	Amino Acid	Lysine Metabolism	2759	205.1547	LC/MS Pos Early	
+CPD00557	hydroxyasparagine	Amino Acid	Alanine and Aspartate Metabolism	1149	149.0557	LC/MS Pos Early	C03124
+CPD00558	hydroxycotinine	Xenobiotics	Tobacco Metabolite	2030	193.0972	LC/MS Pos Early	
+CPD00559	hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))	Lipid	Sphingomyelins	2056	719.5698	LC/MS Pos Late	
+CPD00560	hydroxypioglitazone (M-IV)	Xenobiotics	Drug - Metabolic	4105	371.1071	LC/MS Neg	
+CPD00561	hyocholate	Lipid	Secondary Bile Acid Metabolism	5046	407.2803	LC/MS Neg	C17649
+CPD00562	hypotaurine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	724	110.027	LC/MS Pos Early	C00519
+CPD00563	hypoxanthine	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	1291.2	135.0312	LC/MS Neg	C00262
+CPD00564	I-urobilinogen	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	4190	591.3188	LC/MS Neg	C05790
+CPD00565	ibuprofen	Xenobiotics	Drug - Analgesics, Anesthetics	4925	205.1234	LC/MS Neg	D00126
+CPD00566	ibuprofen acyl glucuronide	Xenobiotics	Drug - Analgesics, Anesthetics	4976	381.1555	LC/MS Neg	
+CPD00567	imidazole lactate	Amino Acid	Histidine Metabolism	739.4	155.0462	LC/MS Neg	C05568
+CPD00568	imidazole propionate	Amino Acid	Histidine Metabolism	2263	141.0659	LC/MS Pos Early	
+CPD00569	indole-3-carboxylate	Amino Acid	Tryptophan Metabolism	1710	160.0404	LC/MS Neg	C19837
+CPD00570	indoleacetate	Amino Acid	Tryptophan Metabolism	2200	174.0561	LC/MS Neg	C00954
+CPD00571	indoleacetylglutamine	Amino Acid	Tryptophan Metabolism	2535	302.1146	LC/MS Neg	
+CPD00572	indolebutyrate	Amino Acid	Tryptophan Metabolism	3308	202.0874	LC/MS Neg	C11284
+CPD00573	indolelactate	Amino Acid	Tryptophan Metabolism	2286	204.0666	LC/MS Neg	C02043
+CPD00574	indolepropionate	Amino Acid	Tryptophan Metabolism	2795	188.0717	LC/MS Neg	
+CPD00575	indolin-2-one	Xenobiotics	Food Component/Plant	2575	134.06	LC/MS Pos Early	C12312
+CPD00576	inosine	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	1602.1	267.0735	LC/MS Neg	C00294
+CPD00577	isobutyrylcarnitine (C4)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2810	232.1543	LC/MS Pos Early	
+CPD00578	isobutyrylglycine (C4)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1420	144.0666	LC/MS Neg	
+CPD00579	isocaproate (i6:0)	Lipid	Fatty Acid, Branched	2570	115.0765	LC/MS Neg	
+CPD00580	isoleucine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2800	132.1019	LC/MS Pos Early	C00407
+CPD00581	isoleucylglycine	Peptide	Dipeptide	1992	187.1088	LC/MS Neg	
+CPD00582	isoursodeoxycholate	Lipid	Secondary Bile Acid Metabolism	4809	391.2854	LC/MS Neg	C17662
+CPD00583	isoursodeoxycholate sulfate (1)	Lipid	Secondary Bile Acid Metabolism	4082	235.1175	LC/MS Neg	
+CPD00584	isovalerate (C5)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1564	101.0608	LC/MS Neg	C08262
+CPD00585	isovalerylcarnitine (C5)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	3085	246.17	LC/MS Pos Early	
+CPD00586	isovalerylglycine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1950	158.0823	LC/MS Neg	
+CPD00587	ketopioglitazone	Xenobiotics	Drug - Metabolic	4165	369.0915	LC/MS Neg	
+CPD00588	kynurenate	Amino Acid	Tryptophan Metabolism	2224	188.0353	LC/MS Neg	C01717
+CPD00589	kynurenine	Amino Acid	Tryptophan Metabolism	1741.7	207.0775	LC/MS Polar	C00328
+CPD00590	lactate	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	1468.8	89.0244	LC/MS Polar	C00186
+CPD00591	lactose	Carbohydrate	Disaccharides and Oligosaccharides	3500	387.1144	LC/MS Polar	C00243
+CPD00592	lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*	Lipid	Lactosylceramides (LCER)	3842	946.7189	LC/MS Pos Late	
+CPD00593	lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*	Lipid	Lactosylceramides (LCER)	3778	972.7346	LC/MS Pos Late	
+CPD00594	lactosyl-N-palmitoyl-sphingosine (d18:1/16:0)	Lipid	Lactosylceramides (LCER)	2527	862.625	LC/MS Pos Late	
+CPD00595	lamivudine	Xenobiotics	Drug - Antiviral	2586	230.0594	LC/MS Pos Early	D00353
+CPD00596	lanthionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	1730	209.0591	LC/MS Pos Early	
+CPD00597	laurate (12:0)	Lipid	Medium Chain Fatty Acid	5300	199.1704	LC/MS Neg	C02679
+CPD00598	laurylcarnitine (C12)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)	1235	344.2795	LC/MS Pos Late	
+CPD00599	leucine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2864	132.1019	LC/MS Pos Early	C00123
+CPD00600	leucylalanine	Peptide	Dipeptide	2264	201.1245	LC/MS Neg	
+CPD00601	leucylglycine	Peptide	Dipeptide	2050	187.1088	LC/MS Neg	
+CPD00602	lidocaine	Xenobiotics	Drug - Analgesics, Anesthetics	746	235.1805	LC/MS Pos Late	D00358
+CPD00603	lignoceroyl sphingomyelin (d18:1/24:0)	Lipid	Sphingomyelins	3437	815.7001	LC/MS Pos Late	
+CPD00604	lignoceroylcarnitine (C24)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)	1603	512.4673	LC/MS Pos Late	
+CPD00605	linoleamide (18:2n6)	Lipid	Fatty Acid, Amide	1580	280.2635	LC/MS Pos Late	
+CPD00606	linoleate (18:2n6)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5535	279.233	LC/MS Neg	C01595
+CPD00607	linolenate (18:3n3 or 3n6)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5450	277.2173	LC/MS Neg	C06426
+CPD00608	linolenoylcarnitine (C18:3)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)	1310	422.3265	LC/MS Pos Late	
+CPD00609	linoleoyl ethanolamide	Lipid	Endocannabinoid	6150	322.2752	LC/MS Neg	
+CPD00610	linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]*	Lipid	Diacylglycerol	2590	658.5405	LC/MS Pos Late	
+CPD00611	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [1]*	Lipid	Diacylglycerol	2450	682.5405	LC/MS Pos Late	
+CPD00612	linoleoyl-docosahexaenoyl-glycerol (18:2/22:6) [2]*	Lipid	Diacylglycerol	2500	682.5405	LC/MS Pos Late	
+CPD00613	linoleoyl-linolenoyl-glycerol (18:2/18:3) [2]*	Lipid	Diacylglycerol	2478	632.5249	LC/MS Pos Late	
+CPD00614	linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*	Lipid	Diacylglycerol	2720	634.5405	LC/MS Pos Late	
+CPD00615	linoleoylcarnitine (C18:2)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Polyunsaturated)	1430	424.3421	LC/MS Pos Late	
+CPD00616	linoleoylcholine*	Lipid	Fatty Acid Metabolism (Acyl Choline)	1388	366.3367	LC/MS Pos Late	
+CPD00617	lithocholate sulfate (1)	Lipid	Secondary Bile Acid Metabolism	4811	227.12	LC/MS Neg	
+CPD00618	lithocholic acid sulfate (2)	Lipid	Secondary Bile Acid Metabolism	5028	227.12	LC/MS Neg	
+CPD00619	lysine	Amino Acid	Lysine Metabolism	2850	147.1128	LC/MS Pos Early	C00047
+CPD00620	malate	Energy	TCA Cycle	615.6	133.0143	LC/MS Neg	C00149
+CPD00621	maleate	Lipid	Fatty Acid, Dicarboxylate	2640	115.0037	LC/MS Polar	C01384
+CPD00622	malonate	Lipid	Fatty Acid Synthesis	3447	103.0037	LC/MS Polar	C00383
+CPD00623	maltose	Carbohydrate	Glycogen Metabolism	3329.4	387.1144	LC/MS Polar	C00208
+CPD00624	mannitol/sorbitol	Carbohydrate	Fructose, Mannose and Galactose Metabolism	2320	181.0718	LC/MS Polar	C00794
+CPD00625	mannonate*	Xenobiotics	Food Component/Plant	2736	195.051	LC/MS Polar	
+CPD00626	mannose	Carbohydrate	Fructose, Mannose and Galactose Metabolism	2200	225.0616	LC/MS Polar	C00159
+CPD00627	margarate (17:0)	Lipid	Long Chain Saturated Fatty Acid	5731	269.2486	LC/MS Neg	
+CPD00628	metabolonic lactone sulfate	Partially Characterized Molecules	Partially Characterized Molecules	4802	427.216	LC/MS Neg	
+CPD00629	methionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	1147	148.0438	LC/MS Neg	C00073
+CPD00630	methionine sulfone	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	1880	180.0336	LC/MS Polar	
+CPD00631	methionine sulfoxide	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	1272	166.0533	LC/MS Pos Early	C02989
+CPD00632	methyl glucopyranoside (alpha + beta)	Xenobiotics	Food Component/Plant	1070	193.0718	LC/MS Neg	
+CPD00633	methyl-4-hydroxybenzoate sulfate	Xenobiotics	Benzoate Metabolism	2873	230.9969	LC/MS Neg	
+CPD00634	methylmalonate (MMA)	Lipid	Fatty Acid Metabolism (also BCAA Metabolism)	3078.4	117.0193	LC/MS Polar	C02170
+CPD00635	methylnaphthyl sulfate (2)*	Xenobiotics	Chemical	4163	237.0227	LC/MS Neg	
+CPD00636	methylphosphate	Nucleotide	Purine and Pyrimidine Metabolism	544	112.9998	LC/MS Pos Early	
+CPD00637	methylsuccinate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2800	131.035	LC/MS Polar	
+CPD00638	methylsuccinoylcarnitine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2589	276.1442	LC/MS Pos Early	
+CPD00639	metoprolol acid metabolite*	Xenobiotics	Drug - Cardiovascular	2950	268.1543	LC/MS Pos Early	
+CPD00640	metronidazole	Xenobiotics	Drug - Antibiotic	829	216.0626	LC/MS Polar	D00409
+CPD00641	moxifloxacin	Xenobiotics	Drug - Antibiotic	3272	402.1824	LC/MS Pos Early	D08237
+CPD00642	myo-inositol	Lipid	Inositol Metabolism	3506.3	225.0616	LC/MS Polar	C00137
+CPD00643	myristate (14:0)	Lipid	Long Chain Saturated Fatty Acid	5440	227.2017	LC/MS Neg	C06424
+CPD00644	myristoleate (14:1n5)	Lipid	Long Chain Monounsaturated Fatty Acid	5346.9	225.186	LC/MS Neg	C08322
+CPD00645	myristoleoylcarnitine (C14:1)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	1316	370.2947	LC/MS Pos Late	
+CPD00646	myristoyl dihydrosphingomyelin (d18:0/14:0)*	Lipid	Dihydrosphingomyelins	2060	677.5592	LC/MS Pos Late	
+CPD00647	myristoylcarnitine (C14)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)	1350	372.3108	LC/MS Pos Late	
+CPD00648	N,N,N-trimethyl-5-aminovalerate	Amino Acid	Lysine Metabolism	2186	160.1332	LC/MS Pos Early	
+CPD00649	N,N,N-trimethyl-alanylproline betaine (TMAP)	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2470	229.1547	LC/MS Pos Early	
+CPD00650	N,N-dimethyl-5-aminovalerate	Amino Acid	Lysine Metabolism	2290	146.1176	LC/MS Pos Early	
+CPD00651	N,N-dimethylalanine	Amino Acid	Alanine and Aspartate Metabolism	1370	118.0863	LC/MS Pos Early	
+CPD00652	N-(2-furoyl)glycine	Xenobiotics	Food Component/Plant	1230	168.0302	LC/MS Polar	
+CPD00653	N-acetyl-1-methylhistidine*	Amino Acid	Histidine Metabolism	2100	212.1028	LC/MS Pos Early	
+CPD00654	N-acetyl-2-aminooctanoate*	Lipid	Fatty Acid, Amino	3943	200.1292	LC/MS Neg	
+CPD00655	N-acetyl-aspartyl-glutamate (NAAG)	Amino Acid	Glutamate Metabolism	1035	305.098	LC/MS Pos Early	C12270
+CPD00656	N-acetyl-beta-alanine	Nucleotide	Pyrimidine Metabolism, Uracil containing	773	130.051	LC/MS Neg	C01073
+CPD00657	N-acetyl-isoputreanine	Amino Acid	Polyamine Metabolism	2305	203.139	LC/MS Pos Early	
+CPD00658	N-acetylalanine	Amino Acid	Alanine and Aspartate Metabolism	1564.8	130.051	LC/MS Polar	C02847
+CPD00659	N-acetylalliin	Xenobiotics	Food Component/Plant	1348	220.0638	LC/MS Pos Early	
+CPD00660	N-acetylarginine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2245	217.1295	LC/MS Pos Early	C02562
+CPD00661	N-acetylasparagine	Amino Acid	Alanine and Aspartate Metabolism	785	175.0713	LC/MS Pos Early	
+CPD00662	N-acetylaspartate (NAA)	Amino Acid	Alanine and Aspartate Metabolism	880	176.0554	LC/MS Pos Early	C01042
+CPD00663	N-acetylcarnosine	Amino Acid	Histidine Metabolism	1235	267.1099	LC/MS Neg	
+CPD00664	N-acetylcitrulline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2067	216.099	LC/MS Polar	C15532
+CPD00665	N-acetylglucosamine/N-acetylgalactosamine	Carbohydrate	Aminosugar Metabolism	715	222.0972	LC/MS Pos Early	
+CPD00666	N-acetylglucosaminylasparagine	Carbohydrate	Aminosugar Metabolism	1212	336.1402	LC/MS Pos Early	C04540
+CPD00667	N-acetylglutamate	Amino Acid	Glutamate Metabolism	3106	188.0564	LC/MS Polar	C00624
+CPD00668	N-acetylglutamine	Amino Acid	Glutamate Metabolism	2140	187.0724	LC/MS Polar	C02716
+CPD00669	N-acetylglycine	Amino Acid	Glycine, Serine and Threonine Metabolism	1780	116.0353	LC/MS Polar	
+CPD00670	N-acetylhistidine	Amino Acid	Histidine Metabolism	900	196.0728	LC/MS Neg	C02997
+CPD00671	N-acetylkynurenine (2)	Amino Acid	Tryptophan Metabolism	2378	249.0881	LC/MS Neg	
+CPD00672	N-acetylleucine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2400	172.0979	LC/MS Neg	C02710
+CPD00673	N-acetylmethionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	1787	190.0543	LC/MS Neg	C02712
+CPD00674	N-acetylmethionine sulfoxide	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	880	208.0638	LC/MS Pos Early	
+CPD00675	N-acetylneuraminate	Carbohydrate	Aminosugar Metabolism	660	310.1133	LC/MS Pos Early	C00270
+CPD00676	N-acetylphenylalanine	Amino Acid	Phenylalanine Metabolism	2597	206.0823	LC/MS Neg	C03519
+CPD00677	N-acetylproline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	1695	158.0812	LC/MS Pos Early	
+CPD00678	N-acetylputrescine	Amino Acid	Polyamine Metabolism	2230	131.1179	LC/MS Pos Early	C02714
+CPD00679	N-acetylserine	Amino Acid	Glycine, Serine and Threonine Metabolism	2000	146.0459	LC/MS Polar	
+CPD00680	N-acetyltaurine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	800	166.018	LC/MS Neg	
+CPD00681	N-acetyltheanine	Xenobiotics	Food Component/Plant	1496	215.1037	LC/MS Neg	
+CPD00682	N-acetylthreonine	Amino Acid	Glycine, Serine and Threonine Metabolism	821.6	160.0615	LC/MS Neg	
+CPD00683	N-acetyltryptophan	Amino Acid	Tryptophan Metabolism	2630	245.0932	LC/MS Neg	C03137
+CPD00684	N-acetyltyrosine	Amino Acid	Tyrosine Metabolism	1680	222.0772	LC/MS Neg	
+CPD00685	N-acetylvaline	Amino Acid	Leucine, Isoleucine and Valine Metabolism	1704	158.0823	LC/MS Neg	
+CPD00686	N-alpha-acetylornithine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2000	175.1077	LC/MS Pos Early	C00437
+CPD00687	N-behenoyl-sphingadienine (d18:2/22:0)*	Lipid	Ceramides	3911	620.5976	LC/MS Pos Late	
+CPD00688	N-carbamoylalanine	Amino Acid	Alanine and Aspartate Metabolism	950	133.0608	LC/MS Pos Early	
+CPD00689	N-carbamoylaspartate	Nucleotide	Pyrimidine Metabolism, Orotate containing	795	177.0506	LC/MS Pos Early	C00438
+CPD00690	N-delta-acetylornithine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	858	173.0932	LC/MS Neg	
+CPD00691	N-formylanthranilic acid	Amino Acid	Tryptophan Metabolism	900	164.0353	LC/MS Polar	C05653
+CPD00692	N-formylmethionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	1543.8	176.0387	LC/MS Neg	C03145
+CPD00693	N-formylphenylalanine	Amino Acid	Tyrosine Metabolism	2360	192.0666	LC/MS Neg	
+CPD00694	N-linoleoyltaurine*	Lipid	Endocannabinoid	5505	386.2371	LC/MS Neg	
+CPD00695	N-methylhydroxyproline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	1145	146.0812	LC/MS Pos Early	
+CPD00696	N-methylpipecolate	Xenobiotics	Bacterial/Fungal	1932	144.1019	LC/MS Pos Early	
+CPD00697	N-methylproline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	1335	130.0863	LC/MS Pos Early	
+CPD00698	N-oleoylserine	Lipid	Endocannabinoid	5600	368.2806	LC/MS Neg	
+CPD00699	N-oleoyltaurine	Lipid	Endocannabinoid	5610	388.2527	LC/MS Neg	
+CPD00700	N-palmitoyl-sphingadienine (d18:2/16:0)*	Lipid	Ceramides	2490	536.5037	LC/MS Pos Late	
+CPD00701	N-palmitoyl-sphinganine (d18:0/16:0)	Lipid	Dihydroceramides	3090	540.535	LC/MS Pos Late	
+CPD00702	N-palmitoyl-sphingosine (d18:1/16:0)	Lipid	Ceramides	2893	538.5194	LC/MS Pos Late	
+CPD00703	N-palmitoylglycine	Lipid	Fatty Acid Metabolism (Acyl Glycine)	5580	312.2544	LC/MS Neg	
+CPD00704	N-stearoyl-sphingadienine (d18:2/18:0)*	Lipid	Ceramides	2846	564.535	LC/MS Pos Late	
+CPD00705	N-stearoyl-sphingosine (d18:1/18:0)*	Lipid	Ceramides	3392	566.5507	LC/MS Pos Late	
+CPD00706	N-stearoyltaurine	Lipid	Endocannabinoid	5782	390.2684	LC/MS Neg	
+CPD00707	N1-Methyl-2-pyridone-5-carboxamide	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	1668	151.0513	LC/MS Neg	C05842
+CPD00708	1-methyladenosine	Nucleotide	Purine Metabolism, Adenine containing	2120	282.1197	LC/MS Pos Early	C02494
+CPD00709	N1-methylinosine	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	1430	283.1037	LC/MS Pos Early	
+CPD00710	N2,N2-dimethylguanosine	Nucleotide	Purine Metabolism, Guanine containing	2210	312.1303	LC/MS Pos Early	
+CPD00711	N2,N5-diacetylornithine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	1367	215.1037	LC/MS Neg	
+CPD00712	N2-acetyl,N6,N6-dimethyllysine	Amino Acid	Lysine Metabolism	2172	217.1547	LC/MS Pos Early	
+CPD00713	N2-acetyl,N6-methyllysine	Amino Acid	Lysine Metabolism	2168	203.139	LC/MS Pos Early	
+CPD00714	N2-acetyllysine	Amino Acid	Lysine Metabolism	3372.6	187.1088	LC/MS Polar	C12989
+CPD00715	N6,N6,N6-trimethyllysine	Amino Acid	Lysine Metabolism	2825	189.1598	LC/MS Pos Early	C03793
+CPD00716	N6,N6-dimethyllysine	Amino Acid	Lysine Metabolism	2831	175.1441	LC/MS Pos Early	C05545
+CPD00717	N6-acetyllysine	Amino Acid	Lysine Metabolism	1059	187.1088	LC/MS Neg	C02727
+CPD00718	N6-carbamoylthreonyladenosine	Nucleotide	Purine Metabolism, Adenine containing	2164	411.127	LC/MS Neg	
+CPD00719	N6-methyladenosine	Nucleotide	Purine Metabolism, Adenine containing	2264	282.1197	LC/MS Pos Early	
+CPD00720	N6-methyllysine	Amino Acid	Lysine Metabolism	2831	161.1285	LC/MS Pos Early	C02728
+CPD00721	N6-succinyladenosine	Nucleotide	Purine Metabolism, Adenine containing	940	382.1004	LC/MS Neg	
+CPD00722	naproxen	Xenobiotics	Drug - Analgesics, Anesthetics	4155	229.087	LC/MS Neg	C01517
+CPD00723	naringenin 7-glucuronide	Xenobiotics	Food Component/Plant	3144	447.0933	LC/MS Neg	
+CPD00724	nervonoylcarnitine (C24:1)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	1602	510.4517	LC/MS Pos Late	
+CPD00725	nicotinamide	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	1942	123.0553	LC/MS Pos Early	C00153
+CPD00726	nicotinamide riboside	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	2040	255.0976	LC/MS Pos Early	C03150
+CPD00727	nonadecanoate (19:0)	Lipid	Long Chain Saturated Fatty Acid	6068	297.2799	LC/MS Neg	C16535
+CPD00728	nonanoylcarnitine (C9)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)	1003	302.2326	LC/MS Pos Late	
+CPD00729	o-cresol sulfate	Xenobiotics	Benzoate Metabolism	2796	187.0071	LC/MS Neg	
+CPD00730	O-desmethylvenlafaxine	Xenobiotics	Drug - Psychoactive	660	264.1958	LC/MS Pos Late	D07793
+CPD00731	O-sulfo-L-tyrosine	Xenobiotics	Chemical	990	260.0234	LC/MS Neg	
+CPD00732	octadecadienedioate (C18:2-DC)*	Lipid	Fatty Acid, Dicarboxylate	4676	309.2071	LC/MS Neg	
+CPD00733	octadecanedioate (C18)	Lipid	Fatty Acid, Dicarboxylate	5043	313.2384	LC/MS Neg	
+CPD00734	octadecanedioylcarnitine (C18-DC)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)	1227	458.3476	LC/MS Pos Late	
+CPD00735	octadecenedioate (C18:1-DC)*	Lipid	Fatty Acid, Dicarboxylate	4875	311.2228	LC/MS Neg	
+CPD00736	octadecenedioylcarnitine (C18:1-DC)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Dicarboxylate)	1180	456.332	LC/MS Pos Late	
+CPD00737	octanoylcarnitine (C8)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)	950	288.2169	LC/MS Pos Late	C02838
+CPD00738	ofloxacin	Xenobiotics	Drug - Antibiotic	3600	360.1365	LC/MS Neg	C07321
+CPD00739	oleamide	Lipid	Fatty Acid, Amide	1677	282.2791	LC/MS Pos Late	C19670
+CPD00740	oleate/vaccenate (18:1)	Lipid	Long Chain Monounsaturated Fatty Acid	5655	281.2486	LC/MS Neg	
+CPD00741	oleoyl ethanolamide	Lipid	Endocannabinoid	6450	324.2908	LC/MS Neg	
+CPD00742	oleoyl-linoleoyl-glycerol (18:1/18:2) [1]	Lipid	Diacylglycerol	3115	636.5562	LC/MS Pos Late	
+CPD00743	oleoyl-linoleoyl-glycerol (18:1/18:2) [2]	Lipid	Diacylglycerol	3223	636.5562	LC/MS Pos Late	
+CPD00744	oleoylcarnitine (C18)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	1423	426.3578	LC/MS Pos Late	
+CPD00745	oleoylcholine	Lipid	Fatty Acid Metabolism (Acyl Choline)	1449	368.3523	LC/MS Pos Late	
+CPD00746	olmesartan	Xenobiotics	Drug - Cardiovascular	3747	445.1994	LC/MS Neg	D05246
+CPD00747	omeprazole	Xenobiotics	Drug - Gastrointestinal	4673	344.1074	LC/MS Neg	C07324
+CPD00748	ornithine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2800	133.0972	LC/MS Pos Early	C00077
+CPD00749	orotate	Nucleotide	Pyrimidine Metabolism, Orotate containing	1638.1	155.0098	LC/MS Polar	C00295
+CPD00750	orotidine	Nucleotide	Pyrimidine Metabolism, Orotate containing	2250	287.0521	LC/MS Polar	
+CPD00751	oxalate (ethanedioate)	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	603	88.988	LC/MS Neg	C00209
+CPD00752	p-cresol glucuronide*	Amino Acid	Tyrosine Metabolism	2420	283.0823	LC/MS Neg	
+CPD00753	p-cresol sulfate	Xenobiotics	Benzoate Metabolism	2890	187.0071	LC/MS Neg	
+CPD00754	palmitamide (16:0)	Lipid	Fatty Acid, Amide	1661	256.2635	LC/MS Pos Late	
+CPD00755	palmitate (16:0)	Lipid	Long Chain Saturated Fatty Acid	5618	255.233	LC/MS Neg	C00249
+CPD00756	palmitoleamide (16:1)*	Lipid	Fatty Acid, Amide	1554	254.2478	LC/MS Pos Late	
+CPD00757	palmitoleate (16:1n7)	Lipid	Long Chain Monounsaturated Fatty Acid	5475	253.2173	LC/MS Neg	C08362
+CPD00758	palmitoleoylcarnitine (C16:1)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	1357	398.3265	LC/MS Pos Late	
+CPD00759	palmitoyl dihydrosphingomyelin (d18:0/16:0)*	Lipid	Dihydrosphingomyelins	2290	705.5905	LC/MS Pos Late	
+CPD00760	palmitoyl ethanolamide	Lipid	Endocannabinoid	1643	300.2897	LC/MS Pos Late	C16512
+CPD00761	palmitoyl sphingomyelin (d18:1/16:0)	Lipid	Sphingomyelins	2168	703.5749	LC/MS Pos Late	
+CPD00762	palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0)	Lipid	Ceramide PEs	2207	661.5279	LC/MS Pos Late	
+CPD00763	palmitoylcarnitine (C16)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)	1425	400.3421	LC/MS Pos Late	C02990
+CPD00764	palmitoylcholine	Lipid	Fatty Acid Metabolism (Acyl Choline)	1482	342.3367	LC/MS Pos Late	
+CPD00765	pantoate	Cofactors and Vitamins	Pantothenate and CoA Metabolism	1143	147.0663	LC/MS Neg	C00522
+CPD00766	pantoprazole	Xenobiotics	Drug - Gastrointestinal	4398	382.0679	LC/MS Neg	C11806
+CPD00767	pantothenate (Vitamin B5)	Cofactors and Vitamins	Pantothenate and CoA Metabolism	1498.7	218.1034	LC/MS Neg	C00864
+CPD00768	paraxanthine	Xenobiotics	Xanthine Metabolism	2279	179.0575	LC/MS Neg	C13747
+CPD00769	pentadecanoate (15:0)	Lipid	Long Chain Saturated Fatty Acid	5521	241.2173	LC/MS Neg	C16537
+CPD00770	pentose acid*	Partially Characterized Molecules	Partially Characterized Molecules	2180	165.0405	LC/MS Polar	
+CPD00771	perfluorooctanesulfonate (PFOS)	Xenobiotics	Chemical	662	498.9302	LC/MS Polar	C18142
+CPD00772	perfluorooctanoate (PFOA)	Xenobiotics	Chemical	5130	412.9664	LC/MS Neg	
+CPD00773	phenol sulfate	Amino Acid	Tyrosine Metabolism	2156	172.9914	LC/MS Neg	C02180
+CPD00774	phenylacetate	Amino Acid	Phenylalanine Metabolism	2150	91.0554	LC/MS Neg	C07086
+CPD00775	phenylacetylglutamate	Peptide	Acetylated Peptides	1570	264.0877	LC/MS Neg	
+CPD00776	phenylacetylglutamine	Peptide	Acetylated Peptides	2330	263.1037	LC/MS Neg	C04148
+CPD00777	phenylalanine	Amino Acid	Phenylalanine Metabolism	2878	166.0863	LC/MS Pos Early	C00079
+CPD00778	phenylalanylglycine	Peptide	Dipeptide	2462	221.0932	LC/MS Neg	
+CPD00779	phenyllactate (PLA)	Amino Acid	Phenylalanine Metabolism	2208	165.0557	LC/MS Neg	C05607
+CPD00780	phenylpyruvate	Amino Acid	Phenylalanine Metabolism	845	163.0401	LC/MS Polar	C00166
+CPD00781	phosphate	Energy	Oxidative Phosphorylation	608	96.9696	LC/MS Neg	C00009
+CPD00782	phosphoethanolamine (PE)	Lipid	Phospholipid Metabolism	700	142.0264	LC/MS Pos Early	C00346
+CPD00783	phytanate	Xenobiotics	Food Component/Plant	5908	311.2956	LC/MS Neg	C01607
+CPD00784	picolinate	Amino Acid	Tryptophan Metabolism	910	124.0393	LC/MS Pos Early	C10164
+CPD00785	picolinoylglycine	Lipid	Fatty Acid Metabolism (Acyl Glycine)	1867	179.0462	LC/MS Neg	
+CPD00786	pioglitazone	Xenobiotics	Drug - Metabolic	3240	357.1267	LC/MS Pos Early	C07675
+CPD00787	pipecolate	Amino Acid	Lysine Metabolism	2200	130.0863	LC/MS Pos Early	C00408
+CPD00788	piperine	Xenobiotics	Food Component/Plant	1168	286.1438	LC/MS Pos Late	C03882
+CPD00789	pregnanediol-3-glucuronide	Lipid	Progestin Steroids	5145	495.2963	LC/MS Neg	
+CPD00790	pregnen-diol disulfate*	Lipid	Pregnenolone Steroids	3868	238.0775	LC/MS Neg	
+CPD00791	pregnenediol sulfate (C21H34O5S)*	Lipid	Pregnenolone Steroids	5000	397.2054	LC/MS Neg	
+CPD00792	pregnenetriol disulfate*	Lipid	Pregnenolone Steroids	3504	246.0749	LC/MS Neg	
+CPD00793	pregnenetriol sulfate*	Lipid	Pregnenolone Steroids	4749	413.2003	LC/MS Neg	
+CPD00794	pregnenolone sulfate	Lipid	Pregnenolone Steroids	5100	395.1898	LC/MS Neg	
+CPD00795	prolylhydroxyproline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2128	229.1183	LC/MS Pos Early	
+CPD00796	proline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	1603	116.0706	LC/MS Pos Early	C00148
+CPD00797	prolylglycine	Peptide	Dipeptide	2136	173.0921	LC/MS Pos Early	
+CPD00798	propionylcarnitine (C3)	Lipid	Fatty Acid Metabolism (also BCAA Metabolism)	2590	218.1387	LC/MS Pos Early	C03017
+CPD00799	propionylglycine (C3)	Lipid	Fatty Acid Metabolism (also BCAA Metabolism)	960	130.051	LC/MS Neg	
+CPD00800	propyl 4-hydroxybenzoate	Xenobiotics	Benzoate Metabolism	4794	179.0714	LC/MS Neg	D01422
+CPD00801	propyl 4-hydroxybenzoate sulfate	Xenobiotics	Benzoate Metabolism	3971	259.0282	LC/MS Neg	
+CPD00802	pseudouridine	Nucleotide	Pyrimidine Metabolism, Uracil containing	1100	243.0623	LC/MS Neg	C02067
+CPD00803	pyridoxate	Cofactors and Vitamins	Vitamin B6 Metabolism	2185	182.0459	LC/MS Neg	C00847
+CPD00804	pyridoxine (Vitamin B6)	Cofactors and Vitamins	Vitamin B6 Metabolism	1657	168.0666	LC/MS Neg	C00314
+CPD00805	pyroglutamine*	Amino Acid	Glutamate Metabolism	3250	127.0514	LC/MS Polar	
+CPD00806	pyrraline	Xenobiotics	Food Component/Plant	2750	255.1339	LC/MS Pos Early	
+CPD00807	pyruvate	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	1083	87.0088	LC/MS Polar	C00022
+CPD00808	quinate	Xenobiotics	Food Component/Plant	2432.9	191.0561	LC/MS Polar	C00296
+CPD00809	quinolinate	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	3000	166.0146	LC/MS Polar	C03722
+CPD00810	resveratrol disulfate (1)*	Xenobiotics	Food Component/Plant	2530	192.9889	LC/MS Neg	
+CPD00811	retinol (Vitamin A)	Cofactors and Vitamins	Vitamin A Metabolism	1636	269.2264	LC/MS Pos Late	C00473
+CPD00812	ribitol	Carbohydrate	Pentose Metabolism	1789.6	151.0612	LC/MS Polar	C00474
+CPD00813	ribonate	Carbohydrate	Pentose Metabolism	2425	165.0405	LC/MS Polar	C01685
+CPD00814	ribose	Carbohydrate	Pentose Metabolism	1508.2	195.051	LC/MS Polar	C00121
+CPD00815	ribulonate/xylulonate/lyxonate*	Carbohydrate	Pentose Metabolism	2350	165.0405	LC/MS Polar	
+CPD00816	S-1-pyrroline-5-carboxylate	Amino Acid	Glutamate Metabolism	1528	114.055	LC/MS Pos Early	C04322
+CPD00817	S-adenosylhomocysteine (SAH)	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	1832.4	383.1143	LC/MS Neg	C00021
+CPD00818	S-allylcysteine	Xenobiotics	Food Component/Plant	2690	162.0583	LC/MS Pos Early	
+CPD00819	S-carboxymethyl-L-cysteine	Xenobiotics	Drug - Other	1490	180.0325	LC/MS Pos Early	C03727
+CPD00820	S-methylcysteine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	880	134.0281	LC/MS Neg	
+CPD00821	S-methylcysteine sulfoxide	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	900	152.0376	LC/MS Pos Early	
+CPD00822	S-methylmethionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	2555	164.074	LC/MS Pos Early	C05319
+CPD00823	saccharin	Xenobiotics	Food Component/Plant	2000	181.9917	LC/MS Neg	D01085
+CPD00824	salicylate	Xenobiotics	Drug - Topical Agents	802	137.0242	LC/MS Polar	C00805
+CPD00825	salicyluric glucuronide*	Xenobiotics	Drug - Analgesics, Anesthetics	1463	370.078	LC/MS Neg	
+CPD00826	sarcosine	Amino Acid	Glycine, Serine and Threonine Metabolism	1280	90.055	LC/MS Pos Early	C00213
+CPD00827	sebacate (C10-DC)	Lipid	Fatty Acid, Dicarboxylate	1788	201.1132	LC/MS Neg	C08277
+CPD00828	sedoheptulose	Carbohydrate	Pentose Metabolism	2255	209.0667	LC/MS Polar	
+CPD00829	serine	Amino Acid	Glycine, Serine and Threonine Metabolism	2988	104.0353	LC/MS Polar	C00065
+CPD00830	serotonin	Amino Acid	Tryptophan Metabolism	2550	177.1022	LC/MS Pos Early	C00780
+CPD00831	spermidine	Amino Acid	Polyamine Metabolism	700	146.1652	LC/MS Pos Late	C00315
+CPD00832	sphingadienine	Lipid	Sphingolipid Synthesis	1350	298.2741	LC/MS Pos Late	
+CPD00833	sphinganine-1-phosphate	Lipid	Sphingolipid Synthesis	1911	380.2571	LC/MS Polar	
+CPD00834	sphingomyelin (d17:1/14:0, d16:1/15:0)*	Lipid	Sphingomyelins	1950	661.5279	LC/MS Pos Late	
+CPD00835	sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*	Lipid	Sphingomyelins	2082	689.5592	LC/MS Pos Late	
+CPD00836	sphingomyelin (d17:2/16:0, d18:2/15:0)*	Lipid	Sphingomyelins	1837	687.5436	LC/MS Pos Late	
+CPD00837	sphingomyelin (d18:0/18:0, d19:0/17:0)*	Lipid	Dihydrosphingomyelins	2362	733.6218	LC/MS Pos Late	
+CPD00838	sphingomyelin (d18:0/20:0, d16:0/22:0)*	Lipid	Dihydrosphingomyelins	2600	761.6531	LC/MS Pos Late	
+CPD00839	sphingomyelin (d18:1/14:0, d16:1/16:0)*	Lipid	Sphingomyelins	1998	675.5436	LC/MS Pos Late	
+CPD00840	sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)	Lipid	Sphingomyelins	2312	717.5905	LC/MS Pos Late	
+CPD00841	sphingomyelin (d18:1/18:1, d18:2/18:0)	Lipid	Sphingomyelins	2167	729.5905	LC/MS Pos Late	
+CPD00842	sphingomyelin (d18:1/19:0, d19:1/18:0)*	Lipid	Sphingomyelins	2330	745.6218	LC/MS Pos Late	
+CPD00843	sphingomyelin (d18:1/20:0, d16:1/22:0)*	Lipid	Sphingomyelins	2685	759.6375	LC/MS Pos Late	
+CPD00844	sphingomyelin (d18:1/20:1, d18:2/20:0)*	Lipid	Sphingomyelins	2383	757.6218	LC/MS Pos Late	
+CPD00845	sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)*	Lipid	Sphingomyelins	2039	755.6062	LC/MS Pos Late	
+CPD00846	sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*	Lipid	Sphingomyelins	2793	773.6531	LC/MS Pos Late	
+CPD00847	sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*	Lipid	Sphingomyelins	2666	785.6531	LC/MS Pos Late	
+CPD00848	sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*	Lipid	Sphingomyelins	2209	783.6375	LC/MS Pos Late	
+CPD00849	sphingomyelin (d18:1/24:1, d18:2/24:0)*	Lipid	Sphingomyelins	3033	813.6844	LC/MS Pos Late	
+CPD00850	sphingomyelin (d18:2/14:0, d18:1/14:1)*	Lipid	Sphingomyelins	1860	673.5279	LC/MS Pos Late	
+CPD00851	sphingomyelin (d18:2/16:0, d18:1/16:1)*	Lipid	Sphingomyelins	2002	701.5592	LC/MS Pos Late	
+CPD00852	sphingomyelin (d18:2/18:1)*	Lipid	Sphingomyelins	1904	727.5749	LC/MS Pos Late	
+CPD00853	sphingomyelin (d18:2/21:0, d16:2/23:0)*	Lipid	Sphingomyelins	2330	771.6375	LC/MS Pos Late	
+CPD00854	sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*	Lipid	Sphingomyelins	2845	799.6687	LC/MS Pos Late	
+CPD00855	sphingomyelin (d18:2/23:1)*	Lipid	Sphingomyelins	2315	797.6531	LC/MS Pos Late	
+CPD00856	sphingomyelin (d18:2/24:1, d18:1/24:2)*	Lipid	Sphingomyelins	2635	811.6687	LC/MS Pos Late	
+CPD00857	sphingomyelin (d18:2/24:2)*	Lipid	Sphingomyelins	2215	809.6531	LC/MS Pos Late	
+CPD00858	sphingosine	Lipid	Sphingosines	1393	300.2897	LC/MS Pos Late	C00319
+CPD00859	sphingosine 1-phosphate	Lipid	Sphingosines	1850	378.2415	LC/MS Polar	C06124
+CPD00860	stachydrine	Xenobiotics	Food Component/Plant	1440	144.1019	LC/MS Pos Early	C10172
+CPD00861	stearate (18:0)	Lipid	Long Chain Saturated Fatty Acid	5872	283.2643	LC/MS Neg	C01530
+CPD00862	stearidonate (18:4n3)	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5395	275.2017	LC/MS Neg	C16300
+CPD00863	stearoyl ethanolamide	Lipid	Endocannabinoid	1787	328.321	LC/MS Pos Late	
+CPD00864	stearoyl sphingomyelin (d18:1/18:0)	Lipid	Sphingomyelins	2400	731.6062	LC/MS Pos Late	C00550
+CPD00865	stearoylcarnitine (C18)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Long Chain Saturated)	1485	428.3734	LC/MS Pos Late	
+CPD00866	stearoylcholine*	Lipid	Fatty Acid Metabolism (Acyl Choline)	1520	370.368	LC/MS Pos Late	
+CPD00867	suberate (C8-DC)	Lipid	Fatty Acid, Dicarboxylate	2577.6	173.0819	LC/MS Polar	C08278
+CPD00868	succinate	Energy	TCA Cycle	3149	117.0193	LC/MS Polar	C00042
+CPD00869	succinimide	Xenobiotics	Chemical	2155	116.0353	LC/MS Polar	C07273
+CPD00870	succinylcarnitine (C4)	Energy	TCA Cycle	2291	262.1285	LC/MS Pos Early	
+CPD00871	sucrose	Carbohydrate	Disaccharides and Oligosaccharides	3092	387.1144	LC/MS Polar	C00089
+CPD00872	sulfate of piperine metabolite C16H19NO3 (2)*	Xenobiotics	Food Component/Plant	4112	352.086	LC/MS Neg	
+CPD00873	sulfate of piperine metabolite C16H19NO3 (3)*	Xenobiotics	Food Component/Plant	4200	352.086	LC/MS Neg	
+CPD00874	sulfate*	Xenobiotics	Chemical	616	96.9601	LC/MS Neg	C00059
+CPD00875	tartarate	Xenobiotics	Food Component/Plant	615.3	149.0092	LC/MS Neg	C00898
+CPD00876	tartronate (hydroxymalonate)	Xenobiotics	Food Component/Plant	610	118.9986	LC/MS Neg	C02287
+CPD00877	taurine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	660	126.022	LC/MS Pos Early	C00245
+CPD00878	tauro-beta-muricholate	Lipid	Primary Bile Acid Metabolism	4774	514.2844	LC/MS Neg	
+CPD00879	taurochenodeoxycholate	Lipid	Primary Bile Acid Metabolism	5250	498.2895	LC/MS Neg	C05465
+CPD00880	taurochenodeoxycholic acid 3-sulfate	Lipid	Secondary Bile Acid Metabolism	4809	288.6195	LC/MS Neg	
+CPD00881	taurocholate	Lipid	Primary Bile Acid Metabolism	5150	514.2844	LC/MS Neg	C05122
+CPD00882	taurocholenate sulfate*	Lipid	Secondary Bile Acid Metabolism	4750	279.6142	LC/MS Neg	
+CPD00883	taurodeoxycholate	Lipid	Secondary Bile Acid Metabolism	5257.4	498.2895	LC/MS Neg	C05463
+CPD00884	taurodeoxycholic acid 3-sulfate	Lipid	Secondary Bile Acid Metabolism	4850	288.6195	LC/MS Neg	
+CPD00885	taurolithocholate 3-sulfate	Lipid	Secondary Bile Acid Metabolism	5027	280.6221	LC/MS Neg	C03642
+CPD00886	tauroursodeoxycholate	Lipid	Secondary Bile Acid Metabolism	5025	498.2895	LC/MS Neg	
+CPD00887	tauroursodeoxycholic acid sulfate (1)	Lipid	Secondary Bile Acid Metabolism	4325	288.6195	LC/MS Neg	
+CPD00888	tetradecadienedioate (C14:2-DC)*	Lipid	Fatty Acid, Dicarboxylate	3148	253.1445	LC/MS Neg	
+CPD00889	tetradecadienoate (14:2)*	Lipid	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	5292	223.1704	LC/MS Neg	
+CPD00890	tetradecanedioate (C14)	Lipid	Fatty Acid, Dicarboxylate	3985	257.1758	LC/MS Neg	
+CPD00891	tetrahydrocortisol sulfate (1)	Lipid	Corticosteroids	4276	445.1902	LC/MS Neg	
+CPD00892	theanine	Xenobiotics	Food Component/Plant	2180	175.1077	LC/MS Pos Early	C01047
+CPD00893	theobromine	Xenobiotics	Xanthine Metabolism	1600	181.072	LC/MS Pos Early	C07480
+CPD00894	theophylline	Xenobiotics	Xanthine Metabolism	2356.9	179.0575	LC/MS Neg	C07130
+CPD00895	thioproline	Xenobiotics	Chemical	1250	134.027	LC/MS Pos Early	
+CPD00896	threonate	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	2384	135.0299	LC/MS Polar	C01620
+CPD00897	threonine	Amino Acid	Glycine, Serine and Threonine Metabolism	692.7	118.051	LC/MS Neg	C00188
+CPD00898	threonylphenylalanine	Peptide	Dipeptide	2322	265.1194	LC/MS Neg	
+CPD00899	thymol sulfate	Xenobiotics	Food Component/Plant	4410	229.054	LC/MS Neg	C09908
+CPD00900	thyroxine	Amino Acid	Tyrosine Metabolism	4808	775.6794	LC/MS Neg	C01829
+CPD00901	tiglyl carnitine (C5)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2962	244.1543	LC/MS Pos Early	
+CPD00902	hydroxyproline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	2845.5	130.051	LC/MS Polar	C01157
+CPD00903	trans-urocanate	Amino Acid	Histidine Metabolism	2285	139.0502	LC/MS Pos Early	C00785
+CPD00904	tricosanoyl sphingomyelin (d18:1/23:0)*	Lipid	Sphingomyelins	3200	801.6844	LC/MS Pos Late	
+CPD00905	tridecenedioate (C13:1-DC)*	Lipid	Fatty Acid, Dicarboxylate	3051	241.1445	LC/MS Neg	
+CPD00906	trigonelline (N'-methylnicotinate)	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	1388	138.055	LC/MS Pos Early	C01004
+CPD00907	trimethylamine N-oxide	Lipid	Phospholipid Metabolism	2100	76.0757	LC/MS Pos Early	C01104
+CPD00908	tryptophan	Amino Acid	Tryptophan Metabolism	2986	205.0972	LC/MS Pos Early	C00078
+CPD00909	tryptophan betaine	Amino Acid	Tryptophan Metabolism	2673	247.1441	LC/MS Pos Early	C09213
+CPD00910	tyramine O-sulfate	Amino Acid	Tyrosine Metabolism	1565	216.0336	LC/MS Neg	
+CPD00911	tyrosine	Amino Acid	Tyrosine Metabolism	2430	182.0812	LC/MS Pos Early	C00082
+CPD00912	umbelliferone sulfate	Xenobiotics	Food Component/Plant	2440	240.9812	LC/MS Neg	
+CPD00913	undecanedioate (C11-DC)	Lipid	Fatty Acid, Dicarboxylate	2440	215.1289	LC/MS Neg	
+CPD00914	undecenoylcarnitine (C11:1)	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	1069	328.2482	LC/MS Pos Late	
+CPD00915	uracil	Nucleotide	Pyrimidine Metabolism, Uracil containing	1089.7	111.02	LC/MS Polar	C00106
+CPD00916	urate	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	757.1	167.0211	LC/MS Neg	C00366
+CPD00917	urea	Amino Acid	Urea cycle; Arginine and Proline Metabolism	700	121.072	LC/MS Pos Early	C00086
+CPD00918	uridine	Nucleotide	Pyrimidine Metabolism, Uracil containing	1457.6	243.0623	LC/MS Neg	C00299
+CPD00919	ursodeoxycholate	Lipid	Secondary Bile Acid Metabolism	5055	391.2854	LC/MS Neg	C07880
+CPD00920	valine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	2135	116.0717	LC/MS Polar	C00183
+CPD00921	valsartan	Xenobiotics	Drug - Cardiovascular	4228	434.2198	LC/MS Neg	
+CPD00922	valylglycine	Peptide	Dipeptide	2444	175.1077	LC/MS Pos Early	
+CPD00923	vanillactate	Amino Acid	Tyrosine Metabolism	1625	211.0612	LC/MS Neg	
+CPD00924	vanillic alcohol sulfate	Amino Acid	Tyrosine Metabolism	1808	233.0125	LC/MS Neg	
+CPD00925	vanillylmandelate (VMA)	Amino Acid	Tyrosine Metabolism	941	197.0456	LC/MS Neg	C05584
+CPD00926	warfarin	Xenobiotics	Drug - Cardiovascular	3790	307.0976	LC/MS Neg	C01541
+CPD00927	xanthine	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	2023	151.0262	LC/MS Polar	C00385
+CPD00928	xanthosine	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	1075	283.0684	LC/MS Neg	C01762
+CPD00929	xanthurenate	Amino Acid	Tryptophan Metabolism	1476	204.0302	LC/MS Neg	C02470
+CPD00930	ximenoylcarnitine (C26:1)*	Lipid	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	1607	538.483	LC/MS Pos Late	
+CPD00931	xylose	Carbohydrate	Pentose Metabolism	1727	195.051	LC/MS Polar	C00181
