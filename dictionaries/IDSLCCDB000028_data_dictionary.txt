@@ -1,0 +1,558 @@
+compound_id	BIOCHEMICAL	KEGG
+CPD00279	(5-Glutamyl)-glutamate	C05282
+CPD00185	1-(5-(((((((5-(6-amino-9H-purin-9-yl)-4-(phosphonooxy)-3-(sulfooxy)tetrahydrofuran-2-yl)methoxy)(hydroxy)phosphoryl)oxy)(hydroxy)phosphoryl)oxy)methyl)-4-hydroxy-3-(sulfooxy)tetrahydrofuran-2-yl)-3-carboxypyridin-1-ium	NA
+CPD00244	1,1-Dimethyl-4-phenylpiperazinium	NA
+CPD00108	1,3,7-Trimethyluric acid	C16361
+CPD00109	1,3,7-Trimethyluric acid_2	C16361
+CPD00112	1,3-Dimethyluric acid	NA
+CPD00300	10,13-dimethyl-3-((3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxonio)-2,3,4,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl)-2-hydroxy-1l3-ethan-1-olate	NA
+CPD00549	10,16-Dihydroxyhexadecanoic acid	C08285
+CPD00094	10-Hydroxydecanoic acid	C02774
+CPD00069	11.14-Eicosadienoic acid	C16525
+CPD00547	11beta,17alpha,21-Trihydroxypregnenolone	C05489
+CPD00552	12alpha-Hydroxy-3-oxochola-4,6-dienoate	C15569
+CPD00550	15,16-Dihydrobiliverdin	C11630
+CPD00319	16-Hydroxypalmitic acid	C18218
+CPD00186	17-(1,5-dihydroxypentan-2-yl)-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthrene-3,7,12-triol	NA
+CPD00298	17-hydroxy-10,13-dimethyl-3-((3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl)oxonio)hexadecahydro-cyclopenta[a]phenanthren-6-ide	NA
+CPD00235	1-Acetylimidazole	C02560
+CPD00234	1-Acetylimidazole_2	C02560
+CPD00212	1-Methylhistidine	C01152
+CPD00147	1-Pyrroline-3-hydroxy-5-carboxylate	C04281
+CPD00276	1-Pyrroline-5-carboxylate	C03912
+CPD00152	2-(alpha-Hydroxyethyl)thiamine diphosphate	C05125
+CPD00175	2,3,4,5-tetrahydroxypentyl hydrogen sulfate	NA
+CPD00553	2,3-Bis-O-(geranylgeranyl)-sn-glycero-1-phospho-serine	C20466
+CPD00138	2,3-Dimethylmalate	C02360
+CPD00176	2,4,6-trihydroxy-3-oxo-5-(sulfooxy)hexanoic acid	NA
+CPD00128	2,5-Dioxopentanoate	C00433
+CPD00184	2-[3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	NA
+CPD00296	2-amino-4-(2-aminophenyl)-4-hydroxybutanoic acid??	NA
+CPD00299	2-amino-6-[(4-amino-4-carboxybutanoyl)amino]heptanedioic acid	NA
+CPD00146	2-Aminoadipate 6-semialdehyde	C04076
+CPD00052	2-aminobutyric acid	C02356
+CPD00160	2-Aminomalonate semialdehyde	C11822
+CPD00286	2-Hydroxy-3-carboxybenzalpyruvate	C14095
+CPD00073	2-Hydroxy-3-methylbutyric acid	NA
+CPD00243	2-Hydroxyacetophenone	C07189
+CPD00241	2-Hydroxyquinoline	C06338
+CPD00149	2-Hydroxytridecane-1,2,3-tricarboxylate	C04655
+CPD00011	2-Ketobutyric acid	C00109
+CPD00114	2-Methyl-3-hydroxybutyric acid	NA
+CPD00113	2-Methyl-3-hydroxybutyric acid_2	NA
+CPD00115	2-Methyl-3-hydroxybutyric acid_3	NA
+CPD00167	2-O-(6-Phospho-alpha-mannosyl)-glycerate	C16699
+CPD00159	2-O-(alpha-Mannosyl)-glycerate	C11544
+CPD00135	2-Oxoglutaramate	C00940
+CPD00545	2-Succinylbenzoyl-CoA	C03160
+CPD00556	3-(1-amino-2-(4-(2-carboxyethyl)-5-((3-(2-carboxyethyl)-4-methyl-5-((4-methyl-2-oxo-3-vinyl-2H-pyrrol-5-yl)methylene)pyrrolidin-2-ylidene)methyl)-3-methyl-1H-pyrrol-2-yl)vinyl)-2-methylpent-3-enoic acid	NA
+CPD00180	3-(4-hydroxyphenyl)-2-sulfooxypropanoic acid	NA
+CPD00178	3-(4-sulfooxyphenyl)propanoic acid	NA
+CPD00230	3-(Pyrazol-1-yl)-alanine	C01162
+CPD00297	3,4,5-trihydroxy-6-(((4aR,6R,7R,7aR)-2-hydroxy-6-(2-hydroxy-4-iminopyrimidin-1(4H)-yl)-2-oxidotetrahydro-4H-furo[3,2-d][1,3,2]dioxaphosphinin-7-yl)oxy)tetrahydro-2H-pyran-2-carboxylic acid	NA
+CPD00173	3,4,5-trihydroxy-6-((2-(phosphonooxy)acryloyl)oxy)tetrahydro-2H-pyran-2-carboxylic acid	NA
+CPD00259	3,6-Diaminohexanoate	C01142
+CPD00150	3alpha,7alpha,12beta-Trihydroxy-5beta-cholanate	C04661
+CPD00240	3-Butynoic acid	C06144
+CPD00139	3-Chloro-alanine	C02635
+CPD00141	3-Chloro-alanine_2	C02635
+CPD00140	3-Chloro-alanine_3	C02635
+CPD00544	3-Dehydrosphinganine	C02934
+CPD00058	3-Hydorxy-3-methylglutaric acid	C03761
+CPD00040	3-Hydroxybutyric acid	C01089
+CPD00084	3-Hydroxypropanoic acid	C01013
+CPD00083	3-Hydroxypropanoic acid_2	C01013
+CPD00082	3-Hydroxypropanoic acid_3	C01013
+CPD00116	3-Hydroxyvaleric acid	NA
+CPD00117	3-Indolepropionic acid	NA
+CPD00056	3-Methyl-2-oxopentanoate	C03465
+CPD00213	3-Methylhistidine	C01152
+CPD00233	3-Methyloxyindole	C02366
+CPD00557	3-Oxo-5beta-Cholanoyl Glycine	NA
+CPD00063	3-Phenyllactic acid	C05607
+CPD00064	3-Phenylpropanoic acid	C05629
+CPD00177	3-sulfooxybutanoic acid	NA
+CPD00187	4-((6-carboxy-3,4,5-trihydroxytetrahydro-2H-pyran-2-yl)oxy)-2,3,4,5-tetrahydropyridine-2,6-dicarboxylic acid	NA
+CPD00183	4-(12-hydroxy-10,13-dimethyl-7-(oxidaneyl)-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)-N-(2-sulfoethyl)pentanimidic acid	NA
+CPD00261	4-(2-Carboxyphenyl)-2-oxobut-3-enoate	C01275
+CPD00242	4,5,7-Trihydroxyisoflavone	C06563
+CPD00142	4,5-Dioxopentanoate	C02800
+CPD00181	4-amino-5-Hydroxypentanoic acid	NA
+CPD00263	4-Guanidinobutanal	C02647
+CPD00264	4-Guanidinobutanal_2	C02647
+CPD00267	4-Guanidinobutanamide	C03078
+CPD00268	4-Guanidinobutanamide_2	C03078
+CPD00211	4-Guanidinobutyric acid	C01035
+CPD00170	4-Hydroxy-2,3,4,5-tetrahydrodipicolinate	C20258
+CPD00107	4-Hydroxymandelic acid	C11527
+CPD00163	4-Hydroxymethylcatechol	C14110
+CPD00292	4-Hydroxyphenylglycyl-arginine	C20910
+CPD00271	4-Imidazolone-5-propanoate	C03680
+CPD00272	4-Imidazolone-5-propanoate_2	C03680
+CPD00273	4-Imidazolone-5-propanoate_3	C03680
+CPD00284	4-Methylaminobutanal	C10974
+CPD00148	4'-Phosphopantothenoyl-cysteine	C04352
+CPD00035	4-Pyridoxic acid	C00847
+CPD00102	4-Vinylphenol	C05627
+CPD00554	5-(4-(2-carboxyethyl)-5-((3-(2-carboxyethyl)-5-((Z)-(5-hydroxy-4-methyl-3-vinyl-2H-pyrrol-2-ylidene)methyl)-4-methyl-1H-pyrrol-2-yl)methylene)-3-methylpyrrolidin-2-ylidene)-4-imino-3-methyl-2-vinylpent-2-enoic acid	NA
+CPD00143	5-Acetamidopentanoate	C03087
+CPD00027	5-Aminopentanoic acid	C00431
+CPD00220	5-Glutamylalanine	C03740
+CPD00275	5-Guanidino-2-oxopentanoate	C03771
+CPD00274	5-Guanidino-2-oxopentanoate_2	C03771
+CPD00161	5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate	C12248
+CPD00287	5-Hydroxyectoine	C16432
+CPD00269	5-Methylthio-ribose	C03089
+CPD00179	6-((5-(2,4-dihydroxypyrimidin-5-yl)-3-hydroxy-4-(sulfooxy)tetrahydrofuran-2-yl)methoxy)-3,4,5-trihydroxytetrahydro-2H-pyran-2-carboxylic acid	NA
+CPD00174	6-((5-(6-amino-2-hydroxy-9H-purin-9-yl)-4-hydroxy-2-(hydroxymethyl)tetrahydrofuran-3-yl)oxy)-3,4,5-trihydroxytetrahydro-2H-pyran-2-carboxylic acid	NA
+CPD00270	6-Amino-2-oxohexanoate	C03239
+CPD00245	6-Methyladenosine	NA
+CPD00246	Acetaminophen glucuronide	NA
+CPD00216	Acetylcarnitine	C02571
+CPD00074	Acetylglycine	NA
+CPD00538	Adenosine	C00212
+CPD00208	Alanylalanine	C00993
+CPD00293	Alanylglutamate	C20958
+CPD00357	Aldosterone	C01780
+CPD00043	Allantoin	C01551
+CPD00111	Allocholic Acid	C17737
+CPD00086	Allose	C01487
+CPD00088	Allose_2	C01487
+CPD00087	Allose_3	C01487
+CPD00278	alpha-D-Galactosyl-(1,1')-sn-glycerol 3-phosphate	C04703
+CPD00309	alpha-Ketocaproic acid	C00902
+CPD00310	alpha-Ketocaproic acid_2	C00902
+CPD00003	alpha-ketoglutarate	C00026
+CPD00015	Alpha-ketoisovaleric acid	C00141
+CPD00222	Alpha-N-Phenylacetyl-glutamine	C04148
+CPD00153	Amino-cyanobutanoate	C05715
+CPD00543	Anthraniloyl-CoA	C02247
+CPD00541	Arabinonate	C00545
+CPD00354	Arabinono-1,4-lactone	C01114
+CPD00029	Arabitol	C00532
+CPD00304	Arachidonic Acid (peroxide free)	C00219
+CPD00189	Arginine	C00062
+CPD00337	Aryl sulfate	C00850
+CPD00016	Asparagine	C00152
+CPD00318	Azelaic acid	C08261
+CPD00204	Betaine	C00719
+CPD00306	Bilirubin	C00486
+CPD00307	Bilirubin_2	C00486
+CPD00028	Biliverdin	C00500
+CPD00145	Bis(5'-adenosyl) pentaphosphate	C04058
+CPD00118	Butyl lactate	NA
+CPD00356	Caffeic Acid	C01197
+CPD00351	Camphor	C00808
+CPD00352	Camphor_2	C00808
+CPD00044	Capric acid	C01571
+CPD00065	Caprylic acid	C06423
+CPD00365	Car(10:0)	NA
+CPD00366	Car(10:1)	NA
+CPD00367	Car(10:2)	NA
+CPD00368	Car(11:0)	NA
+CPD00369	Car(11:1)	NA
+CPD00370	Car(12:0)	NA
+CPD00371	Car(12:1)	NA
+CPD00372	Car(12:2)	NA
+CPD00373	Car(13:0)	NA
+CPD00374	Car(13:1)	NA
+CPD00375	Car(14:0)	NA
+CPD00376	Car(14:1)	NA
+CPD00377	Car(14:2)	NA
+CPD00378	Car(14:3)	NA
+CPD00379	Car(15:0)	NA
+CPD00380	Car(16:1)	NA
+CPD00381	Car(16:2)	NA
+CPD00382	Car(17:0)	NA
+CPD00383	Car(18:1)	NA
+CPD00384	Car(18:3)	NA
+CPD00385	Car(20:0)	NA
+CPD00386	Car(20:3)	NA
+CPD00387	Car(20:4)	NA
+CPD00388	Car(22:0)	NA
+CPD00389	Car(24:0)	NA
+CPD00390	Car(24:1)	NA
+CPD00391	Car(26:0)	NA
+CPD00392	Car(26:1)	NA
+CPD00393	Car(5:0)	NA
+CPD00394	Car(6:0)	NA
+CPD00395	Car(8:0)	NA
+CPD00396	Car(8:1)	NA
+CPD00397	Car(9:0)	NA
+CPD00398	Car(9:1)	NA
+CPD00199	Carnitine	C00318
+CPD00251	CDP	C00112
+CPD00340	Cellobiose	C00185
+CPD00053	Chenodeoxycholate	C02528
+CPD00071	Cholesteryl sulfate	C18043
+CPD00032	Cholic acid	C00695
+CPD00253	Chorismate	C00251
+CPD00168	cis-9,10-Epoxystearic acid	C19418
+CPD00091	Citraconic acid	C02226
+CPD00092	Citraconic acid_2	C02226
+CPD00303	Citrate	C00158
+CPD00023	Citrulline	C00327
+CPD00359	Corticosterone	C02140
+CPD00360	Corticosterone_2	C02140
+CPD00348	Cortisol	C00735
+CPD00350	Cortisone	C00762
+CPD00247	Cotinine	NA
+CPD00033	Creatinine	C00791
+CPD00137	Cys-Gly	C01419
+CPD00131	Cystathionine	C00542
+CPD00202	Cystine	C00491
+CPD00129	Cytidine	C00475
+CPD00254	Cytidine_2	C00475
+CPD00201	Cytosine	C00380
+CPD00214	Dehydroandrosterone	C01227
+CPD00097	Dehydroisoandrosterone sulfate	C04555
+CPD00316	Deoxycholic acid	C04483
+CPD00358	Dethiobiotin	C01909
+CPD00349	Diacetyl	C00741
+CPD00353	Dihydrothymine	C00906
+CPD00210	Dimethylglycine	C01026
+CPD00364	Docosahexaenoic acid	C06429
+CPD00110	Docosatetraenoic acid	C16527
+CPD00054	Dodecanoic acid	C02679
+CPD00257	Dopaquinone	C00822
+CPD00197	EDTA	C00284
+CPD00119	Eicosenoic acid	NA
+CPD00120	Eicosenoic acid_2	NA
+CPD00320	Epinephrine	D00095
+CPD00399	Erucamide	NA
+CPD00400	Erucamide_2	NA
+CPD00067	Erucic acid	C08316
+CPD00103	Erythro-4-Hydroxyglutamic acid	C05947
+CPD00224	Flavone	C15608
+CPD00229	Formononetine	C00858
+CPD00051	Fructose	C02336
+CPD00038	Galactose	C00984
+CPD00031	Gentisic acid	C00628
+CPD00172	Glucaro-1,5-lactone	C20890
+CPD00017	Glucuronate	C00191
+CPD00002	Glutamate	C00025
+CPD00190	Glutamine	C00064
+CPD00280	Glutamylaminopropiononitrile	C06114
+CPD00133	Glutamylcysteine	C00669
+CPD00100	Glutamylglutamine	C05283
+CPD00401	Glutamylphenylalanine	NA
+CPD00090	Glyceraldehyde	C02154
+CPD00018	Glyceric acid	C00258
+CPD00203	Glycerophosphocholine	C00670
+CPD00062	Glycochenodeoxycholate	C05466
+CPD00338	Glycochenodeoxycholate 7-sulfate	C15559
+CPD00551	Glycochenodeoxycholate 7-sulfate_2	C15559
+CPD00049	Glycocholic acid	C01921
+CPD00060	Glycodeoxycholic acid	C05464
+CPD00078	Glycolate	C00160
+CPD00134	Gulonate	C00800
+CPD00085	Gulonic gamma-lactone	C01040
+CPD00075	Heptadecanoic acid	NA
+CPD00045	Hippuric acid	C01586
+CPD00262	Histidinal	C01929
+CPD00013	Histidine	C00135
+CPD00207	Histidinol	C00860
+CPD00231	Homoarginine	C01924
+CPD00232	Homoarginine_2	C01924
+CPD00289	Homophenylalanine	C17235
+CPD00020	Homoserine	C00263
+CPD00282	Homospermidine	C06366
+CPD00281	Homospermidine_2	C06366
+CPD00402	Homoveratric acid	NA
+CPD00548	Hordenine	C06199
+CPD00055	hydrocortisone 21-acetate	C02821
+CPD00555	Hydroxy-3-Oxo-5beta-Cholanoyl Glycine	NA
+CPD00099	Hydroxyacetone	C05235
+CPD00098	Hydroxyacetone_2	C05235
+CPD00317	Hydroxybutyric acid	C05984
+CPD00546	Hydroxydecanoyl-CoA	C05264
+CPD00076	Hydroxyisocaproic acid	NA
+CPD00057	Hydroxyphenyllactic acid	C03672
+CPD00041	Hydroxyproline	C01157
+CPD00019	Hypoxanthine	C00262
+CPD00336	IMP	C00130
+CPD00345	Indole	C00463
+CPD00344	Indole_2	C00463
+CPD00346	Indole_3	C00463
+CPD00132	Indole-3-acetaldehyde	C00637
+CPD00106	Indole-3-carboxaldehyde	C08493
+CPD00037	Indoleacetic acid	C00954
+CPD00403	Indoleacrylic acid	NA
+CPD00314	Indolelactic acid	C02043
+CPD00539	Indolepyruvate	C00331
+CPD00164	Indolylmethylthiohydroximoyl-cysteine	C16518
+CPD00321	Indoxyl sulfate	NA
+CPD00022	Inosine	C00294
+CPD00295	Inosine 5'-Sulfate	NA
+CPD00014	Inositol	C00137
+CPD00288	Isoglutamine	C16673
+CPD00026	Isoleucine	C00407
+CPD00166	Isoniazid pyruvate	C16624
+CPD00165	Isonicotinylglycine	C16623
+CPD00238	Isoxanthopterin	C03975
+CPD00047	Kynurenic acid	C01717
+CPD00200	Kynurenine	C00328
+CPD00042	Lactate	C01432
+CPD00012	Leucine	C00123
+CPD00312	Linoleic acid	C01595
+CPD00404	Linolenic acid	NA
+CPD00405	Linolenic acid_2	NA
+CPD00095	Lithocholic acid	C03990
+CPD00096	Lithocholic acid_2	C03990
+CPD00322	LPA(16:0)	NA
+CPD00323	LPA(18:0)	NA
+CPD00324	LPA(18:2)	NA
+CPD00406	LPC(14:0)	NA
+CPD00407	LPC(15:0)	NA
+CPD00408	LPC(16:0)	NA
+CPD00409	LPC(16:0)_2	NA
+CPD00410	LPC(16:1)	NA
+CPD00411	LPC(17:0)	NA
+CPD00412	LPC(17:1)	NA
+CPD00413	LPC(17:2)	NA
+CPD00414	LPC(18:0)	NA
+CPD00415	LPC(18:0)_2	NA
+CPD00416	LPC(18:1)	NA
+CPD00417	LPC(18:2)	NA
+CPD00418	LPC(18:3)	NA
+CPD00419	LPC(19:0)	NA
+CPD00420	LPC(20:1)	NA
+CPD00421	LPC(20:2)	NA
+CPD00422	LPC(20:3)	NA
+CPD00423	LPC(20:4)	NA
+CPD00424	LPC(20:5)	NA
+CPD00425	LPC(22:4)	NA
+CPD00426	LPC(22:5)	NA
+CPD00427	LPC(22:6)	NA
+CPD00428	LPC(O-16:0)	NA
+CPD00430	LPC(O-16:1)	NA
+CPD00429	LPC(O-16:1)_2	NA
+CPD00431	LPC(O-18:0)	NA
+CPD00432	LPC(O-18:1)	NA
+CPD00433	LPC(O-18:1)_2	NA
+CPD00434	LPE(16:0)	NA
+CPD00435	LPE(18:0)	NA
+CPD00436	LPE(18:1)	NA
+CPD00437	LPE(18:2)	NA
+CPD00438	LPE(18:3)	NA
+CPD00439	LPE(20:3)	NA
+CPD00440	LPE(20:4)	NA
+CPD00441	LPE(20:5)	NA
+CPD00442	LPE(22:5)	NA
+CPD00443	LPE(22:6)	NA
+CPD00444	LPE(O-18:2)	NA
+CPD00445	LPE(P-16:0)	NA
+CPD00446	LPE(P-18:0)	NA
+CPD00325	LPI(18:2)	NA
+CPD00326	LPI(20:4)	NA
+CPD00188	Lysine	C00047
+CPD00079	Malonic acid	C00383
+CPD00005	Methionine	C00073
+CPD00339	Methyl-5'-thioadenosine	C00170
+CPD00315	Methylmalonic acid	C02170
+CPD00248	Methyprylon	NA
+CPD00121	N-(2-Furoyl)glycine	NA
+CPD00223	N1-Methyl-2-pyridone-5-carboxamide	C05842
+CPD00151	N6-(delta2-Isopentenyl)-adenosine 5'-monophosphate	C04713
+CPD00221	N6,N6,N6-Trimethyllysine	C03793
+CPD00218	N6-Methyllysine	C02728
+CPD00077	N-Acetylalanine	NA
+CPD00285	N-Acetylaspartylglutamate	C12270
+CPD00291	N-Acetylaspartylglutamylglutamate	C20776
+CPD00290	N-Acetylbialaphos	C17951
+CPD00252	N-Acetyl-glucosamine	C00140
+CPD00081	N-Acetylglutamic acid	C00624
+CPD00158	N-Acetylisoniazid	C07585
+CPD00093	N-Acetyllysine	C02727
+CPD00021	N-Acetylneuraminic acid	C00270
+CPD00217	N-Acetylputrescine	C02714
+CPD00127	NAD+	C00003
+CPD00068	Nervonic acid	C08323
+CPD00219	NG,NG-dimethyl-arginine(ADMA)	C03626
+CPD00266	N-Glucosylnicotinate	C03003
+CPD00192	Nicotinamide	C00153
+CPD00155	Nicotinate ribonucleoside	C05841
+CPD00205	Nicotine	C00745
+CPD00162	Nicotinic acid adenine dinucleotide phosphate	C13051
+CPD00265	N-Methylalanine	C02721
+CPD00258	N-Methyl-glutamate	C01077
+CPD00122	N-Methylisoleucine	NA
+CPD00249	N-Methylproline	NA
+CPD00123	N-Methylthreonine	NA
+CPD00124	N-Methylvaline	NA
+CPD00362	Normetanephrine	C05589
+CPD00171	O-Carbamoyladenylate	C20684
+CPD00277	Octopine	C04137
+CPD00308	Oleic acid	C00712
+CPD00294	Ophthalmate	C21016
+CPD00301	Ornithine	C00077
+CPD00169	P1,P6-Bis(5'-adenosyl)hexaphosphate	C20190
+CPD00305	Palmitic acid	C00249
+CPD00361	Palmitoylcarnitine	C02990
+CPD00036	Pantothenate	C00864
+CPD00363	Pantothenol	C05944
+CPD00447	PC(16:0/16:0)	NA
+CPD00448	PC(18:0)	NA
+CPD00449	PC(22:2)	NA
+CPD00450	PC(25:1)	NA
+CPD00225	PC(32:0)	NA
+CPD00451	PC(32:1)	NA
+CPD00452	PC(33:5)	NA
+CPD00454	PC(34:1)	NA
+CPD00453	PC(34:1)_2	NA
+CPD00458	PC(34:1)_3	NA
+CPD00455	PC(34:1)_4	NA
+CPD00456	PC(34:1)_5	NA
+CPD00457	PC(34:1)_6	NA
+CPD00327	PC(34:2)	NA
+CPD00328	PC(34:2)_2	NA
+CPD00459	PC(34:2)_3	NA
+CPD00461	PC(34:2)_4	NA
+CPD00462	PC(34:2)_5	NA
+CPD00463	PC(34:2)_6	NA
+CPD00464	PC(34:2)_7	NA
+CPD00460	PC(34:2)_8	NA
+CPD00465	PC(34:6)	NA
+CPD00466	PC(35:5)	NA
+CPD00467	PC(36:1)	NA
+CPD00329	PC(36:2)	NA
+CPD00468	PC(36:2)_2	NA
+CPD00469	PC(36:2)_3	NA
+CPD00470	PC(36:2)_4	NA
+CPD00472	PC(36:3)	NA
+CPD00471	PC(36:3)_2	NA
+CPD00330	PC(36:4)	NA
+CPD00473	PC(36:4)_2	NA
+CPD00474	PC(36:5)	NA
+CPD00475	PC(38:3)	NA
+CPD00331	PC(38:4)	NA
+CPD00479	PC(38:6)	NA
+CPD00480	PC(38:6)_2	NA
+CPD00481	PC(38:6)_3	NA
+CPD00476	PC(38:6)_4	NA
+CPD00477	PC(38:6)_5	NA
+CPD00478	PC(38:6)_6	NA
+CPD00482	PC(38:6)_7	NA
+CPD00484	PC(40:6)	NA
+CPD00483	PC(40:6)_2	NA
+CPD00485	PC(40:7)	NA
+CPD00486	PC(42:10)	NA
+CPD00487	PC(42:6)	NA
+CPD00488	PC(42:9)	NA
+CPD00489	PC(42:9)_2	NA
+CPD00490	PC(42:9)_3	NA
+CPD00491	PC(O-18:2)	NA
+CPD00492	PC(O-20:2)	NA
+CPD00493	PC(O-30:2)	NA
+CPD00494	PC(O-30:3)	NA
+CPD00495	PC(O-33:3)	NA
+CPD00496	PC(O-38:4)	NA
+CPD00497	PC(O-38:6)	NA
+CPD00498	PC(O-38:6)_2	NA
+CPD00499	PC(O-38:7)	NA
+CPD00500	PC(O-40:7)	NA
+CPD00501	PC(O-40:7)_2	NA
+CPD00502	PC(O-42:8)	NA
+CPD00332	PC(P-18:0)	NA
+CPD00503	PC(P-19:0)	NA
+CPD00504	PC(P-20:0)	NA
+CPD00505	PC(P-34:4)	NA
+CPD00506	PC(P-36:3)	NA
+CPD00507	PC(P-36:4)	NA
+CPD00509	PC(P-38:4)	NA
+CPD00510	PC(P-38:4)_2	NA
+CPD00508	PC(P-38:4)_3	NA
+CPD00334	PE(36:2)	NA
+CPD00333	PE(36:2)_2	NA
+CPD00335	PE(38:4)	NA
+CPD00511	PE(38:6)	NA
+CPD00046	Pelargonic acid	C01601
+CPD00070	Pentadecanoic Acid	C16537
+CPD00239	Phenethylamine	C05332
+CPD00302	Phenol	C00146
+CPD00007	Phenylalanine	C00079
+CPD00347	Phosphorylcholine	C00588
+CPD00089	Phthalic acid	C01606
+CPD00154	Phycocyanobilin	C05786
+CPD00542	Phytanoyl-CoA	C02060
+CPD00156	Phytochromobilin	C05913
+CPD00343	Pipecolic acid	C00408
+CPD00072	pregnenolone sulfate	C18044
+CPD00191	Proline	C00148
+CPD00125	Proline-hydroxyproline	NA
+CPD00236	Propionylcarnitine	C03017
+CPD00050	Pseudouridine	C02067
+CPD00227	Pyridine	C00747
+CPD00228	Pyridine_2	C00747
+CPD00250	Pyridoxal phosphate	C00018
+CPD00048	Pyroglutamic acid	C01879
+CPD00080	Pyruvaldehyde	C00546
+CPD00001	Pyruvate	C00022
+CPD00196	Riboflavin	C00255
+CPD00105	Riluzole	C07937
+CPD00512	S1P(d18:1)	NA
+CPD00513	S1P(d18:2)	NA
+CPD00034	Salicylic acid	C00805
+CPD00341	Sarcosine	C00213
+CPD00004	Serine	C00065
+CPD00515	SM(d32:1)	NA
+CPD00514	SM(d32:1)_2	NA
+CPD00516	SM(d32:2)	NA
+CPD00518	SM(d33:1)	NA
+CPD00517	SM(d33:1)_2	NA
+CPD00519	SM(d34:0)	NA
+CPD00521	SM(d34:0)_2	NA
+CPD00520	SM(d34:0)_3	NA
+CPD00523	SM(d34:1)	NA
+CPD00526	SM(d34:1)_2	NA
+CPD00527	SM(d34:1)_3	NA
+CPD00528	SM(d34:1)_4	NA
+CPD00529	SM(d34:1)_5	NA
+CPD00525	SM(d34:1)_6	NA
+CPD00522	SM(d34:1)_7	NA
+CPD00530	SM(d34:1)_8	NA
+CPD00524	SM(d34:1)_9	NA
+CPD00531	SM(d36:2)	NA
+CPD00532	SM(d36:2)_2	NA
+CPD00533	SM(d38:5)	NA
+CPD00260	sn-Glycero-3-phospho-1-inositol	C01225
+CPD00206	Sphinganine	C00836
+CPD00355	Sphinganine 1-phosphate	C01120
+CPD00226	Sphingomyelin (36:0)	NA
+CPD00342	Sphingosine	C00319
+CPD00311	Stearic acid	C01530
+CPD00534	Stearoylcarnitine	NA
+CPD00136	Succinyl-homoserine	C01118
+CPD00009	Sucrose	C00089
+CPD00237	Targinine	C03884
+CPD00030	Tartaric acid	C00552
+CPD00195	Taurine	C00245
+CPD00061	Taurochenodeoxycholate	C05465
+CPD00059	Taurodeoxycholic acid	C05463
+CPD00157	Tetradecanoic acid	C06424
+CPD00101	Tetrahydrocorticosterone	C05476
+CPD00066	Theophylline	C07130
+CPD00144	threo-3-Methylaspartate	C03618
+CPD00313	Threonate	C01620
+CPD00194	Threonine	C00188
+CPD00215	Thyroxine	C01829
+CPD00039	Trehalose	C01083
+CPD00283	Triethanolamine	C06771
+CPD00209	Trigonelline	C01004
+CPD00006	Tryptophan	C00078
+CPD00540	Tyramine	C00483
+CPD00008	Tyrosine	C00082
+CPD00182	Tyrosine O-Sulfate	NA
+CPD00535	Ubiquinone (Q2)	NA
+CPD00537	Ubiquinone (Q2)_2	NA
+CPD00536	Ubiquinone (Q2)_3	NA
+CPD00010	Uracil	C00106
+CPD00024	Uric acid	C00366
+CPD00198	Uridine	C00299
+CPD00256	Urocanate	C00785
+CPD00104	Ursodeoxycholic acid	C07880
+CPD00126	Vaccenic acid	NA
+CPD00193	Valine	C00183
+CPD00025	Xanthine	C00385
+CPD00255	Xanthosine 5'-phosphate	C00655
+CPD00130	Xylonate	C00502
